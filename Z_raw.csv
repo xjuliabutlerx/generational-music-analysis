@@ -1,0 +1,150 @@
+album,artist,track_name,track_id,duration_ms,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,temp,time_signature
+My Beautiful Dark Twisted Fantasy,Kanye West,Dark Fantasy,spotify:track:7yNK27ZTpHew0c55VvIJgm,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+My Beautiful Dark Twisted Fantasy,Kanye West,Gorgeous,spotify:track:23SZWX2IaDnxmhFsSLvkG2,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+My Beautiful Dark Twisted Fantasy,Kanye West,POWER,spotify:track:2gZUPNdnz5Y45eiGxpHGSc,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+My Beautiful Dark Twisted Fantasy,Kanye West,All Of The Lights (Interlude),spotify:track:4D6TpthzUVNTjWQqfBW5Kb,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+My Beautiful Dark Twisted Fantasy,Kanye West,All Of The Lights,spotify:track:22L7bfCiAkJo5xGSQgmiIO,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+My Beautiful Dark Twisted Fantasy,Kanye West,Monster,spotify:track:1ZHYJ2Wwgxes4m8Ba88PeK,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+My Beautiful Dark Twisted Fantasy,Kanye West,So Appalled,spotify:track:6K07Ahf6V7CAQn0ikrOztl,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+My Beautiful Dark Twisted Fantasy,Kanye West,Devil In A New Dress,spotify:track:1UGD3lW3tDmgZfAVDh6w7r,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+My Beautiful Dark Twisted Fantasy,Kanye West,Runaway,spotify:track:3DK6m7It6Pw857FcQftMds,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+My Beautiful Dark Twisted Fantasy,Kanye West,Hell Of A Life,spotify:track:3rCNmRonlHN1TXQLcG3dSk,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+My Beautiful Dark Twisted Fantasy,Kanye West,Blame Game,spotify:track:4EndPA8b6FDWYp1RgsnLEB,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+My Beautiful Dark Twisted Fantasy,Kanye West,Lost In The World,spotify:track:2Im64pIz6m0EJKdUe6eZ8r,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+My Beautiful Dark Twisted Fantasy,Kanye West,Who Will Survive In America,spotify:track:4e5IPJxSGVWPsaxQzdRseN,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Lemonade,Beyoncé,Pray You Catch Me,spotify:track:7rLDARtJALM7QdiJDMXW7m,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Lemonade,Beyoncé,Hold Up,spotify:track:0rzNMzZsubFcXSEh7dnem7,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Lemonade,Beyoncé,Don't Hurt Yourself (feat. Jack White),spotify:track:78eouBKVRyhbSzJwChr6QM,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Lemonade,Beyoncé,Sorry,spotify:track:0lnIJmgcUpEpe4AZACjayW,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Lemonade,Beyoncé,6 Inch (feat. The Weeknd),spotify:track:0pxNyJJiL2zZZ5GgJ4JhsQ,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+Lemonade,Beyoncé,Daddy Lessons,spotify:track:71OvX5NNLrmz7rpq1ANTQn,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Lemonade,Beyoncé,Love Drought,spotify:track:2RQAG0wQt35UzAPEyVJFWN,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Lemonade,Beyoncé,Sandcastles,spotify:track:2FNPJWVdGxYhWaotd6rULS,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Lemonade,Beyoncé,Forward (feat. James Blake),spotify:track:2bOWJIYSbhwg2NMQq1QMYH,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Lemonade,Beyoncé,Freedom (feat. Kendrick Lamar),spotify:track:7aBxcRw77817BrkdPChAGY,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Lemonade,Beyoncé,All Night,spotify:track:7oAuqs6akGnPU3Tb00ZmyM,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+Lemonade,Beyoncé,Formation,spotify:track:6g0Orsxv6glTJCt4cHsRsQ,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Lemonade,Beyoncé,Sorry - Original Demo,spotify:track:6eR1N0EBHiDkGDzegX99d3,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+To Pimp A Butterfly,Kendrick Lamar,Wesley's Theory,spotify:track:7Ks4VCY1wFebnOdJrM13t6,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+To Pimp A Butterfly,Kendrick Lamar,For Free? - Interlude,spotify:track:75izAeHlGuOgA865CFDyIv,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+To Pimp A Butterfly,Kendrick Lamar,King Kunta,spotify:track:0N3W5peJUQtI4eyR6GJT5O,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+To Pimp A Butterfly,Kendrick Lamar,Institutionalized,spotify:track:4oFtLSgHyZPNYDCcANhTnO,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+To Pimp A Butterfly,Kendrick Lamar,These Walls,spotify:track:7uWVT3UkCAZyANvv0bdyQn,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+To Pimp A Butterfly,Kendrick Lamar,u,spotify:track:1bxEpNR75Hq3T2oF9AZjt8,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+To Pimp A Butterfly,Kendrick Lamar,Alright,spotify:track:3iVcZ5G6tvkXZkZKlMpIUs,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+To Pimp A Butterfly,Kendrick Lamar,For Sale? - Interlude,spotify:track:7unx2Rvsq8D0RfOLRXclTA,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+To Pimp A Butterfly,Kendrick Lamar,Momma,spotify:track:0CjJqkWOpIUXdem5hUcxAk,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+To Pimp A Butterfly,Kendrick Lamar,Hood Politics,spotify:track:2UOYzhusMTypF7oAQwksCj,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+To Pimp A Butterfly,Kendrick Lamar,How Much A Dollar Cost,spotify:track:4tQcyj5488alHT1ZgFduzn,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+To Pimp A Butterfly,Kendrick Lamar,Complexion (A Zulu Love),spotify:track:72hFOhhhnOJZnnp6uVOgPn,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+To Pimp A Butterfly,Kendrick Lamar,The Blacker The Berry,spotify:track:5Mtt6tZSZA9cXTHGSGpyh0,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+To Pimp A Butterfly,Kendrick Lamar,You Ain't Gotta Lie (Momma Said),spotify:track:7A3ETuOrieyx9KSF0sn0Zf,195987,0.25,0.215,8,-13.676,0,0.037,0.632,0.0717,0.401,0.0746,174.824,3
+To Pimp A Butterfly,Kendrick Lamar,i,spotify:track:3ODXRUPL44f04cCacwiCLC,221093,0.524,0.397,0,-11.936,1,0.405,0.745,0,0.521,0.552,80.744,4
+To Pimp A Butterfly,Kendrick Lamar,Mortal Man,spotify:track:1WT11QmhZutciEv1NsHt1R,233667,0.614,0.686,9,-6.483,0,0.21,0.0105,1.36e-06,0.184,0.645,136.537,4
+Red,Taylor Swift,Rockstar Made,spotify:track:3cWmqvMwVQKDigWLSZ3w9h,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Red,Taylor Swift,Go2DaMoon (feat. Kanye West),spotify:track:0F13K9dwYH2zpTWiR8d628,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Red,Taylor Swift,Stop Breathing,spotify:track:2lLG56qpLP3UbcLuzMvkWX,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Red,Taylor Swift,Beno!,spotify:track:4CYTQpr2jc4uBScYvpEK2w,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Red,Taylor Swift,JumpOutTheHouse,spotify:track:0cgD36xPIJBdKUNJRHYDgP,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+Red,Taylor Swift,M3tamorphosis (feat. Kid Cudi),spotify:track:7zLMYtNJcabv4h4wBnjNQI,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Red,Taylor Swift,Slay3r,spotify:track:1eMNW1HQjF1dbb4GtnmpaX,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Red,Taylor Swift,No Sl33p,spotify:track:6i6whmV36EJmxs5zFahMrb,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Red,Taylor Swift,New Tank,spotify:track:4txKMpsSfZRV6durPuHVq0,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Red,Taylor Swift,Teen X (feat. Future),spotify:track:5uYqmEN6TAAE8ss8YmprNV,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Red,Taylor Swift,Meh,spotify:track:15JRvf02KKGHKgC31jrpuh,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+Red,Taylor Swift,Vamp Anthem,spotify:track:4CzhtKifG867Lu5DNQVBSA,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Red,Taylor Swift,New N3on,spotify:track:7ejepEh5DJ79YI6owGRfkk,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Red,Taylor Swift,Control,spotify:track:78YTl0P96kBCBXUSzKoqAm,195987,0.25,0.215,8,-13.676,0,0.037,0.632,0.0717,0.401,0.0746,174.824,3
+Red,Taylor Swift,Punk Monk,spotify:track:5fSZXFOZfPVW9gvnnG4ZVW,221093,0.524,0.397,0,-11.936,1,0.405,0.745,0,0.521,0.552,80.744,4
+Red,Taylor Swift,On That Time,spotify:track:3dl8bSF08LQfCf4T6CCksf,233667,0.614,0.686,9,-6.483,0,0.21,0.0105,1.36e-06,0.184,0.645,136.537,4
+Red,Taylor Swift,King Vamp,spotify:track:2iqHcRoOfLl1fXCf1bGO0J,232560,0.775,0.598,2,-7.274,1,0.0535,0.00175,4.44e-06,0.253,0.356,129.988,4
+Red,Taylor Swift,Place,spotify:track:1Bg2CNZw6S4e9cGWPmi0uI,260440,0.516,0.637,6,-8.832,1,0.0632,0.0433,3.89e-06,0.11,0.324,138.011,4
+Red,Taylor Swift,Sky,spotify:track:29TPjc8wxfz4XMn21O7VsZ,287987,0.643,0.503,7,-8.37,1,0.216,0.273,0,0.349,0.598,90.886,4
+Red,Taylor Swift,Over,spotify:track:08dz3ygXyFur6bL7Au8u8J,237440,0.455,0.535,9,-10.602,0,0.0426,0.0209,0.64,0.126,0.216,157.01,4
+Red,Taylor Swift,ILoveUIHateU,spotify:track:1BpKJw4RZxaFB88NE5uxXf,182720,0.33,0.357,10,-10.171,1,0.0348,0.866,1.76e-05,0.19,0.101,84.119,3
+Red,Taylor Swift,Die4Guy,spotify:track:7rbalRuIx7sIXFHYTphE0n,79200,0.387,0.133,7,-15.633,0,0.0474,0.947,0.0591,0.107,0.0498,124.397,4
+Red,Taylor Swift,Not PLaying,spotify:track:03rcC8SVxCa9UdY5qgkITe,289760,0.437,0.803,2,-6.412,1,0.305,0.0376,0,0.683,0.406,84.378,4
+Red,Taylor Swift,F33l Lik3 Dyin,spotify:track:1xVVYE1ahLotRpppJViVzs,322000,0.574,0.573,11,-7.079,1,0.085,0.392,2.16e-05,0.0933,0.626,136.304,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,!!!!!!!,spotify:track:0rQtoQXQfwpDW0c7Fw1NeM,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,bad guy,spotify:track:2Fxmhks0bxGSBdJ92vM42m,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,xanny,spotify:track:4QIo4oxwzzafcBWkKjDpXY,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,you should see me in a crown,spotify:track:3XF5xLJHOQQRbWya6hBp7d,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,all the good girls go to hell,spotify:track:6IRdLKIyS4p7XNiP8r6rsx,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,wish you were gay,spotify:track:3Fj47GNK2kUF0uaEDgXLaD,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,when the party's over,spotify:track:43zdsphuZLzwA9k4DJhU0I,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,8,spotify:track:6X29iaaazwho3ab7GNue5r,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,my strange addiction,spotify:track:3Tc57t9l2O8FwQZtQOvPXK,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,bury a friend,spotify:track:4SSnFejRGlZikf02HLewEF,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,ilomilo,spotify:track:7qEKqBCD2vE5vIBsrUitpD,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,listen before i go,spotify:track:0tMSssfxAL2oV8Vri0mFHE,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,i love you,spotify:track:6CcJMwBtXByIz4zQLzFkKc,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,goodbye,spotify:track:3LgWsmilsrWXiPYQFRD0T7,195987,0.25,0.215,8,-13.676,0,0.037,0.632,0.0717,0.401,0.0746,174.824,3
+Scorpion,Drake,Survival,spotify:track:2yg9UN4eo5eMVJ7OB4RWj3,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Scorpion,Drake,Nonstop,spotify:track:0TlLq3lA83rQOYtrqBqSct,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Scorpion,Drake,Elevate,spotify:track:3szf2z1Cy1QMrtHrbn8rz9,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Scorpion,Drake,Emotionless,spotify:track:5Psnhdkyanjpgc2P8A5TSM,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Scorpion,Drake,God's Plan,spotify:track:6DCZcSspjsKoFjzjrWoCdn,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+Scorpion,Drake,I'm Upset,spotify:track:3qN5qMTKyEEmiTZD38BNTT,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Scorpion,Drake,8 Out Of 10,spotify:track:0zqy3ss4CwD6u4QPksS0nI,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Scorpion,Drake,Mob Ties,spotify:track:7rC5Pl8rQSX4myONQHYPBK,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Scorpion,Drake,Can’t Take A Joke,spotify:track:1dUHF4RyMmMTveJ0Rby6Xm,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Scorpion,Drake,Sandra’s Rose,spotify:track:6cblRiEGDRNZgowcm951R3,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Scorpion,Drake,Talk Up (feat. Jay-Z),spotify:track:4ksuI04WMvUnJbHQjgs3L5,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+Scorpion,Drake,Is There More,spotify:track:1Tnw0ItH1Macok8gblnPPd,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Scorpion,Drake,Peak,spotify:track:11L064movtyopGdLiX4sVg,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Scorpion,Drake,Summer Games,spotify:track:4HG1YiGBseVKzjyKcmAJen,195987,0.25,0.215,8,-13.676,0,0.037,0.632,0.0717,0.401,0.0746,174.824,3
+Scorpion,Drake,Jaded,spotify:track:4c2xt1trwYZpMqPWY35Xi9,221093,0.524,0.397,0,-11.936,1,0.405,0.745,0,0.521,0.552,80.744,4
+Scorpion,Drake,Nice For What,spotify:track:3CA9pLiwRIGtUBiMjbZmRw,233667,0.614,0.686,9,-6.483,0,0.21,0.0105,1.36e-06,0.184,0.645,136.537,4
+Scorpion,Drake,Finesse,spotify:track:2WP8G2pdddDmnh1xbfKBOI,232560,0.775,0.598,2,-7.274,1,0.0535,0.00175,4.44e-06,0.253,0.356,129.988,4
+Scorpion,Drake,Ratchet Happy Birthday,spotify:track:4SUwJA3eUVNHExxMPEUhQe,260440,0.516,0.637,6,-8.832,1,0.0632,0.0433,3.89e-06,0.11,0.324,138.011,4
+Scorpion,Drake,That’s How You Feel,spotify:track:41a7dZcq30Ss5kPMayWRV0,287987,0.643,0.503,7,-8.37,1,0.216,0.273,0,0.349,0.598,90.886,4
+Scorpion,Drake,Blue Tint,spotify:track:4n1bdaKwynQndm47x5HqWX,237440,0.455,0.535,9,-10.602,0,0.0426,0.0209,0.64,0.126,0.216,157.01,4
+Scorpion,Drake,In My Feelings,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,182720,0.33,0.357,10,-10.171,1,0.0348,0.866,1.76e-05,0.19,0.101,84.119,3
+Scorpion,Drake,Don’t Matter To Me (with Michael Jackson),spotify:track:6G8kHiVZ1jW7vHMPVRNZU0,79200,0.387,0.133,7,-15.633,0,0.0474,0.947,0.0591,0.107,0.0498,124.397,4
+Scorpion,Drake,After Dark (feat. Static Major & Ty Dolla $ign),spotify:track:3mvYQKm8h6M5K5h0nVPY9S,289760,0.437,0.803,2,-6.412,1,0.305,0.0376,0,0.683,0.406,84.378,4
+Scorpion,Drake,Final Fantasy,spotify:track:44Du2IM1bGY7dicmLfXbUs,322000,0.574,0.573,11,-7.079,1,0.085,0.392,2.16e-05,0.0933,0.626,136.304,4
+Scorpion,Drake,March 14,spotify:track:09lmraDvzBT3pUQ2rUtJzK,206080,0.896,0.621,5,-6.857,0,0.237,0.00532,0,0.196,0.818,121.966,4
+Melodrama,Lorde,Green Light,spotify:track:6ie2Bw3xLj2JcGowOlcMhb,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Melodrama,Lorde,Sober,spotify:track:7eElVgPcxDqmgGrSwVFI74,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Melodrama,Lorde,Homemade Dynamite,spotify:track:02oAUzv4M0ItuTDy2RT3IT,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Melodrama,Lorde,The Louvre,spotify:track:5q4BpnMrYEFzLO0dYODj6J,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Melodrama,Lorde,Liability,spotify:track:6Kkt27YmFyIFrcX3QXFi2o,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+Melodrama,Lorde,Hard Feelings/Loveless,spotify:track:1Dp7JGFNjvg8Nk0CtMCcnr,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Melodrama,Lorde,Sober II (Melodrama),spotify:track:54ucfuN596MU25jQD3KjCL,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Melodrama,Lorde,Writer In The Dark,spotify:track:193Dm5SqYy3hTSbuzxbwKc,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Melodrama,Lorde,Supercut,spotify:track:6K8VQ84MqhsoakN5MjrnVR,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Melodrama,Lorde,Liability (Reprise),spotify:track:6lFDB0BFDRV58qaQDX85jV,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Melodrama,Lorde,Perfect Places,spotify:track:7ARveOiD31w2Nq0n5FsSf8,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+21,Adele,Rolling in the Deep,spotify:track:1c8gk2PeTE04A1pIDH9YMk,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+21,Adele,Rumour Has It,spotify:track:2A73XBDBQgmdXO8VsXPWIs,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+21,Adele,Turning Tables,spotify:track:4oy98QoABnGKpvapDkI525,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+21,Adele,Don't You Remember,spotify:track:4RyjMERDcCJHTkFpXzgUw4,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+21,Adele,Set Fire to the Rain,spotify:track:73CMRj62VK8nUS4ezD2wvi,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+21,Adele,He Won't Go,spotify:track:3uVsdnIglL7aTjm8X08J0M,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+21,Adele,Take It All,spotify:track:08YJEcxGtYXwCGqXMZDiyQ,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+21,Adele,I'll Be Waiting,spotify:track:5AKAyMEL5LqCkafztPdBSI,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+21,Adele,One And Only,spotify:track:43dcCpx19I0R4zLr4KH1UC,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+21,Adele,Lovesong,spotify:track:7nm6DlSzzJTH1rk2e6EgJz,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+21,Adele,Someone Like You,spotify:track:1zwMYTA5nlNjZxYrvBB2pV,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+thank u next,Ariana Grande,imagine,spotify:track:39LmTF9RgyakzSYX8txrow,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+thank u next,Ariana Grande,needy,spotify:track:1TEL6MlSSVLSdhOSddidlJ,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+thank u next,Ariana Grande,NASA,spotify:track:4uTvPEr01pjTbZgl7jcKBD,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+thank u next,Ariana Grande,bloodline,spotify:track:2hloaUoRonYssMuqLCBLTX,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+thank u next,Ariana Grande,fake smile,spotify:track:3wFLWP0FcIqHK1wb1CPthQ,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+thank u next,Ariana Grande,bad idea,spotify:track:5Il6Oe7lr5XM7A0cWbVQtr,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+thank u next,Ariana Grande,make up,spotify:track:27356GVuMPFWiJSZCragoM,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+thank u next,Ariana Grande,ghostin,spotify:track:2vdBo4ALPYbHRUPKgtE5iC,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+thank u next,Ariana Grande,in my head,spotify:track:4T652DlATVHe0jdLKaN3Bw,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+thank u next,Ariana Grande,7 rings,spotify:track:6ocbgoVGwYJhOv1GgI9NsF,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+thank u next,Ariana Grande,thank u next,spotify:track:3e9HZxeyfWwjeyPAMmWSSQ,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3e-05,0.11,0.636,80.305,1
+thank u next,Ariana Grande,break up with your girlfriend i'm bored,spotify:track:4kV4N9D1iKVxx1KLvtTpjS,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+My World 2.0,Justin Bieber,Baby,spotify:track:6epn3r7S14KUqlReYr77hA,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+My World 2.0,Justin Bieber,Somebody To Love,spotify:track:3rLIv187BhjyweFe89SgLn,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+My World 2.0,Justin Bieber,Stuck In The Moment,spotify:track:1DyV9obL0pPibOjW5ufg15,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+My World 2.0,Justin Bieber,U Smile,spotify:track:6Xw2FLih8m5ItDbyP992HH,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+My World 2.0,Justin Bieber,Runaway Love,spotify:track:1xgN9KBVVoTNygpYjpXnvH,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,4
+My World 2.0,Justin Bieber,Never Let You Go,spotify:track:01BlGnXpLuC0BjgUxVYZFb,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+My World 2.0,Justin Bieber,Overboard,spotify:track:1tzkJMX3gNjnpcHdLD0pM3,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+My World 2.0,Justin Bieber,Eenie Meenie,spotify:track:75vEuMA15pb8JmgrGugHEs,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+My World 2.0,Justin Bieber,Up,spotify:track:7wj1Lb5ggzMWJ9TqZJ2dwo,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+My World 2.0,Justin Bieber,That Should Be Me,spotify:track:0aPZbnkMoWJaJ5CNVLCj8S,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4

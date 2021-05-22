@@ -1,0 +1,201 @@
+album,artist,track_name,track_id,duration_ms,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,temp,time_signature
+Nevermind,Nirvana,Smells Like Teen Spirit,spotify:track:5ghIJDpPoe3CfHMGu71E6T,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+Nevermind,Nirvana,In Bloom - Nevermind Version,spotify:track:30HCB1FoE77IfGRyNv4eFq,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+Nevermind,Nirvana,Come As You Are,spotify:track:4P5KoWXOxwuobLmHXLMobV,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Nevermind,Nirvana,Breed,spotify:track:5mJGLBNJM0GULqAoL5mb9C,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+Nevermind,Nirvana,Lithium,spotify:track:2YodwKJnbPyNKe8XXSE9V7,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Nevermind,Nirvana,Polly,spotify:track:3tlXDvaNrrOmdvG0XVUOcv,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Nevermind,Nirvana,Territorial Pissings,spotify:track:2jmVGWe4MYY1zAAzpFHHcC,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Nevermind,Nirvana,Drain You,spotify:track:5Ddlk6C2JVxb1SReZ6O1wk,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+Nevermind,Nirvana,Lounge Act,spotify:track:7glld4kxYHp61zIPtSVHNk,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+Nevermind,Nirvana,Stay Away,spotify:track:4l012k8ZcAdVbUvZ4kae5Q,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+Nevermind,Nirvana,On A Plain,spotify:track:651koV4RRMMX6NDbW1ElwP,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+Nevermind,Nirvana,Something In The Way,spotify:track:1nFtiJxYdhtFfFtfXBv06s,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Nevermind,Nirvana,Endless Nameless,spotify:track:0vNHCXmNzVa8h54SE3JDm7,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Ten,Pearl Jam,NI BIEN NI MAL,spotify:track:278kSqsZIiYp8p3QjYAqa8,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+Ten,Pearl Jam,200 Mph,spotify:track:5jGUJXnELDaDTgiRjD9lsg,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+Ten,Pearl Jam,¿Quien Tu Eres?,spotify:track:6kN06eEOblRAuWI0xUUS91,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Ten,Pearl Jam,Caro,spotify:track:6it15CsDlkqB7N4lF0C1qM,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+Ten,Pearl Jam,Tenemos Que Hablar,spotify:track:5VQpJ2AY2iMzrRZKgcvNjh,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Ten,Pearl Jam,Otra Noche en Miami,spotify:track:4vCAzANUWDE24URV6wQ4ra,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Ten,Pearl Jam,Ser Bichote,spotify:track:4UEuIEv9Wc3wtiWUplGJ7q,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Ten,Pearl Jam,Si Estuviésemos Juntos,spotify:track:35wvL50xvKpCHEJPxLOLPI,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+Ten,Pearl Jam,Solo de Mi,spotify:track:4uP3pUP18ennmz0tb3GphR,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+Ten,Pearl Jam,Cuando Perriabas,spotify:track:5mj8WVFcKdGA8p9HWGTSLc,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+Ten,Pearl Jam,La Romana,spotify:track:1khmgu0pveJbkbpbkyvcQv,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+Ten,Pearl Jam,Como Antes,spotify:track:69ZaPBHhRMRDjRpW1ivnOU,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Ten,Pearl Jam,RLNDT,spotify:track:6pZHZndlo57dPCYnvlYFOE,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Ten,Pearl Jam,Estamos Bien,spotify:track:2OWVCFTolecLiGZPquvWvT,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-05,0.273,0.337,128.028,4
+Ten,Pearl Jam,MIA,spotify:track:3gE4eQH3K83Sght0ZLvuBK,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+The Chronic,Dr. Dre,Za Intro,spotify:track:3ly55KcHynFmnLC4rIS1I9,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+The Chronic,Dr. Dre,Papercuts,spotify:track:7DuQR4z7LlwRwc8me77lQE,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+The Chronic,Dr. Dre,Petrified Life and the Twice Told Joke (Decrepit Bricks),spotify:track:6j6gfFkEN7i3bcK420MXY7,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+The Chronic,Dr. Dre,Make Out Club,spotify:track:1dAoX0xlJNHplf2XnajfyV,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+The Chronic,Dr. Dre,Taxi Driver,spotify:track:3pPRpc4h3EpfmPFlmRLa3w,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+The Chronic,Dr. Dre,So Long Friend,spotify:track:7aQ9c2MuMtqKIFWYQ3lkHn,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+The Chronic,Dr. Dre,Everyday's Forecast,spotify:track:76m0jeFQOPdhWWw8ajFtTk,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+The Chronic,Dr. Dre,Pillmatic,spotify:track:0PKJVwHrtTvzb1s5dLnQj9,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+The Chronic,Dr. Dre,Simple Livin',spotify:track:7yUjVFImNSJSWa5lKXcGsK,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+The Chronic,Dr. Dre,Cupid's Chokehold / Breakfast in America,spotify:track:2Lhdl74nwwVGOE2Gv35QuK,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+The Chronic,Dr. Dre,Faces in the Hall,spotify:track:1jQlUGewes2CPhjF1STyIV,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+The Chronic,Dr. Dre,Graduation Day,spotify:track:1TlrTt4I1cS2f5t2NHT4sf,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+The Chronic,Dr. Dre,Apollo 3-1-5,spotify:track:0h6ag2uagWHjZoJayuoVSa,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+The Chronic,Dr. Dre,Wejustfreestylin' Pt. 2,spotify:track:7vzSJHtCDbm7XohuWLX9yk,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-05,0.273,0.337,128.028,4
+The Chronic,Dr. Dre,To Bob Ross with Love,spotify:track:2sjUAoK4CfGP36I9tLiJVr,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+The Chronic,Dr. Dre,Papercuts (The Reason for the Lesions Remix by Mr. Dibbs),spotify:track:5I7c2f9tfZxy57wWWvPPX2,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58e-06,0.125,0.325,137.048,4
+The Chronic,Dr. Dre,Kid Nothing Boy vs. the Echo Factor,spotify:track:1tlr4UNSmIimhZPXoPH16l,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+The Chronic,Dr. Dre,Band Aids,spotify:track:7mSngvDYGZHLqIAdqXmWSK,224512,0.855,0.512,11,-8.165,1,0.0534,0.146,0.000854,0.107,0.144,146.075,4
+OK Computer,Radiohead,Airbag,spotify:track:7c378mlmubSu7NGkLFa4sN,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+OK Computer,Radiohead,Paranoid Android,spotify:track:6LgJvl0Xdtc73RJ1mmpotq,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+OK Computer,Radiohead,Subterranean Homesick Alien,spotify:track:2CVV8PtUYYsux8XOzWkCP0,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+OK Computer,Radiohead,Exit Music (For A Film),spotify:track:0z1o5L7HJx562xZSATcIpY,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+OK Computer,Radiohead,Let Down,spotify:track:2fuYa3Lx06QQJAm0MjztKr,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+OK Computer,Radiohead,Karma Police,spotify:track:63OQupATfueTdZMWTxW03A,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+OK Computer,Radiohead,Fitter Happier,spotify:track:6wnmRxEbwUK7WLyUtiRuT7,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+OK Computer,Radiohead,Electioneering,spotify:track:0gTRROuntlrPQ64W3J2Etv,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+OK Computer,Radiohead,Climbing Up the Walls,spotify:track:2PDQReEXBViVwkrbQ34vd7,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+OK Computer,Radiohead,No Surprises,spotify:track:10nyNJ6zNy2YVYLrcwLccB,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+OK Computer,Radiohead,Lucky,spotify:track:14xj58ZexBaEaHARb11Cqs,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+OK Computer,Radiohead,The Tourist,spotify:track:1UuaWKypSkIHxFZD03zw4m,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+The Battle Of Los Angeles,Rage Against the Machine,Testify,spotify:track:7lmeHLHBe4nmXzuXc0HDjk,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+The Battle Of Los Angeles,Rage Against the Machine,Guerrilla Radio,spotify:track:1wsRitfRRtWyEapl0q22o8,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+The Battle Of Los Angeles,Rage Against the Machine,Calm Like a Bomb,spotify:track:1hR0fIFK2qRG3f3RF70pb7,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+The Battle Of Los Angeles,Rage Against the Machine,Mic Check,spotify:track:2lbASgTSoDO7MTuLAXlTW0,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+The Battle Of Los Angeles,Rage Against the Machine,Sleep Now In the Fire,spotify:track:1MQTmpYOZ6fcMQc56Hdo7T,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+The Battle Of Los Angeles,Rage Against the Machine,Born of a Broken Man,spotify:track:2LXPNLSMAauNJfnC58lSqY,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+The Battle Of Los Angeles,Rage Against the Machine,Born As Ghosts,spotify:track:3moeHk8eIajvUEzVocXukf,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+The Battle Of Los Angeles,Rage Against the Machine,Maria,spotify:track:4llunZfVXv3NvUzXVB3VVL,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+The Battle Of Los Angeles,Rage Against the Machine,Voice of the Voiceless,spotify:track:21Mq0NzFoVRvOmLTOnJjng,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+The Battle Of Los Angeles,Rage Against the Machine,New Millennium Homes,spotify:track:6s2FgJbnnMwFTpWJZzvb6z,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+The Battle Of Los Angeles,Rage Against the Machine,Ashes In the Fall,spotify:track:7o2Razxnl33Jrgz4PpMYNa,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+The Battle Of Los Angeles,Rage Against the Machine,War Within a Breath,spotify:track:3Hxu3Ey1TV9mZ5XqMXckiS,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Sublime,Sublime,Garden Grove,spotify:track:5tFpkuwgFZQm3jv4PTX4VB,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+Sublime,Sublime,What I Got,spotify:track:3B4q6KbHbGV51HO3GznBFF,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+Sublime,Sublime,Wrong Way,spotify:track:2PdIo7ewQPuAsP99LVg9uy,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Sublime,Sublime,Same In The End,spotify:track:3kGt9uxpJzKTxwp2uJHrU5,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+Sublime,Sublime,April 29 1992 (Miami),spotify:track:2CLSHTGF4jYXx2RCz1h0dS,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Sublime,Sublime,Santeria,spotify:track:2hnMS47jN0etwvFPzYk11f,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Sublime,Sublime,Seed,spotify:track:2PkqXRMFpp3jDTbHQMIaEt,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Sublime,Sublime,Jailhouse,spotify:track:01ZoBkMJAxjPx5gQcNR7Yl,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+Sublime,Sublime,Pawn Shop,spotify:track:4DXrhZ4tF3BeVm2aLdhdKG,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+Sublime,Sublime,Paddle Out,spotify:track:1YF9KXxz9ZFwfe39wUoeeE,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+Sublime,Sublime,The Ballad Of Johnny Butt,spotify:track:1HR7HJpYDNK495Ei5FWSIM,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+Sublime,Sublime,Burritos,spotify:track:18bt6V3IWTCp68uk5xxdtz,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Sublime,Sublime,Under My Voodoo,spotify:track:650LnPjfwKIn1Lzwnmiscj,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Sublime,Sublime,Get Ready,spotify:track:1ZnEt1m6su6qBHXncpLt01,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-05,0.273,0.337,128.028,4
+Sublime,Sublime,Caress Me Down,spotify:track:2JKlf0IYz5oWsT3OCLyjpO,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Sublime,Sublime,What I Got - Reprise,spotify:track:4U81vDKgj0QyxtcVl8IKCu,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58e-06,0.125,0.325,137.048,4
+Sublime,Sublime,Doin' Time,spotify:track:4eamJr2k9YDH8j58RSTmSc,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,The Power of Equality,spotify:track:0eX5QY6o5cb9W72zVmWWjV,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,If You Have to Ask,spotify:track:2R6go62CuxqqX0w1TgXxes,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Breaking the Girl,spotify:track:0cG9ocYqYOIVtgiWTmTe3g,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Funky Monks,spotify:track:68uWKoPwSxYE6DVylRA1XI,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Suck My Kiss,spotify:track:0psB5QzGb4653K0uaPgEyh,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,I Could Have Lied,spotify:track:0NSbiBKXoODbsPwjSivfBr,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Mellowship Slinky in B Major,spotify:track:5TYQonY07iJP2ULhR4ptce,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,The Righteous & the Wicked,spotify:track:5ITOTuCOy6y4PB55CSZADE,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Give It Away,spotify:track:0uppYCG86ajpV2hSR3dJJ0,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Blood Sugar Sex Magik,spotify:track:4ddA4oHvhrGx196qF5ZyQe,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Under the Bridge,spotify:track:3d9DChrdc6BOeFsbrZ3Is0,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Naked in the Rain,spotify:track:6xid2NOIS1aqviPPe67OqF,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Apache Rose Peacock,spotify:track:3p3BfV7NeWCAHx9tSwsJEQ,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,The Greeting Song,spotify:track:5HYKskVhty99c7Txyydwmp,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-05,0.273,0.337,128.028,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,My Lovely Man,spotify:track:402sXCQikR6VV2x2265Jsm,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Sir Psycho Sexy,spotify:track:1J5ZXurCRQdFHWfOiFt12x,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58e-06,0.125,0.325,137.048,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,They're Red Hot,spotify:track:1jQ0EZPAY3HpBRgUev6X1Q,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Little Miss Lover - 2006 Remaster,spotify:track:1CNDe1BS7dKfUsYb5vm5rO,224512,0.855,0.512,11,-8.165,1,0.0534,0.146,0.000854,0.107,0.144,146.075,4
+Blood Sugar Sex Magik,Red Hot Chili Peppers,Castles Made of Sand - 2006 Remaster,spotify:track:7mUNyl16vX2OrKqMAuZJF9,233128,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-05,0.0958,0.297,88.661,4
+Tragic Kingdom,No Doubt,Spiderwebs,spotify:track:4ZD6SiaJi75smnel0d7jl3,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+Tragic Kingdom,No Doubt,Excuse Me Mr.,spotify:track:7E7UH5jsEw1vhiM01EQ5gL,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+Tragic Kingdom,No Doubt,Just A Girl,spotify:track:5lWRaa0fBxDE5yU91npPq7,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Tragic Kingdom,No Doubt,Happy Now?,spotify:track:0v6dwtqJG3vK3mqUU6Q1yR,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+Tragic Kingdom,No Doubt,Different People,spotify:track:6PM8yaNDDfXc0kHIMSuIKR,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Tragic Kingdom,No Doubt,Hey You,spotify:track:3eYt1hwUamWtOEXEsIVojS,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Tragic Kingdom,No Doubt,The Climb,spotify:track:2Ux8K31dr7EJUPcs7EVmtt,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Tragic Kingdom,No Doubt,Sixteen,spotify:track:6e4st0wnY9vIzPdnPNZ4e9,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+Tragic Kingdom,No Doubt,Sunday Morning,spotify:track:6yCjhDzcVIfxvTjBKhhn7P,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+Tragic Kingdom,No Doubt,Don't Speak,spotify:track:6urCAbunOQI4bLhmGpX7iS,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+Tragic Kingdom,No Doubt,You Can Do It,spotify:track:1mZpYgTHN7dzKBsQSrzVtP,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+Tragic Kingdom,No Doubt,World Go 'Round,spotify:track:3P59xKnHQV5HNKuMZkQB5z,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Tragic Kingdom,No Doubt,End It On This,spotify:track:4sMtNNGcMCgu4Hn8FaTVcG,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Tragic Kingdom,No Doubt,Tragic Kingdom,spotify:track:46g6lMl5cKrP82uTD623jB,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-05,0.273,0.337,128.028,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Mellon Collie And The Infinite Sadness - Remastered 2012,spotify:track:5LtIsKctHGXbE1M3U6g7qO,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Tonight - Tonight Remastered 2012,spotify:track:7bu0znpSbTks0O6I98ij0W,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Jellybelly - Remastered 2012,spotify:track:6912SIXb1G9ql3quOxeCaa,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Zero - Remastered 2012,spotify:track:4YFcGTdgmEuw8xTO4XrxbB,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Here Is No Why - Remastered 2012,spotify:track:5INe9EN6cNF6axQ4A4BQfy,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Bullet With Butterfly Wings - Remastered 2012,spotify:track:6GtX0jaNL8IjVQfrDBx81z,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,To Forgive - Remastered 2012,spotify:track:428dyogxbsqj9U5leQ9why,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,An Ode To No One - Remastered 2012,spotify:track:6W9nK2wPyJklgDVf0AQcPO,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Love - Remastered 2012,spotify:track:2rBp8ix2ieRutorlsmPf9K,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Cupid De Locke - Remastered 2012,spotify:track:7zwwvrJAWGjfc9wFD3bVzZ,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Galapogos - Remastered 2012,spotify:track:2yKrGPtIwsiwv5tGTDgpNd,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Muzzle - Remastered 2012,spotify:track:6UuGRkwfLwBAfmHktU9GNA,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Porcelina Of The Vast Oceans - Remastered 2012,spotify:track:7mNyAFramOVsGZxdRyz4KQ,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Take Me Down - Remastered 2012,spotify:track:72ZZqYFcpdIxC84EYsWjpP,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-05,0.273,0.337,128.028,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Where Boys Fear To Tread - Remastered 2012,spotify:track:7luW8OHN1fDFj6l0lDTViG,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Bodies - Remastered 2012,spotify:track:4A0f5CrcOYRVwihIQkcHdP,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58e-06,0.125,0.325,137.048,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Thirty-Three - Remastered 2012,spotify:track:1fPKWu8NKS1ZGHjFZ5QCAs,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,In The Arms Of Sleep - Remastered 2012,spotify:track:0DqjIXjwhDOKVl7ChheeIc,224512,0.855,0.512,11,-8.165,1,0.0534,0.146,0.000854,0.107,0.144,146.075,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,1979 - Remastered 2012,spotify:track:5QLHGv0DfpeXLNFo7SFEy1,233128,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-05,0.0958,0.297,88.661,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Tales Of A Scorched Earth - Remastered 2012,spotify:track:0i5zjBavIn1LsTsh9oh54d,193211,0.785,0.626,4,-8.03,0,0.0675,0.158,4.6e-06,0.181,0.183,154.946,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Thru The Eyes Of Ruby - Remastered 2012,spotify:track:5W8AYj6e6syodRPzPrJcrb,169248,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,0.158,171.854,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Stumbleine - Remastered 2012,spotify:track:4bbdwn07T9xWdZv8siAptT,197968,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-05,0.0778,0.15,179.972,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,X.Y.U. - Remastered 2012,spotify:track:3nnvMbieuZH3L3caIRdpjk,188654,0.787,0.705,0,-7.582,1,0.0695,0.137,1.06e-06,0.108,0.499,81.998,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,We Only Come Out At Night - Remastered 2012,spotify:track:4vkcU3UFjYsKuBibmYA3hL,300579,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Beautiful - Remastered 2012,spotify:track:3HJLGDGbW7TIVq3hGJz0W9,230578,0.767,0.379,0,-10.348,1,0.0385,0.668,0.000145,0.217,0.252,103.956,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Lily (My One And Only) - Remastered 2012,spotify:track:6gKUop4OJBuLrkSqRckUNU,284853,0.6,0.528,0,-6.554,1,0.0308,0.263,0,0.588,0.142,108.025,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,By Starlight - Remastered 2012,spotify:track:56z8HT2VyKL2nTg0Q3URPb,208080,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-06,0.107,0.439,119.883,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Farewell And Goodnight - Remastered 2012,spotify:track:1VZGj6BcHwbfLxxYlhk8kI,210368,0.816,0.538,6,-6.354,0,0.0617,0.0142,0.000496,0.099,0.156,97.054,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Tonight - Tonight Strings Alone Mix,spotify:track:2RV7txGGF5WqFYz9epbmMu,100374,0.521,0.691,9,-9.933,1,0.438,0.361,0.00332,0.361,0.457,91.582,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Methusela - Sadlands Demo,spotify:track:2E54gkwifDATVOmGfQY141,206840,0.711,0.8,7,-5.752,0,0.0482,0.00169,0,0.13,0.782,92.874,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,X.Y.U. - Take 11,spotify:track:0lQ5ayZZT7od5OnKMlWry0,293040,0.669,0.673,0,-6.295,1,0.184,0.0939,0,0.323,0.804,79.242,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Zero - Synth Mix,spotify:track:4ZNrLFAiIyaep5a2IjxkIT,283373,0.642,0.723,4,-6.849,1,0.145,0.085,0,0.109,0.578,88.418,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Feelium - Sandlands Demo,spotify:track:76QnFZoJo68WkSmqNG02Hs,119813,0.631,0.655,7,-6.895,1,0.0983,0.103,0,0.123,0.54,90.017,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Autumn Nocturne - Sadlands Demo,spotify:track:2QFrQV9VuecdYbo8Hf3K4G,74040,0.413,0.743,11,-9.477,1,0.244,0.909,0.00925,0.189,0.351,88.97,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Beautiful - Loop Version,spotify:track:6ehoCaLV3xQlAwUke4odxD,261533,0.707,0.779,7,-5.835,1,0.173,0.0776,0,0.376,0.548,88.339,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Ugly - Sadlands Demo,spotify:track:6LsvKn3bsJF3ho6FBOPVC7,191840,0.616,0.8,11,-6.565,0,0.216,0.515,0.00843,0.124,0.681,110.134,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Ascending Guitars - Sadlands Demo,spotify:track:44gab1WjFHd9aNp6fqTCLa,186453,0.681,0.848,2,-6.226,0,0.0593,0.00463,0.041,0.148,0.773,80.43,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,By Starlight - Flood Rough,spotify:track:2BsIFLvt5vQIQ5V8P31trO,243773,0.72,0.744,1,-6.938,0,0.12,0.237,0,0.255,0.619,78.953,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Medellia Of The Gray Skies - Take 1,spotify:track:2QvNHexljw86Sx88oiCuPg,253547,0.803,0.675,0,-7.658,1,0.155,0.0204,6.37e-06,0.0961,0.549,102.015,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Lover - Arrangement 1 Demo,spotify:track:4fNShDRVbB3tXStdgUGncB,104241,0.38,0.634,0,-8.866,1,0.0254,0.000111,0.855,0.101,0.195,152.908,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Thru The Eyes Of Ruby - Take 7,spotify:track:0YYo6TqKJKwmxQFkmQ4nAS,149173,0.599,0.786,2,-9.105,1,0.0409,0.0664,0.763,0.122,0.808,95.086,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,In The Arms Of Sleep - Early Live Demo,spotify:track:6LILlNhfxeFKPgTfv7SVRI,72640,0.833,0.731,10,-7.396,0,0.275,0.191,0,0.345,0.788,97.957,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Lily (My One And Only) - Sadlands Demo,spotify:track:67Sq7QVImnrYx3fsJjNCAo,158653,0.659,0.597,6,-7.521,0,0.16,0.168,0,0.353,0.964,92.63,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,1979 - Sadlands Demo,spotify:track:3F3cWAsRhYjqclBTQ6D6yD,226467,0.769,0.793,1,-5.478,1,0.346,0.149,0.00179,0.0514,0.777,93.099,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Glamey Glamey - Sadlands Demo,spotify:track:3Upc5EgrQBAvQ1YUuK2zuF,241627,0.656,0.779,2,-8.648,1,0.0823,0.274,2.88e-05,0.507,0.561,135.18,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Meladori Magpie - Remastered 2012,spotify:track:7JITVuGo4pQux1zxgX6mZ9,298200,0.47,0.000581,0,-10.23,0,0.161,0.843,0.000613,0.322,0.854,89.502,3
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Mellon Collie And The Infinite Sadness - Home Piano Version,spotify:track:5eRJIckZz8y09X3sIEdngU,287880,0.305,0.872,2,-7.313,1,0.0503,0.00786,0.8,0.261,0.648,167.959,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Galapagos - Instrumental/Sadlands Demo,spotify:track:5oYVxPifOLi4PccQyeYlJS,387213,0.251,0.848,5,-6.501,1,0.0579,0.0377,0.00591,0.0545,0.207,163.709,4
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,To Forgive - Sadlands Demo,spotify:track:5MuRE115QwB0YZVMW9LEgz,267693,0.312,0.595,0,-8.919,1,0.0298,0.0484,0.00139,0.103,0.337,150.502,3
+Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Bullet With Butterfly Wings - Sadlands Demo,spotify:track:3mTzw8eDuDda7v49fvsTkL,267187,0.293,0.276,4,-11.357,0,0.0349,0.224,0.122,0.167,0.195,121.603,4
+Out Of Time,R.E.M.,Radio Song,spotify:track:5UBeN0XvvIvnEjyp6uThr4,301920,0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,4
+Out Of Time,R.E.M.,Losing My Religion,spotify:track:31AOj9sFz2gM0O3hMARRBx,255080,0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044,4
+Out Of Time,R.E.M.,Low,spotify:track:1iJLyYspcbBW4oghhiFny0,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Out Of Time,R.E.M.,Near Wild Heaven,spotify:track:378HOooPNo6LRIfVHb15nW,184040,0.262,0.969,4,-4.675,1,0.0894,3.69e-06,0.00213,0.133,0.263,158.433,4
+Out Of Time,R.E.M.,Endgame,spotify:track:07k79SwfB5Ot1vze9qbCJi,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Out Of Time,R.E.M.,Shiny Happy People,spotify:track:1v2zyAJrChw5JnfafSkwkJ,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Out Of Time,R.E.M.,Belong,spotify:track:2RG3KoPJ4OUk9wR3rNsojK,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Out Of Time,R.E.M.,Half A World Away,spotify:track:0mglqLULsaV6sIYnQpXSY7,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,4
+Out Of Time,R.E.M.,Texarkana,spotify:track:7HiCcbCUj5KmyM1vsfIUlO,156427,0.341,0.964,11,-5.327,0,0.107,1.26e-05,0.000103,0.151,0.459,152.192,4
+Out Of Time,R.E.M.,Country Feedback,spotify:track:2H2V8zM6H5RUg8dXfIhpNf,211440,0.367,0.981,11,-5.1,0,0.128,5.39e-06,0.0461,0.0822,0.205,165.21,4
+Out Of Time,R.E.M.,Me In Honey,spotify:track:6MNzgVslfd54vz89uAMd7Q,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37e-06,0.141,0.358,133.26,4
+Out Of Time,R.E.M.,Losing My Religion 1 - Demo,spotify:track:0zILa08bYFsIrt9Bjd5nue,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Out Of Time,R.E.M.,Near Wild Heaven 1 - Demo,spotify:track:6vA5OJxuVZ94cd0yVjeuYy,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Out Of Time,R.E.M.,Shiny Happy People 1 - Demo,spotify:track:0HGKG0QVXHMllRuPWzVlpp,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85e-05,0.273,0.337,128.028,4
+Out Of Time,R.E.M.,Texarkana 1 - Demo,spotify:track:7Fj7dAyIe9DCEhiJ62yr0C,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Out Of Time,R.E.M.,Untitled Demo 2,spotify:track:7xEaMMUBMrJjlEFQQ96AuO,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58e-06,0.125,0.325,137.048,4
+Out Of Time,R.E.M.,Radio - Acoustic (Radio Song 1) - Demo,spotify:track:6GSAKdLuj7YRIHQ6ueCnbh,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Out Of Time,R.E.M.,Near Wild Heaven 2 - Demo,spotify:track:0TRtRnA5AxBCvTZ5VLw4ot,224512,0.855,0.512,11,-8.165,1,0.0534,0.146,0.000854,0.107,0.144,146.075,4
+Out Of Time,R.E.M.,Shiny Happy People 2 - Demo,spotify:track:1Bxo0fa8So7pzDhnEH1CCt,233128,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-05,0.0958,0.297,88.661,4
+Out Of Time,R.E.M.,Slow Sad Rocker (Endgame) - Demo,spotify:track:7AhwFRl0uUVSWnMsfbQAOy,193211,0.785,0.626,4,-8.03,0,0.0675,0.158,4.6e-06,0.181,0.183,154.946,4
+Out Of Time,R.E.M.,Radio – Band (Radio Song 3) - Demo,spotify:track:28AzPNK92xQnce016pB02e,169248,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,0.158,171.854,4
+Out Of Time,R.E.M.,Losing My Religion 2 - Demo,spotify:track:6F5x3QgA0TC6l0zsBfuzVG,197968,0.743,0.73,10,-4.314,0,0.125,0.287,8.1e-05,0.0778,0.15,179.972,4
+Out Of Time,R.E.M.,Belong - Demo,spotify:track:0vOQQQP1YNW5Ae9kb94rzf,188654,0.787,0.705,0,-7.582,1,0.0695,0.137,1.06e-06,0.108,0.499,81.998,4
+Out Of Time,R.E.M.,Blackbirds (Half A World Away) - Demo,spotify:track:07ong0BFwbAueSOTEdVSE3,300579,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,4
+Out Of Time,R.E.M.,Texarkana - Demo,spotify:track:66uHZu6QUzm0F4wV723FBa,230578,0.767,0.379,0,-10.348,1,0.0385,0.668,0.000145,0.217,0.252,103.956,4
+Out Of Time,R.E.M.,Country Feedback - Demo,spotify:track:3NgGMqo2wi8huwXWlJ9P5R,284853,0.6,0.528,0,-6.554,1,0.0308,0.263,0,0.588,0.142,108.025,4
+Out Of Time,R.E.M.,Me On Keyboard (Me In Honey) - Demo,spotify:track:7FY9NPJsWrI8mOvLhtAe0T,208080,0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-06,0.107,0.439,119.883,4
+Out Of Time,R.E.M.,Low - Demo,spotify:track:2UpByutmBNZ0Ja2vqZlUr8,210368,0.816,0.538,6,-6.354,0,0.0617,0.0142,0.000496,0.099,0.156,97.054,4
+Out Of Time,R.E.M.,40 Sec. (40 Second Song) - Demo,spotify:track:43y62UughskH0LmTHLpd6J,100374,0.521,0.691,9,-9.933,1,0.438,0.361,0.00332,0.361,0.457,91.582,4
+Out Of Time,R.E.M.,Fretless 1 - Demo,spotify:track:6Gu5s6TX9MMK9OpXMt73JL,206840,0.711,0.8,7,-5.752,0,0.0482,0.00169,0,0.13,0.782,92.874,4

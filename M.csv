@@ -1,0 +1,111 @@
+album,artist,track_name,track_id,duration_ms,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,temp,time_signature
+Oops!... I Did It Again,Britney Spears,Oops!...I Did It Again,spotify:track:6naxalmIoLFWR0siv8dnQQ,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+Oops!... I Did It Again,Britney Spears,Stronger,spotify:track:5QhBKPqsnX1uY9fZNaAtZg,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Oops!... I Did It Again,Britney Spears,Don't Go Knockin' on My Door,spotify:track:3HTkB9Nk04MJHkG0X6cL2R,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Oops!... I Did It Again,Britney Spears,(I Can't Get No) Satisfaction,spotify:track:23dIvJu0yfes1JRFut1NMQ,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+Oops!... I Did It Again,Britney Spears,Don't Let Me Be the Last to Know,spotify:track:3OitWDgR4SzAUOm3TBmvhw,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Oops!... I Did It Again,Britney Spears,What U See (Is What U Get),spotify:track:41cQPDvsP9vBCigVqQjnqg,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Oops!... I Did It Again,Britney Spears,Lucky,spotify:track:2TTYIwTM2iLC1YOyHuhRMt,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Oops!... I Did It Again,Britney Spears,One Kiss from You,spotify:track:5iW9Y4seDbBgIchT0ANY3q,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74e-06,0.379,0.674,93.993,4
+Oops!... I Did It Again,Britney Spears,Where Are You Now,spotify:track:4MOBPIIRUgHTBAp0NpgLTm,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Oops!... I Did It Again,Britney Spears,Can't Make You Love Me,spotify:track:7pY6xLJqmezJNG7VwuKVSH,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73e-05,0.149,0.868,108.016,4
+Oops!... I Did It Again,Britney Spears,When Your Eyes Say It,spotify:track:30hSG0Is8yOGkFQtF20Lxu,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Oops!... I Did It Again,Britney Spears,Dear Diary,spotify:track:1NmjzfxyAN9u5EaqHk1uIY,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Bleed American,Jimmy Eat World,Bleed American,spotify:track:61XspFITuKmAlYdQacNCbF,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+Bleed American,Jimmy Eat World,A Praise Chorus,spotify:track:0n7d3no0cHnsnkgfFzDuj4,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Bleed American,Jimmy Eat World,The Middle,spotify:track:6GG73Jik4jUlQCkKg9JuGO,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Bleed American,Jimmy Eat World,Your House,spotify:track:2AYVRHuzCRn0eZipEZX4EP,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+Bleed American,Jimmy Eat World,Sweetness,spotify:track:429IbFR4yp2J81CeTwF5iY,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Bleed American,Jimmy Eat World,Hear You Me,spotify:track:1TvNcWY7WwPLQINhimxycA,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Bleed American,Jimmy Eat World,If You Don't Don't,spotify:track:5prYdqVZFzoOBj33WFTdJu,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Bleed American,Jimmy Eat World,Get It Faster,spotify:track:07Bw7ACBw1xzhKpXrraskA,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74e-06,0.379,0.674,93.993,4
+Bleed American,Jimmy Eat World,Cautioners,spotify:track:7pyt9J4sp3cDgI0xkGrRiN,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Bleed American,Jimmy Eat World,The Authority Song,spotify:track:7gAw3OKcrfeRWOFxWs7wgK,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73e-05,0.149,0.868,108.016,4
+Bleed American,Jimmy Eat World,My Sundown,spotify:track:7Jxz80MpbvTsrW8EttiaY0,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Under My Skin,Avril Lavigne,Take Me Away,spotify:track:4e8HF8QcD4HlfgRT6TGDlO,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+Under My Skin,Avril Lavigne,Together,spotify:track:54ZydtdUOVRV78drWmJeII,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Under My Skin,Avril Lavigne,Don't Tell Me,spotify:track:0dEQaNYfp5G7Sflek2Qnde,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Under My Skin,Avril Lavigne,He Wasn't,spotify:track:0VRxqpFICUHJKuWx9sQrm6,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+Under My Skin,Avril Lavigne,How Does It Feel,spotify:track:7vTCIwHvCT3zMmtYBo0uff,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Under My Skin,Avril Lavigne,My Happy Ending,spotify:track:6sqNctd7MlJoKDOxPVCAvU,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Under My Skin,Avril Lavigne,Nobody's Home,spotify:track:0cZDC7uxNK8lqQ3GgyvCnD,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Under My Skin,Avril Lavigne,Forgotten,spotify:track:5tvMPInkVFU1YQJZnQzEEL,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74e-06,0.379,0.674,93.993,4
+Under My Skin,Avril Lavigne,Who Knows,spotify:track:6lUIEm45AdsmH3tpjRmqpU,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Under My Skin,Avril Lavigne,Fall To Pieces,spotify:track:396WOfbkqKaXYFwx6XjdOF,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73e-05,0.149,0.868,108.016,4
+Under My Skin,Avril Lavigne,Freak Out,spotify:track:4OGOs9wM85AnNrvSu95N0N,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Under My Skin,Avril Lavigne,Slipped Away,spotify:track:5AZhrTm9YUCOiA3Vl2hQji,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Under My Skin,Avril Lavigne,I Always Get What I Want,spotify:track:27Q0lsG2b9ESRSSJYPhxzp,181493,0.438,0.938,6,-5.611,0,0.094,0.00842,1.08e-06,0.806,0.584,160.212,4
+Enema Of The State,blink-182,Dumpweed,spotify:track:5SlKhaPcdIfSjpoM2QtM4C,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+Enema Of The State,blink-182,Don't Leave Me,spotify:track:1IAeSajljaXAkLZKXBZnE8,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Enema Of The State,blink-182,Aliens Exist,spotify:track:3nqm3DdVskqbHhmb8S8hMd,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Enema Of The State,blink-182,Going Away To College,spotify:track:4TofVhKSYwFXRtbYo5M3h4,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+Enema Of The State,blink-182,What's My Age Again?,spotify:track:4LJhJ6DQS7NwE7UKtvcM52,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Enema Of The State,blink-182,Dysentery Gary,spotify:track:0nGBoXoR5o9srQlP0BAZ1Y,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Enema Of The State,blink-182,Adam's Song,spotify:track:6xpDh0dXrkVp0Po1qrHUd8,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Enema Of The State,blink-182,All The Small Things,spotify:track:2m1hi0nfMR9vdGC8UcrnwU,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74e-06,0.379,0.674,93.993,4
+Enema Of The State,blink-182,The Party Song,spotify:track:3AOWD3Tiswm4tIvg3aQVKu,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Enema Of The State,blink-182,Mutt,spotify:track:3Q0yxw9mdycjnuORDvY5E6,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73e-05,0.149,0.868,108.016,4
+Enema Of The State,blink-182,Wendy Clear,spotify:track:0GvaNolz2vhHikR26yRLmv,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Enema Of The State,blink-182,Anthem,spotify:track:0k4jXQdPD1NkxQutE3IB1C,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Stripped,Christina Aguilera,Dance Monkey - Stripped Back,spotify:track:1ooBIqsmV1ocRldBZrvLPD,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+Stripped,Christina Aguilera,Dance Monkey,spotify:track:2XU0oxnq2qxCpomAAuJY8K,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Try This,P!nk,WHAT U CALL THAT,spotify:track:79bhY6Rl8q2VJRHAbWNCGl,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+Try This,P!nk,YOU TOO.,spotify:track:19JWugGPygaONjXtnUtjB5,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Try This,P!nk,LIKE A ROCKSTAR,spotify:track:1e5Zf1EU0TAitK207VOUY7,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Try This,P!nk,DEVILISH,spotify:track:2yi1xYIc58dUibi3iMvqWl,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+Try This,P!nk,GREENGREENGREEN,spotify:track:1ENRzsvaOA4iTw1ZUCRIW6,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Try This,P!nk,LUST,spotify:track:51t7nQOI35g07O0z4fflO1,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+American Idiot,Green Day,American Idiot,spotify:track:6nTiIhLmQ3FWhvrGafw2zj,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+American Idiot,Green Day,Jesus of Suburbia,spotify:track:58KPPL1AdLHMvR2O2PZejr,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+American Idiot,Green Day,Holiday / Boulevard of Broken Dreams,spotify:track:0MsrWnxQZxPAcov7c74sSo,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+American Idiot,Green Day,Are We the Waiting / St. Jimmy,spotify:track:5MqV2o7iLd0lNREZ7SYL05,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+American Idiot,Green Day,Give Me Novacaine / She's a Rebel,spotify:track:11I3KKHv7g2pXiuqRDabRA,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+American Idiot,Green Day,Extraordinary Girl / Letterbomb,spotify:track:3RBXNeUbe3X7ZBch00D2St,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+American Idiot,Green Day,Wake Me up When September Ends,spotify:track:3ZffCQKLFLUvYM59XKLbVm,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+American Idiot,Green Day,Homecoming,spotify:track:4wH29TM74O3788Kn1KzWuY,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74e-06,0.379,0.674,93.993,4
+American Idiot,Green Day,Whatsername,spotify:track:6CVWD0WRqwbR4HsiKHk1j3,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+The Eminem Show,Eminem,Curtains Up - Skit,spotify:track:0ttF21hZCPw2merE3GsHcP,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+The Eminem Show,Eminem,White America,spotify:track:15qrWkkYCfmtu1uRpGf48L,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+The Eminem Show,Eminem,Business,spotify:track:0x60P5taxdI5pcGbqbap6S,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+The Eminem Show,Eminem,Cleanin' Out My Closet,spotify:track:7BMO7O7ImjV8HNTH74Tshv,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+The Eminem Show,Eminem,Square Dance,spotify:track:27mgDrExPa3obPAYXd3yQg,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+The Eminem Show,Eminem,The Kiss - Skit,spotify:track:2J3CYFUn6eAuHz5S9IKape,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+The Eminem Show,Eminem,Soldier,spotify:track:5QD28FqaM3jTfsqWwvRZwv,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+The Eminem Show,Eminem,Say Goodbye Hollywood,spotify:track:288e3FhmVuCqPmNEfAH0h6,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74e-06,0.379,0.674,93.993,4
+The Eminem Show,Eminem,Drips,spotify:track:7io19rjxOFu3pGuZgBI6Pk,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+The Eminem Show,Eminem,Without Me,spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73e-05,0.149,0.868,108.016,4
+The Eminem Show,Eminem,Paul Rosenberg - Skit,spotify:track:0EgkVzDidmq4MP57jZFeik,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+The Eminem Show,Eminem,Sing For The Moment,spotify:track:3CpoeW0cZSDzIRv5z34F87,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+The Eminem Show,Eminem,Superman,spotify:track:4woTEX1wYOTGDqNXuavlRC,181493,0.438,0.938,6,-5.611,0,0.094,0.00842,1.08e-06,0.806,0.584,160.212,4
+The Eminem Show,Eminem,Hailie's Song,spotify:track:6Db8IlZ7YY1pfIjJllejyH,243507,0.461,0.936,9,-5.296,1,0.0678,0.0249,8.63e-06,0.222,0.484,184.184,4
+The Eminem Show,Eminem,Steve Berman - Skit,spotify:track:5ZxX55HFfi4aofGTxMp58x,165853,0.643,0.849,2,-5.428,1,0.0526,0.0371,0,0.058,0.903,162.152,4
+The Eminem Show,Eminem,When The Music Stops,spotify:track:73qINA7ccO03wxD8nsJalr,286147,0.547,0.769,2,-7.953,1,0.0297,0.014,6.3e-06,0.123,0.407,93.154,4
+The Eminem Show,Eminem,Say What You Say,spotify:track:4EQkcrSLF3QdlwNca7sMXY,220027,0.487,0.898,5,-4.436,1,0.038,0.00305,0,0.26,0.597,135.331,4
+The Eminem Show,Eminem,'Till I Collapse,spotify:track:4xkOaSrkexMciUUogZKVTS,284373,0.465,0.517,4,-6.189,1,0.0284,0.00854,0.0403,0.209,0.137,136.176,3
+The Eminem Show,Eminem,My Dad's Gone Crazy,spotify:track:3F14hbIqy1JKKLTb1mzdYV,273200,0.494,0.884,1,-5.541,1,0.0455,0.000244,0,0.143,0.265,140.314,4
+The Eminem Show,Eminem,Curtains Close,spotify:track:51LeDAMy6nWqKdjVo7jK4j,261933,0.65,0.641,10,-7.223,1,0.0347,0.0808,0.00397,0.408,0.387,118.229,4
+Backstreet Boys,Backstreet Boys,We've Got It Goin' On - Radio Edit,spotify:track:2rtDTRFjBoqyj2rgi5mOAF,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+Backstreet Boys,Backstreet Boys,Quit Playing Games (With My Heart),spotify:track:1nRwyxNsqCLeA17qR8Nfxx,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Backstreet Boys,Backstreet Boys,As Long as You Love Me,spotify:track:00WvmRXTkPBZNhhRK3xfdy,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Backstreet Boys,Backstreet Boys,Everybody (Backstreet's Back) - Extended Version,spotify:track:5WTxbyWTpoqhdxEN2szOnl,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+Backstreet Boys,Backstreet Boys,All I Have to Give,spotify:track:3hlhefxgyp4MDnN6C2dQ5H,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Backstreet Boys,Backstreet Boys,Anywhere for You,spotify:track:05sp2EySV6DXsKLeBnjaK0,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Backstreet Boys,Backstreet Boys,Hey Mr. DJ (Keep Playin' This Song),spotify:track:78U7NSrgfot4Ikkg6hHxpo,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Backstreet Boys,Backstreet Boys,I'll Never Break Your Heart,spotify:track:4lq4yY0y3XqDQZsx03ITaH,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74e-06,0.379,0.674,93.993,4
+Backstreet Boys,Backstreet Boys,Darlin',spotify:track:1xiZcrzUUtdy7kr2zp9zsu,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Backstreet Boys,Backstreet Boys,Get Down (You're the One for Me) - LP Edit No Rap,spotify:track:1btqbebzIS2IK0QkRUpShJ,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73e-05,0.149,0.868,108.016,4
+Backstreet Boys,Backstreet Boys,Set Adrift on Memory Bliss,spotify:track:2OxN6c91oihUezz1AAE7GX,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Backstreet Boys,Backstreet Boys,If You Want to Be a Good Girl (Get Yourself a Bad Boy),spotify:track:4PRlfsuWbWfVvU2RMZKp1R,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+From Under The Cork Tree,Fall Out Boy,Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued,spotify:track:73A0DxzMGDhVGsvHQSaaBq,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4
+From Under The Cork Tree,Fall Out Boy,Of All The Gin Joints In All The World,spotify:track:4304kbwhzhb8A3n6wl27Kg,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+From Under The Cork Tree,Fall Out Boy,Dance Dance,spotify:track:0a7BloCiNzLDD9qSQHh5m7,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+From Under The Cork Tree,Fall Out Boy,Sugar We're Goin Down,spotify:track:2TfSHkHiFO4gRztVIkggkE,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17e-05,0.173,0.659,110.001,4
+From Under The Cork Tree,Fall Out Boy,Nobody Puts Baby In The Corner,spotify:track:6HJzCcSMggn7Ultxs48dAe,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+From Under The Cork Tree,Fall Out Boy,I've Got A Dark Alley And A Bad Idea That Says You Should Shut Your Mouth (Summer Song),spotify:track:3DASPeFJXSIycNpbROhrAC,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+From Under The Cork Tree,Fall Out Boy,7 Minutes In Heaven (Atavan Halen),spotify:track:2erNwv0Yti7uirpIU8wbvv,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+From Under The Cork Tree,Fall Out Boy,Sophomore Slump Or Comeback Of The Year,spotify:track:1iir1dMidSGRzbPMCCEtfX,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74e-06,0.379,0.674,93.993,4
+From Under The Cork Tree,Fall Out Boy,Champagne For My Real Friends Real Pain For My Sham Friends,spotify:track:78A2FZKzGtkaIIlov5te9S,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+From Under The Cork Tree,Fall Out Boy,I Slept With Someone In Fall Out Boy And All I Got Was This Stupid Song Written About Me,spotify:track:79oQb66jALYYKX1hn4qs4p,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73e-05,0.149,0.868,108.016,4
+From Under The Cork Tree,Fall Out Boy,A Little Less Sixteen Candles A Little More "Touch Me",spotify:track:4pmU8AtVu9qU40Xd9zjEfA,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+From Under The Cork Tree,Fall Out Boy,Get Busy Living Or Get Busy Dying (Do Your Part To Save The Scene And Stop Going To Shows),spotify:track:4903HFfvLIQ8ujvQ0ARNGI,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+From Under The Cork Tree,Fall Out Boy,XO,spotify:track:4u2JQ1rzBirJVn6Ka2aQ5l,181493,0.438,0.938,6,-5.611,0,0.094,0.00842,1.08e-06,0.806,0.584,160.212,4

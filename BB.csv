@@ -1,0 +1,143 @@
+album,artist,track_name,track_id,duration_ms,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,temp,time_signature
+Highway 61 Revisited,Bob Dylan,Like a Rolling Stone,spotify:track:3AhXZa8sUQht0UEdBJgpGc,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Highway 61 Revisited,Bob Dylan,Tombstone Blues,spotify:track:5JqsRFZYDtIK5Rgeuzd2Jv,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Highway 61 Revisited,Bob Dylan,It Takes a Lot to Laugh - It Takes a Train to Cry,spotify:track:2yaf46YMxA5y6bzmWUKgXC,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Highway 61 Revisited,Bob Dylan,From a Buick 6,spotify:track:6txGFpco4cfgG1sA1MxLCp,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Highway 61 Revisited,Bob Dylan,Ballad of a Thin Man,spotify:track:0f5N14nB8xi0p3o4BlVvbx,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Highway 61 Revisited,Bob Dylan,Queen Jane Approximately,spotify:track:0c2DAekH6ZEnHhf8dM1leK,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Highway 61 Revisited,Bob Dylan,Highway 61 Revisited,spotify:track:6os5B6xjuke9YfBKH3tu1e,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Highway 61 Revisited,Bob Dylan,Just Like Tom Thumb's Blues,spotify:track:0V1771LhL3tG36pb55EZAH,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Highway 61 Revisited,Bob Dylan,Desolation Row,spotify:track:4n1ZGm3TxYmoYe1YR8cMus,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,spotify:track:4fUKE8EULjQdHF4zb0M8FO,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,With A Little Help From My Friends - Remastered 2009,spotify:track:2RnPATK99oGOZygnD2GTO6,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Lucy In The Sky With Diamonds - Remastered 2009,spotify:track:25yQPHgC35WNnnOUqFhgVR,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Getting Better - Remastered 2009,spotify:track:3LtOmWpTXLhilL5odoKysR,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Fixing A Hole - Remastered 2009,spotify:track:3pKKxkeB1pOUMHwWBmKc3Y,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,She's Leaving Home - Remastered 2009,spotify:track:3PjMtNzwhDHqxoKudm6GvF,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Being For The Benefit Of Mr. Kite! - Remastered 2009,spotify:track:6W35n1UlkvqhfMZstB4BXs,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Within You Without You - Remastered 2009,spotify:track:3Umg8CDhO8dOSj7yBTInYb,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,When I'm Sixty Four - Remastered 2009,spotify:track:1NrbnHlR2BFREcyWXHIHip,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Lovely Rita - Remastered 2009,spotify:track:6h9W5FxX4E9lUFsyq8j1AD,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Good Morning Good Morning - Remastered 2009,spotify:track:0xIuNHHcKI1JDuBPlSwzb1,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009,spotify:track:42ocGQCOT0xYtV3f5kJDsD,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,A Day In The Life - Remastered 2009,spotify:track:0hKRSZhUGEhKU6aNSPBACZ,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+What's Going On,Marvin Gaye,What's Going On,spotify:track:3Um9toULmYFGCpvaIPFw7l,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+What's Going On,Marvin Gaye,What's Happening Brother,spotify:track:4ihykcy9d9SSC5qxHIhPcf,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+What's Going On,Marvin Gaye,Flyin' High (In The Friendly Sky),spotify:track:0ycb2zVgjpzJU6PSXZGn34,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+What's Going On,Marvin Gaye,Save The Children,spotify:track:1RpoUhwpD8ZtpJhq41EU9k,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+What's Going On,Marvin Gaye,God Is Love,spotify:track:0osLiChas8MULX2V1Ak6Ji,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+What's Going On,Marvin Gaye,Mercy Mercy Me (The Ecology),spotify:track:3IDc87lrpEHWFBASmgTgFV,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+What's Going On,Marvin Gaye,Right On,spotify:track:3QSESroDjgnIp5dNGiBe6N,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+What's Going On,Marvin Gaye,Wholy Holy,spotify:track:4KyyKvKDgVYiwoGJOa0xVd,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+What's Going On,Marvin Gaye,Inner City Blues (Make Me Wanna Holler),spotify:track:5hReWjUHqPqkHi31G7izL4,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Tapestry,Carole King,I Feel the Earth Move,spotify:track:1BWsOxeMx83OrKGCV4gxly,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Tapestry,Carole King,So Far Away,spotify:track:4HHge4zAyIw3pkrtFzmwCl,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Tapestry,Carole King,It's Too Late,spotify:track:12q3V8ShACq2PSWINMc2rC,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Tapestry,Carole King,Home Again,spotify:track:1381rfnkAKhUeqP0J12kk3,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Tapestry,Carole King,Beautiful,spotify:track:4EGyc152dlYpuQZ47cRC8j,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Tapestry,Carole King,Way over Yonder,spotify:track:64lav7jWJqd5P4oWm4Ova6,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Tapestry,Carole King,You've Got a Friend,spotify:track:1qhp5owrFGeZ5Jgin28nwR,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Tapestry,Carole King,Where You Lead,spotify:track:0APt4t1Dab58sYmGQ4jgij,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Tapestry,Carole King,Will You Love Me Tomorrow?,spotify:track:7qVd0TKcUDUdVaUogsGm4H,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Tapestry,Carole King,Smackwater Jack,spotify:track:0PrW6YZOBGeukTkvJsSIV3,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Tapestry,Carole King,Tapestry,spotify:track:4kCS2MgX5dQFyqHy21MzJG,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Tapestry,Carole King,(You Make Me Feel Like) A Natural Woman,spotify:track:0LXljhKMUgoLv8tLwZ1hmf,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Led Zeppelin IV,Led Zeppelin,Black Dog - Remaster,spotify:track:3qT4bUD1MaWpGrTwcvguhb,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Led Zeppelin IV,Led Zeppelin,Rock and Roll - Remaster,spotify:track:4PRGxHpCpF2yoOHYKQIEwD,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Led Zeppelin IV,Led Zeppelin,The Battle of Evermore - Remaster,spotify:track:6MSoJM9UIFHozmBCduQRje,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Led Zeppelin IV,Led Zeppelin,Stairway to Heaven - Remaster,spotify:track:5CQ30WqJwcep0pYcV4AMNc,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Led Zeppelin IV,Led Zeppelin,Misty Mountain Hop - Remaster,spotify:track:5NnZ4JJxWiqqhYNu3rwmFj,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Led Zeppelin IV,Led Zeppelin,Four Sticks - Remaster,spotify:track:4Sc5qEOSFI5rfS9IDyu0GO,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Led Zeppelin IV,Led Zeppelin,Going to California - Remaster,spotify:track:70gbuMqwNBE2Y5rkQJE9By,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Led Zeppelin IV,Led Zeppelin,When the Levee Breaks - Remaster,spotify:track:05f8Hg3RSfiPSCBQOtxl3i,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Led Zeppelin IV,Led Zeppelin,Black Dog - Basic Track with Guitar Overdubs,spotify:track:59Zl5fFDhkGhFv0TGeyqbv,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Led Zeppelin IV,Led Zeppelin,Rock and Roll - Alternate Mix,spotify:track:35a7EjRYYLLyH4prB1zExl,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Led Zeppelin IV,Led Zeppelin,The Battle of Evermore - Mandolin / Guitar Mix from Headley Grange,spotify:track:3gyroWpKKzkVkOhLJ57Tv5,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Led Zeppelin IV,Led Zeppelin,Stairway to Heaven - Sunset Sound Mix,spotify:track:7llNWna9CEKr88Ng4vAwiI,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Led Zeppelin IV,Led Zeppelin,Misty Mountain Hop - Alternate Mix,spotify:track:05BTaDBhGylMDjupCczCwC,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Led Zeppelin IV,Led Zeppelin,Four Sticks - Alternate Mix,spotify:track:4Y4xWuvM7MKGKxECXfnKtV,156827,0.469,0.507,0,-8.917,0,0.0451,0.382,0,0.0783,0.619,112.984,4
+Led Zeppelin IV,Led Zeppelin,Going to California - Mandolin / Guitar Mix,spotify:track:7s2HYAN8PSba9OGqgTL7mo,215160,0.381,0.214,4,-11.629,1,0.0337,0.944,0,0.106,0.393,127.581,3
+Led Zeppelin IV,Led Zeppelin,When the Levee Breaks - Alternate UK Mix in Progress,spotify:track:1zLAyTaKUdiZSmOifuu2kv,157533,0.526,0.413,0,-9.865,1,0.0446,0.338,0,0.0992,0.71,111.874,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Rocks Off,spotify:track:1m8cwYJxSWNGxscZQOzQ7F,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Rip This Joint,spotify:track:5F5UNt3WBzmUJ3irvfAi8w,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Shake Your Hips,spotify:track:3JhfyWKIYR3opA4DpHxP1w,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Casino Boogie,spotify:track:4vUBoA4crmrgd97GH8j01B,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Tumbling Dice,spotify:track:6DjtOcS3xQO8LETk8O4qgE,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Sweet Virginia,spotify:track:3thuVspq7oLlgDE7d7HTqz,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Torn And Frayed,spotify:track:6dE1etqLwt5GUUBVQdIgBB,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Sweet Black Angel,spotify:track:4Cg8Nl5JjI4Df0AMbm18u7,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Loving Cup,spotify:track:34OzAaQeAWlFnZBSyUAtRh,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Happy,spotify:track:5fXRPS1tp70DbqsBZVyG4e,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Turd On The Run,spotify:track:3aZyQJSjtrzPXi670Dp7dN,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Ventilator Blues,spotify:track:4qI7G7K9MNbekIXmCI3m18,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Exile On Main Street (Deluxe Version),The Rolling Stones,I Just Want To See His Face,spotify:track:2s9SV3uTSdEf2Z3pSfou6d,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Let It Loose,spotify:track:7D2f7zoIwRxeIhmeer8aWm,156827,0.469,0.507,0,-8.917,0,0.0451,0.382,0,0.0783,0.619,112.984,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,All Down The Line,spotify:track:2tPYeRNVROwJpG7tOHXJTZ,215160,0.381,0.214,4,-11.629,1,0.0337,0.944,0,0.106,0.393,127.581,3
+Exile On Main Street (Deluxe Version),The Rolling Stones,Stop Breaking Down,spotify:track:30t7Yif8FyeCANkW2Beii3,157533,0.526,0.413,0,-9.865,1,0.0446,0.338,0,0.0992,0.71,111.874,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Shine A Light,spotify:track:2EH595eXhTlOp8BlcOX5Y4,304667,0.352,0.479,6,-9.965,1,0.0338,0.339,0.000353,0.486,0.354,126.166,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Soul Survivor,spotify:track:4A4dDKVaoruaFbgUJIufXk,157667,0.704,0.241,1,-13.258,1,0.0476,0.625,2.8E-05,0.0868,0.661,140.411,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Pass The Wine (Sophia Loren),spotify:track:0AhnC2WcLw6ZX1oXoD75gK,162093,0.61,0.471,8,-9.151,0,0.0261,0.0634,0,0.118,0.63,87.379,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Plundered My Soul,spotify:track:77JJtpB6aAxGI9jNTBVbWu,161227,0.542,0.618,2,-8.876,1,0.139,0.0858,0,0.772,0.93,121.849,3
+Exile On Main Street (Deluxe Version),The Rolling Stones,I'm Not Signifying,spotify:track:6RGzYkvUeDxTHPgvud1He8,79067,0.653,0.889,0,-8.006,1,0.0453,0.0061,0.589,0.892,0.879,118.773,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Following The River,spotify:track:5YBVKx51h8YouVHkpDM3A3,337413,0.364,0.457,4,-14.162,0,0.0675,0.29,0.000106,0.922,0.175,163.219,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Dancing In The Light,spotify:track:0c1g0H2Kky6iBg2WkjGaOI,233000,0.283,0.716,1,-9.632,0,0.0986,0.447,0,0.399,0.828,201.96,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,So Divine (Aladdin Story),spotify:track:0EHtgDgLhb44gcRb41p1AK,163680,0.461,0.672,5,-10.699,0,0.0401,0.565,0.313,0.239,0.701,97.651,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Loving Cup - Alternate Take,spotify:track:2skiGld2KxenMUceC79a30,229573,0.383,0.417,7,-12.155,0,0.0316,0.83,0.00154,0.2,0.584,109.319,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Soul Survivor - Alternate Take,spotify:track:7k1bo4ZVPHL3Ofu2Sqhyb2,243040,0.306,0.574,9,-10.632,0,0.0426,0.694,0.000112,0.713,0.537,106.342,3
+Exile On Main Street (Deluxe Version),The Rolling Stones,Good Time Women,spotify:track:1Y7a8V3ihh9zpmmiqJ3sue,101827,0.551,0.815,0,-9.631,0,0.0681,0.763,0,0.729,0.789,99.092,4
+Exile On Main Street (Deluxe Version),The Rolling Stones,Title 5,spotify:track:0L9upeBPGyAEVtJTeMS0NZ,193573,0.498,0.634,6,-12.16,0,0.0475,0.328,0.748,0.0962,0.515,93.161,4
+Innervisions,Stevie Wonder,Too High,spotify:track:60TB2Ifv7CCjjyROXXnChC,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Innervisions,Stevie Wonder,Visions,spotify:track:43LDXcy86qmEgfy6Wd2AZk,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Innervisions,Stevie Wonder,Living For The City,spotify:track:3qvuhGBr6BSdGPQsdf2gLr,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Innervisions,Stevie Wonder,Golden Lady,spotify:track:1bpaA5Pn4jlo1cRAOBNQnh,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Innervisions,Stevie Wonder,Higher Ground,spotify:track:0dMd4rilfd6gPbXaLpNYhu,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Innervisions,Stevie Wonder,Jesus Children Of America,spotify:track:0FKbjXqDqOqFnKZEHbHerY,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Innervisions,Stevie Wonder,All In Love Is Fair,spotify:track:7asmbWITwvuo1toSvoImnk,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Innervisions,Stevie Wonder,Don't You Worry 'Bout A Thing,spotify:track:1QvWxgZvTU0w8rlPRE5Zrv,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Innervisions,Stevie Wonder,He's Misstra Know-It-All,spotify:track:7sQ9eys8uVNrCsPyzYlDgG,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Take It Easy - 2013 Remaster,spotify:track:5kT9zYfbVQa2Dz1s2QJ7aw,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Witchy Woman - 2013 Remaster,spotify:track:1bNVtTNLgeOVgWUqBdXwyP,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Lyin' Eyes - 2013 Remaster,spotify:track:1MgDXY89MOoohMeaMoHaED,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Already Gone - 2013 Remaster,spotify:track:3skDOBrSq9FWtKDBFawLt0,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Desperado - 2013 Remaster,spotify:track:7CtHtpkGwE4JAhg7wsmAit,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,One of These Nights - 2013 Remaster,spotify:track:0EbLzgRAninN9VKUooiweR,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Tequila Sunrise - 2013 Remaster,spotify:track:5M9sPsOUhrBlw82xIzrTj4,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Take It to the Limit - 2013 Remaster,spotify:track:10QgpqUonnv6spY6CEYUIg,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Peaceful Easy Feeling - 2013 Remaster,spotify:track:7358RmiSV37br3RdwF3PNe,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,The Best of My Love - 2013 Remaster,spotify:track:1SygWpTusxfl3yhOspfXbH,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Exodus,Bob Marley & the Wailers,Natural Mystic,spotify:track:2gvyIHua7cS9L53NvHfa9c,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Exodus,Bob Marley & the Wailers,So Much Things To Say,spotify:track:4z62783TED1Rz0XOpBLOV7,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Exodus,Bob Marley & the Wailers,Guiltiness,spotify:track:6HrfowLOfZo2hy01Md494V,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Exodus,Bob Marley & the Wailers,The Heathen,spotify:track:3GlaUbcv4UvNR6bFLzAZJe,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Exodus,Bob Marley & the Wailers,Exodus,spotify:track:5nDPGDOqmAeSV4hXQsAU01,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Exodus,Bob Marley & the Wailers,Jamming,spotify:track:4zn0kScuV9Oj28d4g9CQQs,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Exodus,Bob Marley & the Wailers,Waiting In Vain,spotify:track:4Gq2ydMKhDZmctzkmk2bYo,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Exodus,Bob Marley & the Wailers,Turn Your Lights Down Low,spotify:track:5qX1QLYUgzhIdrjKUnRd3p,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Exodus,Bob Marley & the Wailers,Three Little Birds,spotify:track:6A9mKXlFRPMPem6ygQSt7z,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Exodus,Bob Marley & the Wailers,One Love / People Get Ready - Medley,spotify:track:2HcyIzVsX45jLIxK7SH2aI,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Exodus,Bob Marley & the Wailers,Roots,spotify:track:3gBayDLYifAkoGXGOSN8mD,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Exodus,Bob Marley & the Wailers,Waiting In Vain - Alternate Version,spotify:track:18nAHjKEvZ9s0aJkjPg79j,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Exodus,Bob Marley & the Wailers,Jamming - Long Version,spotify:track:1JD0IQb6UR5BJvRBg6hfTi,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Exodus,Bob Marley & the Wailers,Jammin',spotify:track:3nx9g7KqzEgLvvY32zgF0O,156827,0.469,0.507,0,-8.917,0,0.0451,0.382,0,0.0783,0.619,112.984,4
+Exodus,Bob Marley & the Wailers,Exodus - B-Side / Single Version,spotify:track:549XeLNUCJ2i1rGucL0rxY,215160,0.381,0.214,4,-11.629,1,0.0337,0.944,0,0.106,0.393,127.581,3
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",spotify:track:2xSXw1EqGSAKc1e4TPaQvV,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"How Deep Is Your Love - From ""Saturday Night Fever"" Soundtrack",spotify:track:0qp2BkreL7bxaFdc25VihQ,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"Night Fever - From ""Saturday Night Fever"" Soundtrack",spotify:track:0MEaPVD5sOZ17HhhjBZs3Z,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",spotify:track:3KfFrcJoCFXU2uFiO7XwTh,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"If I Can't Have You - From ""Saturday Night Fever""",spotify:track:074AR1n9TLRFUPJqYSvA7r,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,A Fifth Of Beethoven,spotify:track:1hR3TNe1neCWRQatSVOFfX,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,More Than A Woman,spotify:track:5ShjoIfQ2smGbEJmtZcnc0,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Manhattan Skyline,spotify:track:4r8aHCSHA98P1BYqvJN8kI,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Calypso Breakdown,spotify:track:3b1spTfHQuTNARogTNdEEg,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Night On Disco Mountain,spotify:track:28tBgzjteGWhCdaqLHnBCp,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Open Sesame,spotify:track:50x1irgeizXACZHBVjOwaQ,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"Jive Talkin' - From ""Saturday Night Fever"" Soundtrack",spotify:track:42JeTLyBwAsF1ZstI13ZYn,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"You Should Be Dancing - Edit / From ""Saturday Night Fever"" Soundtrack",spotify:track:7pzmpzvdtgIFKQz2vHbkOp,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Boogie Shoes,spotify:track:00rC38CxKlB12JUrFlTtdo,156827,0.469,0.507,0,-8.917,0,0.0451,0.382,0,0.0783,0.619,112.984,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Salsation,spotify:track:5Lh9kNx3ipZC5rcaUkzKqo,215160,0.381,0.214,4,-11.629,1,0.0337,0.944,0,0.106,0.393,127.581,3
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,K-Jee,spotify:track:5w23eYaDFKvK7RUTjkwQ56,157533,0.526,0.413,0,-9.865,1,0.0446,0.338,0,0.0992,0.71,111.874,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Disco Inferno,spotify:track:41770OEb7f3rWxhmdDGd0s,304667,0.352,0.479,6,-9.965,1,0.0338,0.339,0.000353,0.486,0.354,126.166,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Stayin’ Alive - Serban Mix,spotify:track:53PwxPLdWS1tsNgoAfxTv4,157667,0.704,0.241,1,-13.258,1,0.0476,0.625,2.8E-05,0.0868,0.661,140.411,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Night Fever - Serban Mix,spotify:track:7CD7yloFjtrD75PRbZwgUN,162093,0.61,0.471,8,-9.151,0,0.0261,0.0634,0,0.118,0.63,87.379,4
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,How Deep Is Your Love - Serban Mix,spotify:track:7hc7MTHJtzm3if3lFxqQoI,161227,0.542,0.618,2,-8.876,1,0.139,0.0858,0,0.772,0.93,121.849,3
+Saturday Night Fever (The Original Movie Soundtrack),Various Artists,You Should Be Dancing - Serban Mix,spotify:track:1kOobcwqi08IGUYFGnuM7o,79067,0.653,0.889,0,-8.006,1,0.0453,0.0061,0.589,0.892,0.879,118.773,4
