@@ -1,0 +1,527 @@
+
+R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin17.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[R.app GUI 1.73 (7892) x86_64-apple-darwin17.0]
+
+[Workspace restored from /Users/juliabutler/.RData]
+[History restored from /Users/juliabutler/.Rapp.history]
+
+> # Importing datasets
+> # BB - Baby Boomers
+> BB <- read.csv("/Users/juliabutler/Desktop/BB.csv")
+> # Generation X
+> X <- read.csv("/Users/juliabutler/Desktop/X.csv")
+> # Millennials (Generation Y)
+> M <- read.csv("/Users/juliabutler/Desktop/M.csv")
+> # Generation Z
+> Z <- read.csv("/Users/juliabutler/Desktop/Z.csv")
+> 
+> # According to the graph, acousticness is very high in the Baby Boomer music
+> # The generation with the second highest acousticness is Generation Z
+> t.test(BB$acousticness, Z$acousticness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  BB$acousticness and Z$acousticness
+t = 10.471, df = 288.48, p-value < 2.2e-16
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.2715965       Inf
+sample estimates:
+mean of x mean of y 
+0.5423232 0.2199162 
+
+> # Baby Boomer music is statistically more acoustic than any other generation
+> t.test(Z$acousticness, M$acousticness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$acousticness and M$acousticness
+t = 1.045, df = 253.35, p-value = 0.1485
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.01709439         Inf
+sample estimates:
+mean of x mean of y 
+0.2199162 0.1904299 
+
+> t.test(Z$acousticness, M$acousticness, var.equal = FALSE)
+
+	Welch Two Sample t-test
+
+data:  Z$acousticness and M$acousticness
+t = 1.045, df = 253.35, p-value = 0.297
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.0260805  0.0850531
+sample estimates:
+mean of x mean of y 
+0.2199162 0.1904299 
+
+> t.test(M$acousticness, X$acousticness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$acousticness and X$acousticness
+t = 0.54285, df = 303.94, p-value = 0.2938
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.02949252         Inf
+sample estimates:
+mean of x mean of y 
+0.1904299 0.1759678 
+
+> # The other three generations (Z, M, and X) do not differ from each other statistically in terms of acousticness.
+> 
+> # Millennial music has the highest danceability according to the graph. The generation with the second highest danceability is Generation X.
+> t.test(M$danceability, X$danceability, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$danceability and X$danceability
+t = 10.47, df = 305.45, p-value < 2.2e-16
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.1591251       Inf
+sample estimates:
+mean of x mean of y 
+0.7176545 0.5287650 
+
+> # Millennial music has statistically higher danceability than the other generations.
+> t.test(X$danceability, Z$danceability, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  X$danceability and Z$danceability
+t = 0.8666, df = 337.69, p-value = 0.1934
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.01353705         Inf
+sample estimates:
+mean of x mean of y 
+0.5287650 0.5137785 
+
+> t.test(Z$danceability, BB$danceability, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$danceability and BB$danceability
+t = 3.5625, df = 283.41, p-value = 0.0002154
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.02543049        Inf
+sample estimates:
+mean of x mean of y 
+0.5137785 0.4664014 
+
+> # Millennial music has the highest danceability. Generation X and Z music do not differ in terms of danceability, but they are statistically greater than Baby Boomer music.
+> 
+> # Generation Z and Baby Boomer music both seem to have songs longer in duration than other generations.
+> t.test(Z$duration, BB$duration, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$duration and BB$duration
+t = 1.7502, df = 279.58, p-value = 0.04059
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 1521.266      Inf
+sample estimates:
+mean of x mean of y 
+ 306824.8  280172.7 
+
+> # Generation Z does appear to like statistically longer songs than average than Baby Boombers.
+> t.test(BB$duration, M$duration, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  BB$duration and M$duration
+t = 4.7067, df = 160.19, p-value = 2.706e-06
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 36589.81      Inf
+sample estimates:
+mean of x mean of y 
+ 280172.7  223750.4 
+
+> t.test(M$duration, X$duration, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$duration and X$duration
+t = 0.7924, df = 307.51, p-value = 0.2144
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -4518.042       Inf
+sample estimates:
+mean of x mean of y 
+ 223750.4  219575.0 
+
+> # Generation Z music is statistically longer in duration than Baby Boomer music. Baby Boomer music is statistically longer in duration than both Generation X and Millennials. Generation X and Millennial music do not differ significantly in terms of duration.
+> 
+> # Millennials and Generation X music both tend to be higher in energy than Generation Z and Baby Boomer music.
+> t.test(M$energy, X$energy, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$energy and X$energy
+t = 0.33656, df = 268.28, p-value = 0.3684
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.03223246         Inf
+sample estimates:
+mean of x mean of y 
+0.7433636 0.7351079 
+
+> t.test(X$energy, Z$energy, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  X$energy and Z$energy
+t = 3.9087, df = 332.05, p-value = 5.624e-05
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.05503886        Inf
+sample estimates:
+mean of x mean of y 
+0.7351079 0.6398859 
+
+> t.test(Z$energy, BB$energy, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$energy and BB$energy
+t = 1.5385, df = 266.37, p-value = 0.06256
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.002455491          Inf
+sample estimates:
+mean of x mean of y 
+0.6398859 0.6061972 
+
+> # Millennial and Generation X music have roughly similar amounts of energy that is statistically greater than the amount of energy in Generation Z and Baby Boomer music.
+> 
+> # Instrumentalness varies greatly among these 4 generations. Generation X music appears to have the highest instrumentalness.
+> t.test(X$instrumentalness, Z$instrumentalness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  X$instrumentalness and Z$instrumentalness
+t = 1.3038, df = 345.05, p-value = 0.09659
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.006775274          Inf
+sample estimates:
+ mean of x  mean of y 
+0.07801554 0.05245108 
+
+> t.test(Z$instrumentalness, BB$instrumentalness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$instrumentalness and BB$instrumentalness
+t = 2.3397, df = 242.59, p-value = 0.01005
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.01075579        Inf
+sample estimates:
+ mean of x  mean of y 
+0.05245108 0.01590334 
+
+> t.test(BB$instrumentalness, M$instrumentalness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  BB$instrumentalness and M$instrumentalness
+t = 1.9008, df = 141.58, p-value = 0.02968
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.001989147         Inf
+sample estimates:
+   mean of x    mean of y 
+0.0159033415 0.0004801954 
+
+> # Generation X and Generation Z music do not differ from each other in terms of instrumentalness. However, Baby Boomer music is significantly lower in instrumentalness than Generation Z and higher in instrumentalness than Millennial music.
+> 
+> # Generation Z and Millennial music both seem to have similar liveness.
+> t.test(Z$liveness, M$liveness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$liveness and M$liveness
+t = 0.083457, df = 244.13, p-value = 0.4668
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.04606964         Inf
+sample estimates:
+mean of x mean of y 
+0.3628362 0.3603836 
+
+> t.test(M$liveness, BB$liveness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$liveness and BB$liveness
+t = 2.526, df = 226.07, p-value = 0.006111
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.0243768       Inf
+sample estimates:
+mean of x mean of y 
+0.3603836 0.2899620 
+
+> t.test(BB$liveness, X$liveness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  BB$liveness and X$liveness
+t = 7.3266, df = 179.24, p-value = 3.877e-12
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.1069082       Inf
+sample estimates:
+mean of x mean of y 
+0.2899620 0.1518965 
+
+> # Generation Z and Millennial music both have statistically similar liveness. Baby Boomer music liveness is lower than the two aforementioned generations' music, but is significantly higher than that of Generation X.
+> 
+> # Mode (major = 1 or minor = 0 keys) of popular music tends to lean major. Baby Boomer music tends to have more songs in major keys, followed by Millennials, Generation X, and Generation Z.
+> t.test(BB$mode, M$mode, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  BB$mode and M$mode
+t = 1.9409, df = 211.02, p-value = 0.0268
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.01512658        Inf
+sample estimates:
+mean of x mean of y 
+0.8380282 0.7363636 
+
+> t.test(M$mode, X$mode, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$mode and X$mode
+t = 3.4781, df = 248.3, p-value = 0.000298
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.1005259       Inf
+sample estimates:
+mean of x mean of y 
+0.7363636 0.5450000 
+
+> t.test(X$mode, Z$mode, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  X$mode and Z$mode
+t = 2.5269, df = 320.99, p-value = 0.005994
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.04707907        Inf
+sample estimates:
+mean of x mean of y 
+ 0.545000  0.409396 
+
+> # All four generations' music differ from each other statistically in terms of mode.
+> 
+> # Millennial music tends to have greater valence (or happiness) than all other generations.
+> t.test(M$valence, BB$valence, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$valence and BB$valence
+t = 4.0826, df = 162.06, p-value = 3.489e-05
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.05884181        Inf
+sample estimates:
+mean of x mean of y 
+0.6983091 0.5993803 
+
+> t.test(BB$valence, X$valence, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  BB$valence and X$valence
+t = 11.73, df = 329.36, p-value < 2.2e-16
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.1906634       Inf
+sample estimates:
+mean of x mean of y 
+0.5993803 0.3775180 
+
+> t.test(X$valence, Z$valence, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  X$valence and Z$valence
+t = 0.77189, df = 330.62, p-value = 0.2204
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.02001615         Inf
+sample estimates:
+mean of x mean of y 
+0.3775180 0.3599128 
+
+> # Millennial music has statistically greater valence on average than Baby Boomer music. Generation X and Generation Z music valence scores are both similar to each other and less than Baby Boomer music.
+> 
+> # Generation Z has the highest level of speechiness, followed by Generation X.
+> t.test(Z$speechiness, X$speechiness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$speechiness and X$speechiness
+t = 2.865, df = 259.58, p-value = 0.002255
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.01155846        Inf
+sample estimates:
+mean of x mean of y 
+0.1270349 0.0997635 
+
+> t.test(X$speechiness, M$speechiness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  X$speechiness and M$speechiness
+t = 10.119, df = 230.54, p-value < 2.2e-16
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.04489862        Inf
+sample estimates:
+ mean of x  mean of y 
+0.09976350 0.04610818 
+
+> t.test(M$speechiness, BB$speechiness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$speechiness and BB$speechiness
+t = 2.7013, df = 245.62, p-value = 0.003694
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.00217658        Inf
+sample estimates:
+ mean of x  mean of y 
+0.04610818 0.04050986 
+
+> # All of the generations have distinct levels of speechiness in their music. Generation Z has the highest, followed by Generation X, Millennials, and Baby Boomers.
+> 
+> # Lastly, all of the generations' music seem to be similar in terms of tempo, but Generation X appears to have the highest tempo on average.
+> t.test(X$tempo, Z$tempo, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  X$tempo and Z$tempo
+t = 6.174, df = 283.07, p-value = 1.151e-09
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 14.31963      Inf
+sample estimates:
+mean of x mean of y 
+ 133.7773  114.2339 
+
+> t.test(Z$tempo, M$tempo, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$tempo and M$tempo
+t = 1.0427, df = 250.99, p-value = 0.149
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -1.938947       Inf
+sample estimates:
+mean of x mean of y 
+ 114.2339  110.9101 
+
+> t.test(M$tempo, BB$tempo, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$tempo and BB$tempo
+t = 1.3135, df = 248.27, p-value = 0.09512
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -1.009842       Inf
+sample estimates:
+mean of x mean of y 
+ 110.9101  106.9803 
+
+> $ Generation X has songs with statistically faster tempo on average. Generation Z and Millennial music have similar tempos on average. Baby Boomer music has a slower tempo than all generations.
+Error: unexpected '$' in "$"
+> #
+> 
+> t.test(Z$tempo, BB$tempo, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$tempo and BB$tempo
+t = 2.0898, df = 287.33, p-value = 0.01876
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 1.525985      Inf
+sample estimates:
+mean of x mean of y 
+ 114.2339  106.9803 
+
+> # ^^ Generation Z music has statistically faster tempo than Baby Boomer music.
+> t.test(X$speechiness, BB$speechiness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  X$speechiness and BB$speechiness
+t = 11.179, df = 230.92, p-value < 2.2e-16
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.05050002        Inf
+sample estimates:
+ mean of x  mean of y 
+0.09976350 0.04050986 
+
+> t.test(M$danceability, X$danceability, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  M$danceability and X$danceability
+t = 10.47, df = 305.45, p-value < 2.2e-16
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ 0.1591251       Inf
+sample estimates:
+mean of x mean of y 
+0.7176545 0.5287650 
+
+> t.test(Z$acousticness, X$acousticness, var.equal = FALSE, alternative = "greater")
+
+	Welch Two Sample t-test
+
+data:  Z$acousticness and X$acousticness
+t = 1.445, df = 327.66, p-value = 0.07471
+alternative hypothesis: true difference in means is greater than 0
+95 percent confidence interval:
+ -0.006220432          Inf
+sample estimates:
+mean of x mean of y 
+0.2199162 0.1759678 
+
+> 
