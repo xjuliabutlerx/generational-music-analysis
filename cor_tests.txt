@@ -31,74 +31,7 @@ Type 'q()' to quit R.
 > M <- read.csv("/Users/juliabutler/Desktop/M.csv")
 > # Generation Z
 > Z <- read.csv("/Users/juliabutler/Desktop/Z.csv")
-> 
-> # Is valence tied to mode?
-> cor.test(BB$mode, BB$valence, alternative = "greater")
-
-	Pearson's product-moment correlation
-
-data:  BB$mode and BB$valence
-t = 1.6571, df = 140, p-value = 0.04987
-alternative hypothesis: true correlation is greater than 0
-95 percent confidence interval:
- 8.512795e-05 1.000000e+00
-sample estimates:
-   cor 
-0.1387 
-
-> cor.test(X$mode, X$valence, alternative = "greater")
-
-	Pearson's product-moment correlation
-
-data:  X$mode and X$valence
-t = -1.8013, df = 198, p-value = 0.9634
-alternative hypothesis: true correlation is greater than 0
-95 percent confidence interval:
- -0.2400804  1.0000000
-sample estimates:
-       cor 
--0.1269793 
-
-> cor.test(M$mode, M$valence, alternative = "greater")
-
-	Pearson's product-moment correlation
-
-data:  M$mode and M$valence
-t = -5.0499, df = 108, p-value = 1
-alternative hypothesis: true correlation is greater than 0
-95 percent confidence interval:
- -0.5563996  1.0000000
-sample estimates:
-       cor 
--0.4370587 
-
-> cor.test(M$mode, M$valence, alternative = "less")
-
-	Pearson's product-moment correlation
-
-data:  M$mode and M$valence
-t = -5.0499, df = 108, p-value = 9.035e-07
-alternative hypothesis: true correlation is less than 0
-95 percent confidence interval:
- -1.0000000 -0.3000505
-sample estimates:
-       cor 
--0.4370587 
-
-> cor.test(Z$mode, Z$valence, alternative = "greater")
-
-	Pearson's product-moment correlation
-
-data:  Z$mode and Z$valence
-t = -0.39399, df = 147, p-value = 0.6529
-alternative hypothesis: true correlation is greater than 0
-95 percent confidence interval:
- -0.1670394  1.0000000
-sample estimates:
-        cor 
--0.03247901 
-
-> 
+>
 > # Is valence tied to tempo?
 > cor.test(BB$tempo, BB$valence, alternative = "greater")
 
@@ -110,8 +43,8 @@ alternative hypothesis: true correlation is greater than 0
 95 percent confidence interval:
  0.1445407 1.0000000
 sample estimates:
-      cor 
-0.2775954 
+      cor
+0.2775954
 
 > cor.test(X$tempo, X$valence, alternative = "greater")
 
@@ -123,8 +56,8 @@ alternative hypothesis: true correlation is greater than 0
 95 percent confidence interval:
  -0.4339499  1.0000000
 sample estimates:
-       cor 
--0.3342114 
+       cor
+-0.3342114
 
 > cor.test(X$tempo, X$valence, alternative = "less")
 
@@ -136,8 +69,8 @@ alternative hypothesis: true correlation is less than 0
 95 percent confidence interval:
  -1.0000000 -0.2263802
 sample estimates:
-       cor 
--0.3342114 
+       cor
+-0.3342114
 
 > cor.test(M$tempo, M$valence, alternative = "greater")
 
@@ -149,8 +82,8 @@ alternative hypothesis: true correlation is greater than 0
 95 percent confidence interval:
  -0.4978188  1.0000000
 sample estimates:
-       cor 
--0.3691063 
+       cor
+-0.3691063
 
 > cor.test(M$tempo, M$valence, alternative = "less")
 
@@ -162,8 +95,8 @@ alternative hypothesis: true correlation is less than 0
 95 percent confidence interval:
  -1.0000000 -0.2244849
 sample estimates:
-       cor 
--0.3691063 
+       cor
+-0.3691063
 
 > cor.test(Z$tempo, Z$valence, alternative = "greater")
 
@@ -175,10 +108,10 @@ alternative hypothesis: true correlation is greater than 0
 95 percent confidence interval:
  -0.1009505  1.0000000
 sample estimates:
-       cor 
-0.03481944 
+       cor
+0.03481944
 
-> 
+>
 > # Is danceability tied to tempo?
 > cor.test(BB$tempo, BB$danceability, alternative = "greater")
 
@@ -190,8 +123,8 @@ alternative hypothesis: true correlation is greater than 0
 95 percent confidence interval:
  -0.3575839  1.0000000
 sample estimates:
-       cor 
--0.2303871 
+       cor
+-0.2303871
 
 > cor.test(BB$tempo, BB$danceability, alternative = "less")
 
@@ -203,8 +136,8 @@ alternative hypothesis: true correlation is less than 0
 95 percent confidence interval:
  -1.00000000 -0.09479803
 sample estimates:
-       cor 
--0.2303871 
+       cor
+-0.2303871
 
 > cor.test(X$tempo, X$danceability, alternative = "greater")
 
@@ -216,8 +149,8 @@ alternative hypothesis: true correlation is greater than 0
 95 percent confidence interval:
  -0.457042  1.000000
 sample estimates:
-       cor 
--0.3595551 
+       cor
+-0.3595551
 
 > cor.test(X$tempo, X$danceability, alternative = "less")
 
@@ -229,8 +162,8 @@ alternative hypothesis: true correlation is less than 0
 95 percent confidence interval:
  -1.0000000 -0.2535321
 sample estimates:
-       cor 
--0.3595551 
+       cor
+-0.3595551
 
 > cor.test(M$tempo, M$danceability, alternative = "less")
 
@@ -242,8 +175,8 @@ alternative hypothesis: true correlation is less than 0
 95 percent confidence interval:
  -1.000000 -0.544991
 sample estimates:
-       cor 
--0.6470702 
+       cor
+-0.6470702
 
 > cor.test(Z$tempo, Z$danceability, alternative = "less")
 
@@ -255,8 +188,8 @@ alternative hypothesis: true correlation is less than 0
 95 percent confidence interval:
  -1.0000000  0.0964422
 sample estimates:
-        cor 
--0.03936581 
+        cor
+-0.03936581
 
 > cor.test(Z$tempo, Z$danceability, alternative = "greater")
 
@@ -268,7 +201,7 @@ alternative hypothesis: true correlation is greater than 0
 95 percent confidence interval:
  -0.1737349  1.0000000
 sample estimates:
-        cor 
--0.03936581 
+        cor
+-0.03936581
 
-> 
+>
