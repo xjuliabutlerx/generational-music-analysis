@@ -1,0 +1,708 @@
+
+R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin17.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[R.app GUI 1.73 (7892) x86_64-apple-darwin17.0]
+
+[Workspace restored from /Users/juliabutler/.RData]
+[History restored from /Users/juliabutler/.Rapp.history]
+
+> # Importing datasets
+> # BB - Baby Boomers
+> BB <- read.csv("/Users/juliabutler/Desktop/BB.csv")
+> # Generation X
+> X <- read.csv("/Users/juliabutler/Desktop/X.csv")
+> # Millennials (Generation Y)
+> M <- read.csv("/Users/juliabutler/Desktop/M.csv")
+> # Generation Z
+> Z <- read.csv("/Users/juliabutler/Desktop/Z.csv")
+> 
+> # Acousticness
+> max(BB$acousticness)
+[1] 0.944
+> BB$track_name[BB$acousticness == 0.944]
+[1] "Going to California - Mandolin / Guitar Mix"
+[2] "All Down The Line"                          
+[3] "Exodus - B-Side / Single Version"           
+[4] "Salsation"                                  
+> min(BB$acousticness)
+[1] 0.0061
+> BB$track_name[BB$acousticness == 0.0061]
+[1] "I'm Not Signifying"                
+[2] "You Should Be Dancing - Serban Mix"
+> max(X$acousticness)
+[1] 0.909
+> X$track_name[X$acousticness == 0.909]
+[1] "Autumn Nocturne - Sadlands Demo"
+> min(X$acousticness)
+[1] 3.69e-06
+> X$track_name[X$acousticness == 3.69e-06]
+ [1] "Breed"                   "Caro"                   
+ [3] "Make Out Club"           "Exit Music (For A Film)"
+ [5] "Mic Check"               "Same In The End"        
+ [7] "Funky Monks"             "Happy Now?"             
+ [9] "Zero - Remastered 2012"  "Near Wild Heaven"       
+> max(M$acousticness)
+[1] 0.811
+> M$track_name[M$acousticness == 0.811]
+[1] "Dear Diary"                                                                                
+[2] "Slipped Away"                                                                              
+[3] "Anthem"                                                                                    
+[4] "Sing For The Moment"                                                                       
+[5] "If You Want to Be a Good Girl (Get Yourself a Bad Boy)"                                    
+[6] "Get Busy Living Or Get Busy Dying (Do Your Part To Save The Scene And Stop Going To Shows)"
+> min(M$acousticness)
+[1] 0.000244
+> M$track_name[M$acousticness == 0.000244]
+[1] "My Dad's Gone Crazy"
+> max(Z$acousticness)
+[1] 0.947
+> Z$track_name[Z$acousticness == 0.947]
+[1] "Die4Guy"                                  
+[2] "Don’t Matter To Me (with Michael Jackson)"
+> min(Z$acousticness)
+[1] 0.00142
+> Z$track_name[Z$acousticness == 0.00142]
+ [1] "Hell Of A Life"                 "Freedom (feat. Kendrick Lamar)"
+ [3] "Hood Politics"                  "Teen X (feat. Future)"         
+ [5] "bury a friend"                  "Sandra’s Rose"                 
+ [7] "Liability (Reprise)"            "Lovesong"                      
+ [9] "7 rings"                        "That Should Be Me"             
+> 
+> # Dancebility
+> max(BB$danceability)
+[1] 0.705
+> BB$track_name[BB$danceability == 0.705]
+[1] "Good Morning Good Morning - Remastered 2009"                       
+[2] "Tapestry"                                                          
+[3] "The Battle of Evermore - Mandolin / Guitar Mix from Headley Grange"
+[4] "Turd On The Run"                                                   
+[5] "Roots"                                                             
+[6] "Open Sesame"                                                       
+> min(BB$danceability)
+[1] 0.283
+> BB$track_name[BB$danceability == 0.283]
+[1] "Dancing In The Light"
+> max(X$danceability)
+[1] 0.855
+> X$track_name[X$danceability == 0.855]
+[1] "Band Aids"                             
+[2] "Little Miss Lover - 2006 Remaster"     
+[3] "In The Arms Of Sleep - Remastered 2012"
+[4] "Near Wild Heaven 2 - Demo"             
+> min(X$danceability)
+[1] 0.251
+> X$track_name[X$danceability == 0.251]
+[1] "Galapagos - Instrumental/Sadlands Demo"
+> max(M$danceability)
+[1] 0.905
+> M$track_name[M$danceability == 0.905]
+[1] "(I Can't Get No) Satisfaction"                   
+[2] "Your House"                                      
+[3] "He Wasn't"                                       
+[4] "Going Away To College"                           
+[5] "DEVILISH"                                        
+[6] "Are We the Waiting / St. Jimmy"                  
+[7] "Cleanin' Out My Closet"                          
+[8] "Everybody (Backstreet's Back) - Extended Version"
+[9] "Sugar We're Goin Down"                           
+> min(M$danceability)
+[1] 0.438
+> M$track_name[M$danceability == 0.438]
+[1] "I Always Get What I Want" "Superman"                
+[3] "XO"                      
+> max(Z$danceability)
+[1] 0.896
+> Z$track_name[Z$danceability == 0.896]
+[1] "March 14"
+> min(Z$danceability)
+[1] 0.25
+> Z$track_name[Z$danceability == 0.25]
+[1] "You Ain't Gotta Lie (Momma Said)"
+[2] "Control"                         
+[3] "goodbye"                         
+[4] "Summer Games"                    
+> 
+> # Duration
+> max(BB$duration)
+[1] 681400
+> BB$track_name[BB$duration == 681400]
+ [1] "Desolation Row"                              
+ [2] "When I'm Sixty Four - Remastered 2009"       
+ [3] "Inner City Blues (Make Me Wanna Holler)"     
+ [4] "Will You Love Me Tomorrow?"                  
+ [5] "Black Dog - Basic Track with Guitar Overdubs"
+ [6] "Loving Cup"                                  
+ [7] "He's Misstra Know-It-All"                    
+ [8] "Peaceful Easy Feeling - 2013 Remaster"       
+ [9] "Three Little Birds"                          
+[10] "Calypso Breakdown"                           
+> min(BB$duration)
+[1] 79067
+> BB$track_name[BB$duration == 79067]
+[1] "I'm Not Signifying"                
+[2] "You Should Be Dancing - Serban Mix"
+> max(X$duration)
+[1] 403293
+> X$track_name[X$duration == 403293]
+[1] "Endless Nameless"                              
+[2] "RLNDT"                                         
+[3] "Apollo 3-1-5"                                  
+[4] "Under My Voodoo"                               
+[5] "Apache Rose Peacock"                           
+[6] "End It On This"                                
+[7] "Porcelina Of The Vast Oceans - Remastered 2012"
+[8] "Near Wild Heaven 1 - Demo"                     
+> min(X$duration)
+[1] 72640
+> X$track_name[X$duration == 72640]
+[1] "In The Arms Of Sleep - Early Live Demo"
+> max(M$duration)
+[1] 286147
+> M$track_name[M$duration == 286147]
+[1] "When The Music Stops"
+> min(M$duration)
+[1] 165853
+> M$track_name[M$duration == 165853]
+[1] "Steve Berman - Skit"
+> max(Z$duration)
+[1] 547733
+> Z$track_name[Z$duration == 547733]
+ [1] "Runaway"                     "Forward (feat. James Blake)"
+ [3] "Momma"                       "New Tank"                   
+ [5] "my strange addiction"        "Can’t Take A Joke"          
+ [7] "Supercut"                    "One And Only"               
+ [9] "in my head"                  "Up"                         
+> min(Z$duration)
+[1] 62253
+> Z$track_name[Z$duration == 62253]
+ [1] "All Of The Lights (Interlude)" "Sorry"                        
+ [3] "Institutionalized"             "Beno!"                        
+ [5] "you should see me in a crown"  "Emotionless"                  
+ [7] "The Louvre"                    "Don't You Remember"           
+ [9] "bloodline"                     "U Smile"                      
+> 
+> # Energy
+> max(BB$energy)
+[1] 0.889
+> BB$track_name[BB$energy == 0.889]
+[1] "I'm Not Signifying"                
+[2] "You Should Be Dancing - Serban Mix"
+> min(BB$energy)
+[1] 0.214
+> BB$track_name[BB$energy == 0.214]
+[1] "Going to California - Mandolin / Guitar Mix"
+[2] "All Down The Line"                          
+[3] "Exodus - B-Side / Single Version"           
+[4] "Salsation"                                  
+> max(X$energy)
+[1] 0.981
+> X$track_name[X$energy == 0.981]
+ [1] "Stay Away"                               
+ [2] "Cuando Perriabas"                        
+ [3] "Cupid's Chokehold / Breakfast in America"
+ [4] "No Surprises"                            
+ [5] "New Millennium Homes"                    
+ [6] "Paddle Out"                              
+ [7] "Blood Sugar Sex Magik"                   
+ [8] "Don't Speak"                             
+ [9] "Cupid De Locke - Remastered 2012"        
+[10] "Country Feedback"                        
+> min(X$energy)
+[1] 0.000581
+> X$track_name[X$energy == 0.000581]
+[1] "Meladori Magpie - Remastered 2012"
+> max(M$energy)
+[1] 0.938
+> M$track_name[M$energy == 0.938]
+[1] "I Always Get What I Want" "Superman"                
+[3] "XO"                      
+> min(M$energy)
+[1] 0.155
+> M$track_name[M$energy == 0.155]
+[1] "Dear Diary"                                                                                
+[2] "Slipped Away"                                                                              
+[3] "Anthem"                                                                                    
+[4] "Sing For The Moment"                                                                       
+[5] "If You Want to Be a Good Girl (Get Yourself a Bad Boy)"                                    
+[6] "Get Busy Living Or Get Busy Dying (Do Your Part To Save The Scene And Stop Going To Shows)"
+> max(Z$energy)
+[1] 0.914
+> Z$track_name[Z$energy == 0.914]
+ [1] "POWER"                                 
+ [2] "Don't Hurt Yourself (feat. Jack White)"
+ [3] "King Kunta"                            
+ [4] "Stop Breathing"                        
+ [5] "xanny"                                 
+ [6] "Elevate"                               
+ [7] "Homemade Dynamite"                     
+ [8] "Turning Tables"                        
+ [9] "NASA"                                  
+[10] "Stuck In The Moment"                   
+> min(Z$energy)
+[1] 0.0792
+> Z$track_name[Z$energy == 0.0792]
+ [1] "All Of The Lights (Interlude)" "Sorry"                        
+ [3] "Institutionalized"             "Beno!"                        
+ [5] "you should see me in a crown"  "Emotionless"                  
+ [7] "The Louvre"                    "Don't You Remember"           
+ [9] "bloodline"                     "U Smile"                      
+> 
+> # Instrumentalness
+> max(BB$instrumentalness)
+[1] 0.748
+> BB$track_name[BB$instrumentalness == 0.748]
+[1] "Title 5"
+> min(BB$instrumentalness)
+[1] 0
+> BB$track_name[BB$instrumentalness == 0]
+ [1] "Like a Rolling Stone"                                              
+ [2] "Tombstone Blues"                                                   
+ [3] "Ballad of a Thin Man"                                              
+ [4] "Highway 61 Revisited"                                              
+ [5] "Just Like Tom Thumb's Blues"                                       
+ [6] "Desolation Row"                                                    
+ [7] "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009"           
+ [8] "With A Little Help From My Friends - Remastered 2009"              
+ [9] "Fixing A Hole - Remastered 2009"                                   
+[10] "Being For The Benefit Of Mr. Kite! - Remastered 2009"              
+[11] "Within You Without You - Remastered 2009"                          
+[12] "When I'm Sixty Four - Remastered 2009"                             
+[13] "Good Morning Good Morning - Remastered 2009"                       
+[14] "Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009" 
+[15] "What's Going On"                                                   
+[16] "What's Happening Brother"                                          
+[17] "God Is Love"                                                       
+[18] "Right On"                                                          
+[19] "Wholy Holy"                                                        
+[20] "Inner City Blues (Make Me Wanna Holler)"                           
+[21] "I Feel the Earth Move"                                             
+[22] "So Far Away"                                                       
+[23] "Beautiful"                                                         
+[24] "You've Got a Friend"                                               
+[25] "Where You Lead"                                                    
+[26] "Will You Love Me Tomorrow?"                                        
+[27] "Tapestry"                                                          
+[28] "(You Make Me Feel Like) A Natural Woman"                           
+[29] "Black Dog - Remaster"                                              
+[30] "Rock and Roll - Remaster"                                          
+[31] "Misty Mountain Hop - Remaster"                                     
+[32] "Going to California - Remaster"                                    
+[33] "When the Levee Breaks - Remaster"                                  
+[34] "Black Dog - Basic Track with Guitar Overdubs"                      
+[35] "The Battle of Evermore - Mandolin / Guitar Mix from Headley Grange"
+[36] "Stairway to Heaven - Sunset Sound Mix"                             
+[37] "Four Sticks - Alternate Mix"                                       
+[38] "Going to California - Mandolin / Guitar Mix"                       
+[39] "When the Levee Breaks - Alternate UK Mix in Progress"              
+[40] "Rocks Off"                                                         
+[41] "Rip This Joint"                                                    
+[42] "Tumbling Dice"                                                     
+[43] "Torn And Frayed"                                                   
+[44] "Sweet Black Angel"                                                 
+[45] "Loving Cup"                                                        
+[46] "Turd On The Run"                                                   
+[47] "Ventilator Blues"                                                  
+[48] "Let It Loose"                                                      
+[49] "All Down The Line"                                                 
+[50] "Stop Breaking Down"                                                
+[51] "Pass The Wine (Sophia Loren)"                                      
+[52] "Plundered My Soul"                                                 
+[53] "Dancing In The Light"                                              
+[54] "Good Time Women"                                                   
+[55] "Too High"                                                          
+[56] "Visions"                                                           
+[57] "Higher Ground"                                                     
+[58] "All In Love Is Fair"                                               
+[59] "Don't You Worry 'Bout A Thing"                                     
+[60] "He's Misstra Know-It-All"                                          
+[61] "Take It Easy - 2013 Remaster"                                      
+[62] "Witchy Woman - 2013 Remaster"                                      
+[63] "Desperado - 2013 Remaster"                                         
+[64] "Tequila Sunrise - 2013 Remaster"                                   
+[65] "Take It to the Limit - 2013 Remaster"                              
+[66] "Peaceful Easy Feeling - 2013 Remaster"                             
+[67] "Natural Mystic"                                                    
+[68] "So Much Things To Say"                                             
+[69] "Exodus"                                                            
+[70] "Waiting In Vain"                                                   
+[71] "Turn Your Lights Down Low"                                         
+[72] "Three Little Birds"                                                
+[73] "Roots"                                                             
+[74] "Waiting In Vain - Alternate Version"                               
+[75] "Jammin'"                                                           
+[76] "Exodus - B-Side / Single Version"                                  
+[77] "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack"          
+[78] "How Deep Is Your Love - From \"Saturday Night Fever\" Soundtrack"  
+[79] "If I Can't Have You - From \"Saturday Night Fever\""               
+[80] "More Than A Woman"                                                 
+[81] "Manhattan Skyline"                                                 
+[82] "Calypso Breakdown"                                                 
+[83] "Open Sesame"                                                       
+[84] "Jive Talkin' - From \"Saturday Night Fever\" Soundtrack"           
+[85] "Boogie Shoes"                                                      
+[86] "Salsation"                                                         
+[87] "K-Jee"                                                             
+[88] "Night Fever - Serban Mix"                                          
+[89] "How Deep Is Your Love - Serban Mix"                                
+> max(X$instrumentalness)
+[1] 0.855
+> X$track_name[X$instrumentalness == 0.855]
+[1] "Lover - Arrangement 1 Demo"
+> min(X$instrumentalness)
+[1] 0
+> X$track_name[X$instrumentalness == 0]
+ [1] "Lithium"                                 
+ [2] "Territorial Pissings"                    
+ [3] "Tenemos Que Hablar"                      
+ [4] "Ser Bichote"                             
+ [5] "Taxi Driver"                             
+ [6] "Everyday's Forecast"                     
+ [7] "Let Down"                                
+ [8] "Fitter Happier"                          
+ [9] "Sleep Now In the Fire"                   
+[10] "Born As Ghosts"                          
+[11] "April 29 1992 (Miami)"                   
+[12] "Seed"                                    
+[13] "Suck My Kiss"                            
+[14] "Mellowship Slinky in B Major"            
+[15] "Different People"                        
+[16] "The Climb"                               
+[17] "Here Is No Why - Remastered 2012"        
+[18] "To Forgive - Remastered 2012"            
+[19] "Lily (My One And Only) - Remastered 2012"
+[20] "Methusela - Sadlands Demo"               
+[21] "X.Y.U. - Take 11"                        
+[22] "Zero - Synth Mix"                        
+[23] "Feelium - Sandlands Demo"                
+[24] "Beautiful - Loop Version"                
+[25] "By Starlight - Flood Rough"              
+[26] "In The Arms Of Sleep - Early Live Demo"  
+[27] "Lily (My One And Only) - Sadlands Demo"  
+[28] "Endgame"                                 
+[29] "Belong"                                  
+[30] "Country Feedback - Demo"                 
+[31] "Fretless 1 - Demo"                       
+> max(M$instrumentalness)
+[1] 0.0403
+> M$track_name[M$instrumentalness == 0.0403]
+[1] "'Till I Collapse"
+> min(M$instrumentalness)
+[1] 0
+> M$track_name[M$instrumentalness == 0]
+ [1] "Don't Go Knockin' on My Door"                                                              
+ [2] "Don't Let Me Be the Last to Know"                                                          
+ [3] "Where Are You Now"                                                                         
+ [4] "When Your Eyes Say It"                                                                     
+ [5] "Dear Diary"                                                                                
+ [6] "The Middle"                                                                                
+ [7] "Sweetness"                                                                                 
+ [8] "Cautioners"                                                                                
+ [9] "My Sundown"                                                                                
+[10] "Don't Tell Me"                                                                             
+[11] "How Does It Feel"                                                                          
+[12] "Who Knows"                                                                                 
+[13] "Freak Out"                                                                                 
+[14] "Slipped Away"                                                                              
+[15] "Aliens Exist"                                                                              
+[16] "What's My Age Again?"                                                                      
+[17] "The Party Song"                                                                            
+[18] "Wendy Clear"                                                                               
+[19] "Anthem"                                                                                    
+[20] "LIKE A ROCKSTAR"                                                                           
+[21] "GREENGREENGREEN"                                                                           
+[22] "Holiday / Boulevard of Broken Dreams"                                                      
+[23] "Give Me Novacaine / She's a Rebel"                                                         
+[24] "Whatsername"                                                                               
+[25] "Business"                                                                                  
+[26] "Square Dance"                                                                              
+[27] "Drips"                                                                                     
+[28] "Paul Rosenberg - Skit"                                                                     
+[29] "Sing For The Moment"                                                                       
+[30] "Steve Berman - Skit"                                                                       
+[31] "Say What You Say"                                                                          
+[32] "My Dad's Gone Crazy"                                                                       
+[33] "As Long as You Love Me"                                                                    
+[34] "All I Have to Give"                                                                        
+[35] "Darlin'"                                                                                   
+[36] "Set Adrift on Memory Bliss"                                                                
+[37] "If You Want to Be a Good Girl (Get Yourself a Bad Boy)"                                    
+[38] "Dance Dance"                                                                               
+[39] "Nobody Puts Baby In The Corner"                                                            
+[40] "Champagne For My Real Friends Real Pain For My Sham Friends"                               
+[41] "A Little Less Sixteen Candles A Little More 'Touch Me'"                                    
+[42] "Get Busy Living Or Get Busy Dying (Do Your Part To Save The Scene And Stop Going To Shows)"
+> max(Z$instrumentalness)
+[1] 0.64
+> Z$track_name[Z$instrumentalness == 0.64]
+[1] "Over"      "Blue Tint"
+> min(Z$instrumentalness)
+[1] 0
+> Z$track_name[Z$instrumentalness == 0]
+ [1] "Dark Fantasy"                                   
+ [2] "POWER"                                          
+ [3] "So Appalled"                                    
+ [4] "Devil In A New Dress"                           
+ [5] "Pray You Catch Me"                              
+ [6] "Don't Hurt Yourself (feat. Jack White)"         
+ [7] "Love Drought"                                   
+ [8] "Sandcastles"                                    
+ [9] "Wesley's Theory"                                
+[10] "King Kunta"                                     
+[11] "Alright"                                        
+[12] "For Sale? - Interlude"                          
+[13] "i"                                              
+[14] "Rockstar Made"                                  
+[15] "Stop Breathing"                                 
+[16] "Slay3r"                                         
+[17] "No Sl33p"                                       
+[18] "Punk Monk"                                      
+[19] "Sky"                                            
+[20] "Not PLaying"                                    
+[21] "!!!!!!!"                                        
+[22] "xanny"                                          
+[23] "when the party's over"                          
+[24] "8"                                              
+[25] "Survival"                                       
+[26] "Elevate"                                        
+[27] "8 Out Of 10"                                    
+[28] "Mob Ties"                                       
+[29] "Jaded"                                          
+[30] "That’s How You Feel"                            
+[31] "After Dark (feat. Static Major & Ty Dolla $ign)"
+[32] "March 14"                                       
+[33] "Green Light"                                    
+[34] "Homemade Dynamite"                              
+[35] "Sober II (Melodrama)"                           
+[36] "Writer In The Dark"                             
+[37] "Rolling in the Deep"                            
+[38] "Turning Tables"                                 
+[39] "Take It All"                                    
+[40] "I'll Be Waiting"                                
+[41] "imagine"                                        
+[42] "NASA"                                           
+[43] "make up"                                        
+[44] "ghostin"                                        
+[45] "Baby"                                           
+[46] "Stuck In The Moment"                            
+[47] "Overboard"                                      
+[48] "Eenie Meenie"                                   
+> 
+> # Liveness
+> max(BB$liveness)
+[1] 0.922
+> BB$track_name[BB$liveness == 0.922]
+[1] "Following The River"
+> min(BB$liveness)
+[1] 0.0712
+> BB$track_name[BB$liveness == 0.0712]
+[1] "A Day In The Life - Remastered 2009"                                    
+[2] "Misty Mountain Hop - Alternate Mix"                                     
+[3] "I Just Want To See His Face"                                            
+[4] "Jamming - Long Version"                                                 
+[5] "You Should Be Dancing - Edit / From \"Saturday Night Fever\" Soundtrack"
+> max(X$liveness)
+[1] 0.588
+> X$track_name[X$liveness == 0.588]
+[1] "Lily (My One And Only) - Remastered 2012"
+[2] "Country Feedback - Demo"                 
+> min(X$liveness)
+[1] 0.0514
+> X$track_name[X$liveness == 0.0514]
+[1] "1979 - Sadlands Demo"
+> max(M$liveness)
+[1] 0.806
+> M$track_name[M$liveness == 0.806]
+[1] "I Always Get What I Want" "Superman"                
+[3] "XO"                      
+> min(M$liveness)
+[1] 0.058
+> M$track_name[M$liveness == 0.058]
+[1] "Steve Berman - Skit"
+> max(Z$liveness)
+[1] 0.856
+> Z$track_name[Z$liveness == 0.856]
+[1] "Who Will Survive In America" "Sorry - Original Demo"      
+[3] "The Blacker The Berry"       "New N3on"                   
+[5] "i love you"                  "Peak"                       
+> min(Z$liveness)
+[1] 0.0933
+> Z$track_name[Z$liveness == 0.0933]
+[1] "F33l Lik3 Dyin" "Final Fantasy" 
+> 
+> # Mode
+> max(BB$mode)
+[1] 1
+> min(BB$mode)
+[1] 0
+> 
+> # Speechiness
+> max(BB$speechiness)
+[1] 0.139
+> BB$track_name[BB$speechiness == 0.139]
+[1] "Plundered My Soul"                 
+[2] "How Deep Is Your Love - Serban Mix"
+> min(BB$speechiness)
+[1] 0.0261
+> BB$track_name[BB$speechiness == 0.0261]
+[1] "Pass The Wine (Sophia Loren)" "Night Fever - Serban Mix"    
+> max(X$speechiness)
+[1] 0.438
+> X$track_name[X$speechiness == 0.438]
+[1] "Tonight - Tonight Strings Alone Mix"
+[2] "40 Sec. (40 Second Song) - Demo"    
+> min(X$speechiness)
+[1] 0.0254
+> X$track_name[X$speechiness == 0.0254]
+[1] "Lover - Arrangement 1 Demo"
+> max(M$speechiness)
+[1] 0.094
+> M$track_name[M$speechiness == 0.094]
+[1] "I Always Get What I Want" "Superman"                
+[3] "XO"                      
+> min(M$speechiness)
+[1] 0.0263
+> M$track_name[M$speechiness == 0.0263]
+[1] "Where Are You Now"                                          
+[2] "Cautioners"                                                 
+[3] "Who Knows"                                                  
+[4] "The Party Song"                                             
+[5] "Whatsername"                                                
+[6] "Drips"                                                      
+[7] "Darlin'"                                                    
+[8] "Champagne For My Real Friends Real Pain For My Sham Friends"
+> max(Z$speechiness)
+[1] 0.405
+> Z$track_name[Z$speechiness == 0.405]
+[1] "i"         "Punk Monk" "Jaded"    
+> min(Z$speechiness)
+[1] 0.0326
+> Z$track_name[Z$speechiness == 0.0326]
+ [1] "Gorgeous"                     "Hold Up"                     
+ [3] "For Free? - Interlude"        "Go2DaMoon (feat. Kanye West)"
+ [5] "bad guy"                      "Nonstop"                     
+ [7] "Sober"                        "Rumour Has It"               
+ [9] "needy"                        "Somebody To Love"            
+> 
+> # Tempo
+> max(BB$tempo)
+[1] 201.96
+> BB$track_name[BB$tempo == 201.96]
+[1] "Dancing In The Light"
+> min(BB$tempo)
+[1] 65.09
+> BB$track_name[BB$tempo == 65.09]
+[1] "Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009"
+[2] "(You Make Me Feel Like) A Natural Woman"                          
+[3] "Stairway to Heaven - Sunset Sound Mix"                            
+[4] "Ventilator Blues"                                                 
+[5] "Waiting In Vain - Alternate Version"                              
+[6] "Jive Talkin' - From \"Saturday Night Fever\" Soundtrack"          
+> max(X$tempo)
+[1] 182.7
+> X$track_name[X$tempo == 182.7]
+ [1] "Territorial Pissings"         "Ser Bichote"                 
+ [3] "Everyday's Forecast"          "Fitter Happier"              
+ [5] "Born As Ghosts"               "Seed"                        
+ [7] "Mellowship Slinky in B Major" "The Climb"                   
+ [9] "To Forgive - Remastered 2012" "Belong"                      
+> min(X$tempo)
+[1] 78.953
+> X$track_name[X$tempo == 78.953]
+[1] "By Starlight - Flood Rough"
+> max(M$tempo)
+[1] 184.184
+> M$track_name[M$tempo == 184.184]
+[1] "Hailie's Song"
+> min(M$tempo)
+[1] 86.039
+> M$track_name[M$tempo == 86.039]
+[1] "When Your Eyes Say It"                                 
+[2] "My Sundown"                                            
+[3] "Freak Out"                                             
+[4] "Wendy Clear"                                           
+[5] "Paul Rosenberg - Skit"                                 
+[6] "Set Adrift on Memory Bliss"                            
+[7] "A Little Less Sixteen Candles A Little More 'Touch Me'"
+> max(Z$tempo)
+[1] 177.962
+> Z$track_name[Z$tempo == 177.962]
+ [1] "Hell Of A Life"                 "Freedom (feat. Kendrick Lamar)"
+ [3] "Hood Politics"                  "Teen X (feat. Future)"         
+ [5] "bury a friend"                  "Sandra’s Rose"                 
+ [7] "Liability (Reprise)"            "Lovesong"                      
+ [9] "7 rings"                        "That Should Be Me"             
+> min(Z$tempo)
+[1] 80.082
+> Z$track_name[Z$tempo == 80.082]
+ [1] "Devil In A New Dress"  "Sandcastles"          
+ [3] "For Sale? - Interlude" "No Sl33p"             
+ [5] "8"                     "Mob Ties"             
+ [7] "Writer In The Dark"    "I'll Be Waiting"      
+ [9] "ghostin"               "Eenie Meenie"         
+> 
+> # Valence
+> max(BB$valence)
+[1] 0.93
+> BB$track_name[BB$valence == 0.93]
+[1] "Plundered My Soul"                 
+[2] "How Deep Is Your Love - Serban Mix"
+> min(BB$valence)
+[1] 0.175
+> BB$track_name[BB$valence == 0.175]
+[1] "Following The River"
+> max(X$valence)
+[1] 0.964
+> X$track_name[X$valence == 0.964]
+[1] "Lily (My One And Only) - Sadlands Demo"
+> min(X$valence)
+[1] 0.0642
+> X$track_name[X$valence == 0.0642]
+[1] "Endless Nameless"                              
+[2] "RLNDT"                                         
+[3] "Apollo 3-1-5"                                  
+[4] "Under My Voodoo"                               
+[5] "Apache Rose Peacock"                           
+[6] "End It On This"                                
+[7] "Porcelina Of The Vast Oceans - Remastered 2012"
+[8] "Near Wild Heaven 1 - Demo"                     
+> max(M$valence)
+[1] 0.966
+> M$track_name[M$valence == 0.966]
+[1] "Lucky"                              
+[2] "If You Don't Don't"                 
+[3] "Nobody's Home"                      
+[4] "Adam's Song"                        
+[5] "Wake Me up When September Ends"     
+[6] "Soldier"                            
+[7] "Hey Mr. DJ (Keep Playin' This Song)"
+[8] "7 Minutes In Heaven (Atavan Halen)" 
+> min(M$valence)
+[1] 0.137
+> M$track_name[M$valence == 0.137]
+[1] "'Till I Collapse"
+> max(Z$valence)
+[1] 0.818
+> Z$track_name[Z$valence == 0.818]
+[1] "March 14"
+> min(Z$valence)
+[1] 0.0498
+> Z$track_name[Z$valence == 0.0498]
+[1] "Die4Guy"                                  
+[2] "Don’t Matter To Me (with Michael Jackson)"
+> 
