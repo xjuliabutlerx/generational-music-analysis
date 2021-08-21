@@ -1,0 +1,522 @@
+
+R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin17.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[R.app GUI 1.73 (7892) x86_64-apple-darwin17.0]
+
+[Workspace restored from /Users/juliabutler/.RData]
+[History restored from /Users/juliabutler/.Rapp.history]
+
+> # Importing datasets
+> # BB - Baby Boomers
+> BB <- read.csv("/Users/juliabutler/Desktop/BB.csv")
+> # Generation X
+> X <- read.csv("/Users/juliabutler/Desktop/X.csv")
+> # Millennials (Generation Y)
+> M <- read.csv("/Users/juliabutler/Desktop/M.csv")
+> # Generation Z
+> Z <- read.csv("/Users/juliabutler/Desktop/Z.csv")
+> # A - File containing all of the datasets
+> A <- read.csv("/Users/juliabutler/Desktop/all.csv")
+> 
+> # Acousticness
+> t.test(BB$acousticness)
+
+	One Sample t-test
+
+data:  BB$acousticness
+t = 25.784, df = 141, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.5007412 0.5839052
+sample estimates:
+mean of x 
+0.5423232 
+
+> t.test(X$acousticness)
+
+	One Sample t-test
+
+data:  X$acousticness
+t = 8.5932, df = 199, p-value = 2.47e-15
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.1355868 0.2163487
+sample estimates:
+mean of x 
+0.1759678 
+
+> t.test(M$acousticness)
+
+	One Sample t-test
+
+data:  M$acousticness
+t = 11.174, df = 109, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.1566540 0.2242059
+sample estimates:
+mean of x 
+0.1904299 
+
+> t.test(Z$acousticness)
+
+	One Sample t-test
+
+data:  Z$acousticness
+t = 9.7794, df = 148, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.1754778 0.2643547
+sample estimates:
+mean of x 
+0.2199162 
+
+> 
+> # Danceability
+> t.test(BB$danceability)
+
+	One Sample t-test
+
+data:  BB$danceability
+t = 54.265, df = 141, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.4494100 0.4833928
+sample estimates:
+mean of x 
+0.4664014 
+
+> t.test(X$danceability)
+
+	One Sample t-test
+
+data:  X$danceability
+t = 37.762, df = 199, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.5011524 0.5563776
+sample estimates:
+mean of x 
+ 0.528765 
+
+> t.test(M$danceability)
+
+	One Sample t-test
+
+data:  M$danceability
+t = 63.091, df = 109, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.6951098 0.7401993
+sample estimates:
+mean of x 
+0.7176545 
+
+> t.test(Z$danceability)
+
+	One Sample t-test
+
+data:  Z$danceability
+t = 50.626, df = 148, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.4937239 0.5338332
+sample estimates:
+mean of x 
+0.5137785 
+
+> 
+> # Duration
+> t.test(BB$duration)
+
+	One Sample t-test
+
+data:  BB$duration
+t = 24.167, df = 141, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 257253.5 303092.0
+sample estimates:
+mean of x 
+ 280172.7 
+
+> t.test(X$duration)
+
+	One Sample t-test
+
+data:  X$duration
+t = 51.094, df = 199, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 211100.5 228049.5
+sample estimates:
+mean of x 
+   219575 
+
+> t.test(M$duration)
+
+	One Sample t-test
+
+data:  M$duration
+t = 73.382, df = 109, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 217707.1 229793.6
+sample estimates:
+mean of x 
+ 223750.4 
+
+> t.test(Z$duration)
+
+	One Sample t-test
+
+data:  Z$duration
+t = 31.076, df = 148, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 287314.1 326335.5
+sample estimates:
+mean of x 
+ 306824.8 
+
+> 
+> # Energy
+> t.test(BB$energy)
+
+	One Sample t-test
+
+data:  BB$energy
+t = 47.323, df = 141, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.5808731 0.6315213
+sample estimates:
+mean of x 
+0.6061972 
+
+> t.test(X$energy)
+
+	One Sample t-test
+
+data:  X$energy
+t = 44.084, df = 199, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.7022252 0.7679907
+sample estimates:
+mean of x 
+0.7351079 
+
+> t.test(M$energy)
+
+	One Sample t-test
+
+data:  M$energy
+t = 41.32, df = 109, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.7077068 0.7790205
+sample estimates:
+mean of x 
+0.7433636 
+
+> t.test(Z$energy)
+
+	One Sample t-test
+
+data:  Z$energy
+t = 36.03, df = 148, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.6047899 0.6749819
+sample estimates:
+mean of x 
+0.6398859 
+
+> 
+> # Instrumentalness
+> t.test(BB$instrumentalness)
+
+	One Sample t-test
+
+data:  BB$instrumentalness
+t = 1.962, df = 141, p-value = 0.05173
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -0.000120744  0.031927427
+sample estimates:
+ mean of x 
+0.01590334 
+
+> t.test(X$instrumentalness)
+
+	One Sample t-test
+
+data:  X$instrumentalness
+t = 5.4331, df = 199, p-value = 1.607e-07
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.04969976 0.10633132
+sample estimates:
+ mean of x 
+0.07801554 
+
+> t.test(M$instrumentalness)
+
+	One Sample t-test
+
+data:  M$instrumentalness
+t = 1.3076, df = 109, p-value = 0.1938
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -0.0002476606  0.0012080513
+sample estimates:
+   mean of x 
+0.0004801954 
+
+> t.test(Z$instrumentalness)
+
+	One Sample t-test
+
+data:  Z$instrumentalness
+t = 3.9281, df = 148, p-value = 0.0001309
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.02606406 0.07883811
+sample estimates:
+ mean of x 
+0.05245108 
+
+> 
+> # Mode
+> t.test(BB$mode)
+
+	One Sample t-test
+
+data:  BB$mode
+t = 27.01, df = 141, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.7766900 0.8993664
+sample estimates:
+mean of x 
+0.8380282 
+
+> t.test(X$mode)
+
+	One Sample t-test
+
+data:  X$mode
+t = 15.439, df = 199, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.4753895 0.6146105
+sample estimates:
+mean of x 
+    0.545 
+
+> t.test(M$mode)
+
+	One Sample t-test
+
+data:  M$mode
+t = 17.448, df = 109, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.6527202 0.8200071
+sample estimates:
+mean of x 
+0.7363636 
+
+> t.test(Z$mode)
+
+	One Sample t-test
+
+data:  Z$mode
+t = 10.129, df = 148, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.3295224 0.4892695
+sample estimates:
+mean of x 
+ 0.409396 
+
+> 
+> # Speechiness
+> t.test(BB$speechiness)
+
+	One Sample t-test
+
+data:  BB$speechiness
+t = 27.706, df = 141, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.03761935 0.04340036
+sample estimates:
+ mean of x 
+0.04050986 
+
+> t.test(X$speechiness)
+
+	One Sample t-test
+
+data:  X$speechiness
+t = 19.581, df = 199, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.08971673 0.10981027
+sample estimates:
+mean of x 
+0.0997635 
+
+> t.test(M$speechiness)
+
+	One Sample t-test
+
+data:  M$speechiness
+t = 31.393, df = 109, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.04319721 0.04901915
+sample estimates:
+ mean of x 
+0.04610818 
+
+> t.test(Z$speechiness)
+
+	One Sample t-test
+
+data:  Z$speechiness
+t = 15.8, df = 148, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.1111460 0.1429238
+sample estimates:
+mean of x 
+0.1270349 
+
+> 
+> # Tempo
+> t.test(BB$tempo)
+
+	One Sample t-test
+
+data:  BB$tempo
+t = 45.957, df = 141, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 102.3784 111.5822
+sample estimates:
+mean of x 
+ 106.9803 
+
+> t.test(X$tempo)
+
+	One Sample t-test
+
+data:  X$tempo
+t = 72.645, df = 199, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 130.1459 137.4087
+sample estimates:
+mean of x 
+ 133.7773 
+
+> t.test(M$tempo)
+
+	One Sample t-test
+
+data:  M$tempo
+t = 59.008, df = 109, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 107.1849 114.6354
+sample estimates:
+mean of x 
+ 110.9101 
+
+> t.test(Z$tempo)
+
+	One Sample t-test
+
+data:  Z$tempo
+t = 44.369, df = 148, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 109.1462 119.3217
+sample estimates:
+mean of x 
+ 114.2339 
+
+> 
+> # Valence
+> t.test(BB$valence)
+
+	One Sample t-test
+
+data:  BB$valence
+t = 55.487, df = 141, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.5780253 0.6207353
+sample estimates:
+mean of x 
+0.5993803 
+
+> t.test(X$valence)
+
+	One Sample t-test
+
+data:  X$valence
+t = 24.315, df = 199, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.346901 0.408135
+sample estimates:
+mean of x 
+ 0.377518 
+
+> t.test(M$valence)
+
+	One Sample t-test
+
+data:  M$valence
+t = 32.194, df = 109, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.6553183 0.7412998
+sample estimates:
+mean of x 
+0.6983091 
+
+> t.test(Z$valence)
+
+	One Sample t-test
+
+data:  Z$valence
+t = 21.542, df = 148, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.3268963 0.3929292
+sample estimates:
+mean of x 
+0.3599128 
+
+> 

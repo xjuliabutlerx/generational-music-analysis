@@ -111,6 +111,19 @@ sample estimates:
        cor
 0.03481944
 
+> cor.test(Z$tempo, Z$valence)
+
+	Pearson's product-moment correlation
+
+data:  Z$tempo and Z$valence
+t = 0.42242, df = 147, p-value = 0.6733
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1266898  0.1945302
+sample estimates:
+       cor
+0.03481944
+
 >
 > # Is danceability tied to tempo?
 > cor.test(BB$tempo, BB$danceability, alternative = "greater")
@@ -204,4 +217,15 @@ sample estimates:
         cor
 -0.03936581
 
->
+> cor.test(Z$tempo, Z$danceability)
+
+	Pearson's product-moment correlation
+
+data:  Z$tempo and Z$danceability
+t = -0.47766, df = 147, p-value = 0.6336
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1989067  0.1222077
+sample estimates:
+        cor
+-0.03936581
