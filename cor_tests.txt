@@ -434,3 +434,29 @@ instrumentalness       1.00000000 -0.15372897 -0.1708232764  0.05077634
 liveness              -0.15372897  1.00000000  0.1192279194 -0.16536684
 valence               -0.17082328  0.11922792  1.0000000000 -0.23720219
 tempo                  0.05077634 -0.16536684 -0.2372021881  1.00000000
+
+> cor.test(A$valence, A$danceability)
+
+	Pearson's product-moment correlation
+
+data:  A$valence and A$danceability
+t = 11.542, df = 599, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3588030 0.4898091
+sample estimates:
+      cor
+0.4265406
+
+> cor.test(A$acousticness, A$energy)
+
+	Pearson's product-moment correlation
+
+data:  A$acousticness and A$energy
+t = -21.575, df = 599, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.7040229 -0.6137620
+sample estimates:
+       cor
+-0.6612793 
