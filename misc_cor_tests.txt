@@ -33,7 +33,7 @@ Type 'q()' to quit R.
 > Z <- read.csv("/Users/juliabutler/Desktop/Z.csv")
 > # A - File containing all of the datasets
 > A <- read.csv("/Users/juliabutler/Desktop/all.csv")
-> 
+>
 > cor.test(BB$acousticness, BB$danceability)
 
 	Pearson's product-moment correlation
@@ -44,8 +44,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.4210353 -0.1159421
 sample estimates:
-       cor 
--0.2754093 
+       cor
+-0.2754093
 
 > cor.test(X$acousticness, X$danceability)
 
@@ -57,11 +57,11 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  0.3133597 0.5395708
 sample estimates:
-      cor 
-0.4332642 
+      cor
+0.4332642
 
 > cor.test(M$acousticness, M$dancebility)
-Error in cor.test.default(M$acousticness, M$dancebility) : 
+Error in cor.test.default(M$acousticness, M$dancebility) :
   'x' and 'y' must have the same length
 > cor.test(M$acousticness, M$danceability)
 
@@ -73,8 +73,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.4805209 -0.1437059
 sample estimates:
-       cor 
--0.3222757 
+       cor
+-0.3222757
 
 > cor.test(Z$acousticness, Z$danceability)
 
@@ -86,11 +86,11 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.6484424 -0.4204107
 sample estimates:
-       cor 
--0.5444076 
+       cor
+-0.5444076
 
 > cor.test(BB$danceability)
-Error in cor.test.default(BB$danceability) : 
+Error in cor.test.default(BB$danceability) :
   argument "y" is missing, with no default
 > cor.test(BB$danceability, BB$tempo)
 
@@ -102,8 +102,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.38066763 -0.06824996
 sample estimates:
-       cor 
--0.2303871 
+       cor
+-0.2303871
 
 > cor.test(X$danceability, X$tempo)
 
@@ -115,8 +115,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.4746197 -0.2324078
 sample estimates:
-       cor 
--0.3595551 
+       cor
+-0.3595551
 
 > cor.test(M$danceability, M$tempo)
 
@@ -128,8 +128,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.7441515 -0.5232213
 sample estimates:
-       cor 
--0.6470702 
+       cor
+-0.6470702
 
 > cor.test(X$danceability, X$tempo)
 
@@ -141,8 +141,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.4746197 -0.2324078
 sample estimates:
-       cor 
--0.3595551 
+       cor
+-0.3595551
 
 > cor.test(Z$danceability, Z$tempo)
 
@@ -154,8 +154,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.1989067  0.1222077
 sample estimates:
-        cor 
--0.03936581 
+        cor
+-0.03936581
 
 > cor.test(BB$duration, BB$speechiness)
 
@@ -167,8 +167,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.4253016 -0.1210660
 sample estimates:
-       cor 
--0.2802052 
+       cor
+-0.2802052
 
 > cor.test(X$duration, X$speechiness)
 
@@ -180,8 +180,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.33735616 -0.07169959
 sample estimates:
-       cor 
--0.2083678 
+       cor
+-0.2083678
 
 > cor.test(M$duration, M$speechiness)
 
@@ -193,8 +193,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.5325699 -0.2115296
 sample estimates:
-       cor 
--0.3835786 
+       cor
+-0.3835786
 
 > cor.test(Z$duration, Z$speechiness)
 
@@ -206,8 +206,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.1925701  0.1286930
 sample estimates:
-        cor 
--0.03278538 
+        cor
+-0.03278538
 
 > cor.test(BB$duration, BB$instrumentalness)
 
@@ -219,8 +219,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.33579818 -0.01686357
 sample estimates:
-       cor 
--0.1810878 
+       cor
+-0.1810878
 
 > cor.test(X$duration, X$instrumentalness)
 
@@ -232,8 +232,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  0.3079121 0.5352829
 sample estimates:
-      cor 
-0.4283538 
+      cor
+0.4283538
 
 > cor.test(M$duration, M$instrumentalness)
 
@@ -245,8 +245,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.003976982  0.358337123
 sample estimates:
-      cor 
-0.1834011 
+      cor
+0.1834011
 
 > cor.test(Z$duration, Z$speechiness)
 
@@ -258,8 +258,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.1925701  0.1286930
 sample estimates:
-        cor 
--0.03278538 
+        cor
+-0.03278538
 
 > cor.test(Z$duration, Z$instrumentalness)
 
@@ -271,8 +271,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.6482510 -0.4201388
 sample estimates:
-       cor 
--0.5441752 
+       cor
+-0.5441752
 
 > cor.test(A$duration, A$speechiness)
 
@@ -284,8 +284,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.11385351  0.04591615
 sample estimates:
-       cor 
--0.0341871 
+       cor
+-0.0341871
 
 > cor.test(A$duration, A$instrumentalness)
 
@@ -297,8 +297,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.18231439 -0.02407319
 sample estimates:
-       cor 
--0.1038509 
+       cor
+-0.1038509
 
 > BB[6:17]
     duration_ms danceability energy key loudness
@@ -731,7 +731,7 @@ sample estimates:
 141   0.7720   0.930 121.849
 142   0.8920   0.879 118.773
 > cor.test(BB[6:17], Z[6:17])
-Error in cor.test.default(BB[6:17], Z[6:17]) : 
+Error in cor.test.default(BB[6:17], Z[6:17]) :
   'x' must be a numeric vector
 > cor.test(BB$duration, BB$tempo)
 
@@ -743,8 +743,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.24857063  0.07843378
 sample estimates:
-        cor 
--0.08742301 
+        cor
+-0.08742301
 
 > cor.test(X$duration, X$tempo)
 
@@ -756,8 +756,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.32958514 -0.06299593
 sample estimates:
-      cor 
--0.199989 
+      cor
+-0.199989
 
 > cor.test(M$duration, M$tempo)
 
@@ -769,8 +769,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.2171213  0.1570111
 sample estimates:
-        cor 
--0.03114603 
+        cor
+-0.03114603
 
 > cor.test(Z$duration, Z$tempo)
 
@@ -782,8 +782,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.4528427 -0.1624041
 sample estimates:
-       cor 
--0.3149785 
+       cor
+-0.3149785
 
 > cor.test(BB$duration, BB$speechiness)
 
@@ -795,8 +795,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.4253016 -0.1210660
 sample estimates:
-       cor 
--0.2802052 
+       cor
+-0.2802052
 
 > cor.test(BB$acousticness, BB$energy)
 
@@ -808,8 +808,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.1229478  0.2059239
 sample estimates:
-       cor 
-0.04264312 
+       cor
+0.04264312
 
 > cor.test(X$acousticness, X$energy)
 
@@ -821,8 +821,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.8388444 -0.7342918
 sample estimates:
-       cor 
--0.7923147 
+       cor
+-0.7923147
 
 > cor.test(M$acousticness, M$energy)
 
@@ -834,8 +834,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.8145786 -0.6419802
 sample estimates:
-       cor 
--0.7402408 
+       cor
+-0.7402408
 
 > cor.test(Z$acousticness, Z$energy)
 
@@ -847,8 +847,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.9194182 -0.8512946
 sample estimates:
-       cor 
--0.8902323 
+       cor
+-0.8902323
 
 > cor.test(BB$instrumentalness, BB$speechiness)
 
@@ -860,8 +860,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.1182868  0.2104487
 sample estimates:
-       cor 
-0.04736338 
+       cor
+0.04736338
 
 > cor.test(X$instrumentalness, X$speechiness)
 
@@ -873,8 +873,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.23094632  0.04406587
 sample estimates:
-        cor 
--0.09525752 
+        cor
+-0.09525752
 
 > cor.test(M$instrumentalness, M$speechiness)
 
@@ -886,8 +886,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.29532654  0.07442408
 sample estimates:
-       cor 
--0.1144117 
+       cor
+-0.1144117
 
 > cor.test(Z$instrumentalness, Z$speechiness)
 
@@ -899,8 +899,8 @@ alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
  -0.4171999 -0.1193104
 sample estimates:
-       cor 
--0.2748376 
+       cor
+-0.2748376
 
 > Z$track_name[Z$speechiness == 0.438]
 character(0)
@@ -1114,7 +1114,7 @@ character(0)
 [197] FALSE FALSE  TRUE FALSE
 > X$track_name[X$speechiness == 0.438]
 [1] "Tonight - Tonight Strings Alone Mix"
-[2] "40 Sec. (40 Second Song) - Demo"    
+[2] "40 Sec. (40 Second Song) - Demo"
 > X$artist[X$track_name == "Tonight - Tonight Strings Alone Mix"]
 [1] "Smashing Pumpkins"
 > X$artist[X$track_name == "40 Sec. (40 Second Song) - Demo"]
@@ -1156,8 +1156,8 @@ character(0)
 [1] 0.137716
 > mean(Z$speechiness[Z$artist == "Kendrick Lamar"])
 [1] 0.1474
-> 
-> 
+>
+>
 > mean(BB$speechiness[BB$artist == "Bob Dylan"])
 [1] 0.03626667
 > mean(BB$speechiness[BB$artist == "The Beatles"])
@@ -1178,8 +1178,8 @@ character(0)
 [1] 0.03836
 > mean(BB$speechiness[BB$artist == "Various Artists"])
 [1] 0.04341905
-> 
-> 
+>
+>
 > mean(X$speechiness[X$artist == "Nirvana"])
 [1] 0.08324615
 > mean(X$speechiness[X$artist == "Pearl Jam"])
@@ -1194,8 +1194,8 @@ character(0)
 [1] 0.1041842
 > mean(X$speechiness[X$artist == "No Doubt"])
 [1] 0.08211429
-> 
-> 
+>
+>
 > mean(M$speechiness[M$artist == "Britney Spears"])
 [1] 0.04439167
 > mean(M$speechiness[M$artist == "Jimmy Eat World"])
@@ -1218,8 +1218,8 @@ character(0)
 [1] NaN
 > mean(M$speechiness[M$artist == "Fall Out Boy"])
 [1] 0.04820769
-> 
-> 
+>
+>
 > mean(Z$speechiness[Z$artist == "Beyoncé"])
 [1] 0.1312615
 > mean(Z$speechiness[Z$artist == "Taylor Swift"])
@@ -1234,4 +1234,56 @@ character(0)
 [1] 0.1122
 > mean(Z$speechiness[Z$artist == "Justin Bieber"])
 [1] 0.10936
-> 
+>
+>
+> cor.test(BB$tempo, BB$danceability)
+
+	Pearson's product-moment correlation
+
+data:  BB$tempo and BB$danceability
+t = -2.8013, df = 140, p-value = 0.00581
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.38066763 -0.06824996
+sample estimates:
+       cor
+-0.2303871
+
+> cor.test(X$tempo, X$danceability)
+
+	Pearson's product-moment correlation
+
+data:  X$tempo and X$danceability
+t = -5.422, df = 198, p-value = 1.705e-07
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4746197 -0.2324078
+sample estimates:
+       cor
+-0.3595551
+
+> cor.test(M$tempo, M$danceability)
+
+	Pearson's product-moment correlation
+
+data:  M$tempo and M$danceability
+t = -8.8199, df = 108, p-value = 2.216e-14
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.7441515 -0.5232213
+sample estimates:
+       cor
+-0.6470702
+
+> cor.test(Z$tempo, Z$danceability)
+
+	Pearson's product-moment correlation
+
+data:  Z$tempo and Z$danceability
+t = -0.47766, df = 147, p-value = 0.6336
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1989067  0.1222077
+sample estimates:
+        cor
+-0.03936581
