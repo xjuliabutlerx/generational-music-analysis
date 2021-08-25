@@ -1287,3 +1287,54 @@ alternative hypothesis: true correlation is not equal to 0
 sample estimates:
         cor
 -0.03936581
+> cor.test(BB$valence, BB$danceability)
+
+	Pearson's product-moment correlation
+
+data:  BB$valence and BB$danceability
+t = 4.8204, df = 140, p-value = 3.685e-06
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2266453 0.5102992
+sample estimates:
+      cor
+0.3772867
+
+> cor.test(X$valence, X$danceability)
+
+	Pearson's product-moment correlation
+
+data:  X$valence and X$danceability
+t = 6.4302, df = 198, p-value = 9.341e-10
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2938389 0.5241510
+sample estimates:
+      cor
+0.4156355
+
+> cor.test(M$valence, M$danceability)
+
+	Pearson's product-moment correlation
+
+data:  M$valence and M$danceability
+t = 8.3556, df = 108, p-value = 2.442e-13
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.4977600 0.7283846
+sample estimates:
+      cor
+0.6266014
+
+> cor.test(Z$valence, Z$danceability)
+
+	Pearson's product-moment correlation
+
+data:  Z$valence and Z$danceability
+t = 2.3866, df = 147, p-value = 0.01828
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.03337363 0.34327614
+sample estimates:
+      cor
+0.1931371 

@@ -1,0 +1,249 @@
+> TempoDance <- lm(danceability ~ tempo, BB)
+> summary(TempoDance)
+
+Call:
+lm(formula = danceability ~ tempo, data = BB)
+
+Residuals:
+      Min        1Q    Median        3Q       Max
+-0.191035 -0.049044 -0.004937  0.024236  0.266036
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept)  0.5574036  0.0335521  16.613  < 2e-16
+tempo       -0.0008506  0.0003037  -2.801  0.00581
+
+(Intercept) ***
+tempo       **
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1 on 140 degrees of freedom
+Multiple R-squared:  0.05308,	Adjusted R-squared:  0.04631
+F-statistic: 7.847 on 1 and 140 DF,  p-value: 0.00581
+
+> TempoDance2 <- lm(danceability ~ I(tempo^2) + tempo, BB)
+> summary(TempoDance2)
+
+Call:
+lm(formula = danceability ~ I(tempo^2) + tempo, data = BB)
+
+Residuals:
+      Min        1Q    Median        3Q       Max
+-0.193534 -0.037514  0.003234  0.036663  0.236785
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept) -5.353e-02  9.305e-02  -0.575    0.566
+I(tempo^2)  -4.380e-05  6.337e-06  -6.911 1.59e-10
+tempo        9.858e-03  1.572e-03   6.272 4.21e-09
+
+(Intercept)
+I(tempo^2)  ***
+tempo       ***
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.0866 on 139 degrees of freedom
+Multiple R-squared:  0.2952,	Adjusted R-squared:  0.2851
+F-statistic: 29.12 on 2 and 139 DF,  p-value: 2.745e-11
+
+> anova(TempoDance2, TempoDance)
+Analysis of Variance Table
+
+Model 1: danceability ~ I(tempo^2) + tempo
+Model 2: danceability ~ tempo
+  Res.Df    RSS Df Sum of Sq      F    Pr(>F)
+1    139 1.0424
+2    140 1.4005 -1  -0.35818 47.763 1.592e-10 ***
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> XTempoDance <- lm(danceability ~ tempo, X)
+> summary(XTempoDance)
+
+Call:
+lm(formula = danceability ~ tempo, data = X)
+
+Residuals:
+     Min       1Q   Median       3Q      Max
+-0.26905 -0.13742 -0.06969  0.15670  0.39298
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept)  0.8945102  0.0687160  13.018  < 2e-16
+tempo       -0.0027340  0.0005042  -5.422  1.7e-07
+
+(Intercept) ***
+tempo       ***
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1852 on 198 degrees of freedom
+Multiple R-squared:  0.1293,	Adjusted R-squared:  0.1249
+F-statistic:  29.4 on 1 and 198 DF,  p-value: 1.705e-07
+
+> XTempoDance2 <- lm(danceability ~ I(tempo^2) + tempo, X)
+> summary(XTempoDance2)
+
+Call:
+lm(formula = danceability ~ I(tempo^2) + tempo, data = X)
+
+Residuals:
+     Min       1Q   Median       3Q      Max
+-0.27579 -0.14133 -0.07192  0.15894  0.39354
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept)  6.819e-01  3.031e-01   2.250   0.0256
+I(tempo^2)  -1.246e-05  1.730e-05  -0.720   0.4723
+tempo        5.844e-04  4.636e-03   0.126   0.8998
+
+(Intercept) *
+I(tempo^2)
+tempo
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1855 on 197 degrees of freedom
+Multiple R-squared:  0.1316,	Adjusted R-squared:  0.1227
+F-statistic: 14.92 on 2 and 197 DF,  p-value: 9.238e-07
+
+> anova(XTempoDance2, XTempoDance)
+Analysis of Variance Table
+
+Model 1: danceability ~ I(tempo^2) + tempo
+Model 2: danceability ~ tempo
+  Res.Df    RSS Df Sum of Sq      F Pr(>F)
+1    197 6.7770
+2    198 6.7949 -1 -0.017839 0.5186 0.4723
+> MTempoDance <- lm(danceability ~ tempo, M)
+> summary(MTempoDance)
+
+Call:
+lm(formula = danceability ~ tempo, data = M)
+
+Residuals:
+     Min       1Q   Median       3Q      Max
+-0.24019 -0.04868 -0.02186  0.05995  0.18379
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)
+(Intercept)  1.151977   0.050008   23.04  < 2e-16
+tempo       -0.003916   0.000444   -8.82 2.22e-14
+
+(Intercept) ***
+tempo       ***
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.09138 on 108 degrees of freedom
+Multiple R-squared:  0.4187,	Adjusted R-squared:  0.4133
+F-statistic: 77.79 on 1 and 108 DF,  p-value: 2.216e-14
+
+> MTempoDance2 <- lm(danceability ~ I(tempo^2) + tempo, M)
+> summary(MTempoDance2)
+
+Call:
+lm(formula = danceability ~ I(tempo^2) + tempo, data = M)
+
+Residuals:
+     Min       1Q   Median       3Q      Max
+-0.22782 -0.04317 -0.02049  0.07224  0.17003
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept)  5.918e-01  2.371e-01   2.496   0.0141
+I(tempo^2)  -3.909e-05  1.619e-05  -2.414   0.0175
+tempo        5.606e-03  3.968e-03   1.413   0.1606
+
+(Intercept) *
+I(tempo^2)  *
+tempo
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.0894 on 107 degrees of freedom
+Multiple R-squared:  0.4487,	Adjusted R-squared:  0.4384
+F-statistic: 43.55 on 2 and 107 DF,  p-value: 1.456e-14
+
+> anova(MTempoDance2, MTempoDance)
+Analysis of Variance Table
+
+Model 1: danceability ~ I(tempo^2) + tempo
+Model 2: danceability ~ tempo
+  Res.Df     RSS Df Sum of Sq     F  Pr(>F)
+1    107 0.85524
+2    108 0.90182 -1 -0.046582 5.828 0.01747 *
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> ZTempoDance <- lm(danceability ~ tempo, Z)
+> summary(ZTempoDance)
+
+Call:
+lm(formula = danceability ~ tempo, data = Z)
+
+Residuals:
+     Min       1Q   Median       3Q      Max
+-0.25438 -0.08408  0.02155  0.09466  0.38342
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept)  0.5315042  0.0384794  13.813   <2e-16
+tempo       -0.0001552  0.0003249  -0.478    0.634
+
+(Intercept) ***
+tempo
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1242 on 147 degrees of freedom
+Multiple R-squared:  0.00155,	Adjusted R-squared:  -0.005243
+F-statistic: 0.2282 on 1 and 147 DF,  p-value: 0.6336
+
+> ZTempoDance2 <- lm(danceability ~ I(tempo^2) + tempo, Z)
+> summary(ZTempoDance2)
+
+Call:
+lm(formula = danceability ~ I(tempo^2) + tempo, data = Z)
+
+Residuals:
+     Min       1Q   Median       3Q      Max
+-0.27209 -0.05080  0.02412  0.07767  0.31982
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept) -3.166e-01  1.558e-01  -2.032    0.044
+I(tempo^2)  -5.935e-05  1.062e-05  -5.586 1.10e-07
+tempo        1.456e-02  2.650e-03   5.493 1.71e-07
+
+(Intercept) *
+I(tempo^2)  ***
+tempo       ***
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1131 on 146 degrees of freedom
+Multiple R-squared:  0.1774,	Adjusted R-squared:  0.1661
+F-statistic: 15.74 on 2 and 146 DF,  p-value: 6.445e-07
+
+> anova(ZTempoDance2, ZTempoDance)
+Analysis of Variance Table
+
+Model 1: danceability ~ I(tempo^2) + tempo
+Model 2: danceability ~ tempo
+  Res.Df    RSS Df Sum of Sq      F    Pr(>F)
+1    146 1.8683
+2    147 2.2677 -1  -0.39936 31.209 1.101e-07 ***
+---
+Signif. codes:
+0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
