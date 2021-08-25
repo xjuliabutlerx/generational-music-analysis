@@ -1,0 +1,1237 @@
+
+R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin17.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[R.app GUI 1.73 (7892) x86_64-apple-darwin17.0]
+
+[Workspace restored from /Users/juliabutler/.RData]
+[History restored from /Users/juliabutler/.Rapp.history]
+
+> # Importing datasets
+> # BB - Baby Boomers
+> BB <- read.csv("/Users/juliabutler/Desktop/BB.csv")
+> # Generation X
+> X <- read.csv("/Users/juliabutler/Desktop/X.csv")
+> # Millennials (Generation Y)
+> M <- read.csv("/Users/juliabutler/Desktop/M.csv")
+> # Generation Z
+> Z <- read.csv("/Users/juliabutler/Desktop/Z.csv")
+> # A - File containing all of the datasets
+> A <- read.csv("/Users/juliabutler/Desktop/all.csv")
+> 
+> cor.test(BB$acousticness, BB$danceability)
+
+	Pearson's product-moment correlation
+
+data:  BB$acousticness and BB$danceability
+t = -3.3898, df = 140, p-value = 0.000909
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4210353 -0.1159421
+sample estimates:
+       cor 
+-0.2754093 
+
+> cor.test(X$acousticness, X$danceability)
+
+	Pearson's product-moment correlation
+
+data:  X$acousticness and X$danceability
+t = 6.7644, df = 198, p-value = 1.474e-10
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3133597 0.5395708
+sample estimates:
+      cor 
+0.4332642 
+
+> cor.test(M$acousticness, M$dancebility)
+Error in cor.test.default(M$acousticness, M$dancebility) : 
+  'x' and 'y' must have the same length
+> cor.test(M$acousticness, M$danceability)
+
+	Pearson's product-moment correlation
+
+data:  M$acousticness and M$danceability
+t = -3.538, df = 108, p-value = 0.0005958
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4805209 -0.1437059
+sample estimates:
+       cor 
+-0.3222757 
+
+> cor.test(Z$acousticness, Z$danceability)
+
+	Pearson's product-moment correlation
+
+data:  Z$acousticness and Z$danceability
+t = -7.8689, df = 147, p-value = 7.15e-13
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.6484424 -0.4204107
+sample estimates:
+       cor 
+-0.5444076 
+
+> cor.test(BB$danceability)
+Error in cor.test.default(BB$danceability) : 
+  argument "y" is missing, with no default
+> cor.test(BB$danceability, BB$tempo)
+
+	Pearson's product-moment correlation
+
+data:  BB$danceability and BB$tempo
+t = -2.8013, df = 140, p-value = 0.00581
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.38066763 -0.06824996
+sample estimates:
+       cor 
+-0.2303871 
+
+> cor.test(X$danceability, X$tempo)
+
+	Pearson's product-moment correlation
+
+data:  X$danceability and X$tempo
+t = -5.422, df = 198, p-value = 1.705e-07
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4746197 -0.2324078
+sample estimates:
+       cor 
+-0.3595551 
+
+> cor.test(M$danceability, M$tempo)
+
+	Pearson's product-moment correlation
+
+data:  M$danceability and M$tempo
+t = -8.8199, df = 108, p-value = 2.216e-14
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.7441515 -0.5232213
+sample estimates:
+       cor 
+-0.6470702 
+
+> cor.test(X$danceability, X$tempo)
+
+	Pearson's product-moment correlation
+
+data:  X$danceability and X$tempo
+t = -5.422, df = 198, p-value = 1.705e-07
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4746197 -0.2324078
+sample estimates:
+       cor 
+-0.3595551 
+
+> cor.test(Z$danceability, Z$tempo)
+
+	Pearson's product-moment correlation
+
+data:  Z$danceability and Z$tempo
+t = -0.47766, df = 147, p-value = 0.6336
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1989067  0.1222077
+sample estimates:
+        cor 
+-0.03936581 
+
+> cor.test(BB$duration, BB$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  BB$duration and BB$speechiness
+t = -3.4538, df = 140, p-value = 0.0007316
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4253016 -0.1210660
+sample estimates:
+       cor 
+-0.2802052 
+
+> cor.test(X$duration, X$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  X$duration and X$speechiness
+t = -2.9978, df = 198, p-value = 0.003068
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.33735616 -0.07169959
+sample estimates:
+       cor 
+-0.2083678 
+
+> cor.test(M$duration, M$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  M$duration and M$speechiness
+t = -4.3164, df = 108, p-value = 3.528e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.5325699 -0.2115296
+sample estimates:
+       cor 
+-0.3835786 
+
+> cor.test(Z$duration, Z$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  Z$duration and Z$speechiness
+t = -0.39772, df = 147, p-value = 0.6914
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1925701  0.1286930
+sample estimates:
+        cor 
+-0.03278538 
+
+> cor.test(BB$duration, BB$instrumentalness)
+
+	Pearson's product-moment correlation
+
+data:  BB$duration and BB$instrumentalness
+t = -2.1787, df = 140, p-value = 0.03103
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.33579818 -0.01686357
+sample estimates:
+       cor 
+-0.1810878 
+
+> cor.test(X$duration, X$instrumentalness)
+
+	Pearson's product-moment correlation
+
+data:  X$duration and X$instrumentalness
+t = 6.6704, df = 198, p-value = 2.491e-10
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3079121 0.5352829
+sample estimates:
+      cor 
+0.4283538 
+
+> cor.test(M$duration, M$instrumentalness)
+
+	Pearson's product-moment correlation
+
+data:  M$duration and M$instrumentalness
+t = 1.9388, df = 108, p-value = 0.05513
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.003976982  0.358337123
+sample estimates:
+      cor 
+0.1834011 
+
+> cor.test(Z$duration, Z$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  Z$duration and Z$speechiness
+t = -0.39772, df = 147, p-value = 0.6914
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1925701  0.1286930
+sample estimates:
+        cor 
+-0.03278538 
+
+> cor.test(Z$duration, Z$instrumentalness)
+
+	Pearson's product-moment correlation
+
+data:  Z$duration and Z$instrumentalness
+t = -7.8641, df = 147, p-value = 7.345e-13
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.6482510 -0.4201388
+sample estimates:
+       cor 
+-0.5441752 
+
+> cor.test(A$duration, A$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  A$duration and A$speechiness
+t = -0.8372, df = 599, p-value = 0.4028
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.11385351  0.04591615
+sample estimates:
+       cor 
+-0.0341871 
+
+> cor.test(A$duration, A$instrumentalness)
+
+	Pearson's product-moment correlation
+
+data:  A$duration and A$instrumentalness
+t = -2.5555, df = 599, p-value = 0.01085
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.18231439 -0.02407319
+sample estimates:
+       cor 
+-0.1038509 
+
+> BB[6:17]
+    duration_ms danceability energy key loudness
+1        369600        0.482  0.721   0   -6.839
+2        356227        0.504  0.808  11   -7.250
+3        245133        0.493  0.579   8   -7.743
+4        195693        0.287  0.720   0   -6.231
+5        356707        0.473  0.574  11   -8.189
+6        327467        0.369  0.691   0   -6.234
+7        205827        0.490  0.808  10   -6.725
+8        327560        0.497  0.511   7   -8.318
+9        681400        0.432  0.605   4   -6.941
+10       369600        0.482  0.721   0   -6.839
+11       356227        0.504  0.808  11   -7.250
+12       245133        0.493  0.579   8   -7.743
+13       195693        0.287  0.720   0   -6.231
+14       356707        0.473  0.574  11   -8.189
+15       327467        0.369  0.691   0   -6.234
+16       205827        0.490  0.808  10   -6.725
+17       327560        0.497  0.511   7   -8.318
+18       681400        0.432  0.605   4   -6.941
+19       122893        0.451  0.673   7   -9.115
+20       164107        0.705  0.515   4   -9.343
+21       208467        0.311  0.325   2   -9.042
+22       168120        0.632  0.471   0   -7.887
+23       369600        0.482  0.721   0   -6.839
+24       356227        0.504  0.808  11   -7.250
+25       245133        0.493  0.579   8   -7.743
+26       195693        0.287  0.720   0   -6.231
+27       356707        0.473  0.574  11   -8.189
+28       327467        0.369  0.691   0   -6.234
+29       205827        0.490  0.808  10   -6.725
+30       327560        0.497  0.511   7   -8.318
+31       681400        0.432  0.605   4   -6.941
+32       369600        0.482  0.721   0   -6.839
+33       356227        0.504  0.808  11   -7.250
+34       245133        0.493  0.579   8   -7.743
+35       195693        0.287  0.720   0   -6.231
+36       356707        0.473  0.574  11   -8.189
+37       327467        0.369  0.691   0   -6.234
+38       205827        0.490  0.808  10   -6.725
+39       327560        0.497  0.511   7   -8.318
+40       681400        0.432  0.605   4   -6.941
+41       122893        0.451  0.673   7   -9.115
+42       164107        0.705  0.515   4   -9.343
+43       208467        0.311  0.325   2   -9.042
+44       369600        0.482  0.721   0   -6.839
+45       356227        0.504  0.808  11   -7.250
+46       245133        0.493  0.579   8   -7.743
+47       195693        0.287  0.720   0   -6.231
+48       356707        0.473  0.574  11   -8.189
+49       327467        0.369  0.691   0   -6.234
+50       205827        0.490  0.808  10   -6.725
+51       327560        0.497  0.511   7   -8.318
+52       681400        0.432  0.605   4   -6.941
+53       122893        0.451  0.673   7   -9.115
+54       164107        0.705  0.515   4   -9.343
+55       208467        0.311  0.325   2   -9.042
+56       168120        0.632  0.471   0   -7.887
+57       156827        0.469  0.507   0   -8.917
+58       215160        0.381  0.214   4  -11.629
+59       157533        0.526  0.413   0   -9.865
+60       369600        0.482  0.721   0   -6.839
+61       356227        0.504  0.808  11   -7.250
+62       245133        0.493  0.579   8   -7.743
+63       195693        0.287  0.720   0   -6.231
+64       356707        0.473  0.574  11   -8.189
+65       327467        0.369  0.691   0   -6.234
+66       205827        0.490  0.808  10   -6.725
+67       327560        0.497  0.511   7   -8.318
+68       681400        0.432  0.605   4   -6.941
+69       122893        0.451  0.673   7   -9.115
+70       164107        0.705  0.515   4   -9.343
+71       208467        0.311  0.325   2   -9.042
+72       168120        0.632  0.471   0   -7.887
+73       156827        0.469  0.507   0   -8.917
+74       215160        0.381  0.214   4  -11.629
+75       157533        0.526  0.413   0   -9.865
+76       304667        0.352  0.479   6   -9.965
+77       157667        0.704  0.241   1  -13.258
+78       162093        0.610  0.471   8   -9.151
+79       161227        0.542  0.618   2   -8.876
+80        79067        0.653  0.889   0   -8.006
+81       337413        0.364  0.457   4  -14.162
+82       233000        0.283  0.716   1   -9.632
+83       163680        0.461  0.672   5  -10.699
+84       229573        0.383  0.417   7  -12.155
+85       243040        0.306  0.574   9  -10.632
+86       101827        0.551  0.815   0   -9.631
+87       193573        0.498  0.634   6  -12.160
+88       369600        0.482  0.721   0   -6.839
+89       356227        0.504  0.808  11   -7.250
+90       245133        0.493  0.579   8   -7.743
+91       195693        0.287  0.720   0   -6.231
+92       356707        0.473  0.574  11   -8.189
+93       327467        0.369  0.691   0   -6.234
+94       205827        0.490  0.808  10   -6.725
+95       327560        0.497  0.511   7   -8.318
+96       681400        0.432  0.605   4   -6.941
+97       369600        0.482  0.721   0   -6.839
+98       356227        0.504  0.808  11   -7.250
+99       245133        0.493  0.579   8   -7.743
+100      195693        0.287  0.720   0   -6.231
+101      356707        0.473  0.574  11   -8.189
+102      327467        0.369  0.691   0   -6.234
+103      205827        0.490  0.808  10   -6.725
+104      327560        0.497  0.511   7   -8.318
+105      681400        0.432  0.605   4   -6.941
+106      122893        0.451  0.673   7   -9.115
+107      369600        0.482  0.721   0   -6.839
+108      356227        0.504  0.808  11   -7.250
+109      245133        0.493  0.579   8   -7.743
+110      195693        0.287  0.720   0   -6.231
+111      356707        0.473  0.574  11   -8.189
+112      327467        0.369  0.691   0   -6.234
+113      205827        0.490  0.808  10   -6.725
+114      327560        0.497  0.511   7   -8.318
+115      681400        0.432  0.605   4   -6.941
+116      122893        0.451  0.673   7   -9.115
+117      164107        0.705  0.515   4   -9.343
+118      208467        0.311  0.325   2   -9.042
+119      168120        0.632  0.471   0   -7.887
+120      156827        0.469  0.507   0   -8.917
+121      215160        0.381  0.214   4  -11.629
+122      369600        0.482  0.721   0   -6.839
+123      356227        0.504  0.808  11   -7.250
+124      245133        0.493  0.579   8   -7.743
+125      195693        0.287  0.720   0   -6.231
+126      356707        0.473  0.574  11   -8.189
+127      327467        0.369  0.691   0   -6.234
+128      205827        0.490  0.808  10   -6.725
+129      327560        0.497  0.511   7   -8.318
+130      681400        0.432  0.605   4   -6.941
+131      122893        0.451  0.673   7   -9.115
+132      164107        0.705  0.515   4   -9.343
+133      208467        0.311  0.325   2   -9.042
+134      168120        0.632  0.471   0   -7.887
+135      156827        0.469  0.507   0   -8.917
+136      215160        0.381  0.214   4  -11.629
+137      157533        0.526  0.413   0   -9.865
+138      304667        0.352  0.479   6   -9.965
+139      157667        0.704  0.241   1  -13.258
+140      162093        0.610  0.471   8   -9.151
+141      161227        0.542  0.618   2   -8.876
+142       79067        0.653  0.889   0   -8.006
+    mode speechiness acousticness instrumentalness
+1      1      0.0321       0.7310         0.00e+00
+2      1      0.0584       0.4080         0.00e+00
+3      1      0.0319       0.7720         8.06e-05
+4      1      0.0347       0.7560         3.41e-06
+5      0      0.0320       0.6950         0.00e+00
+6      1      0.0387       0.7780         1.39e-05
+7      1      0.0409       0.4750         0.00e+00
+8      1      0.0271       0.7020         0.00e+00
+9      1      0.0306       0.6730         0.00e+00
+10     1      0.0321       0.7310         0.00e+00
+11     1      0.0584       0.4080         0.00e+00
+12     1      0.0319       0.7720         8.06e-05
+13     1      0.0347       0.7560         3.41e-06
+14     0      0.0320       0.6950         0.00e+00
+15     1      0.0387       0.7780         1.39e-05
+16     1      0.0409       0.4750         0.00e+00
+17     1      0.0271       0.7020         0.00e+00
+18     1      0.0306       0.6730         0.00e+00
+19     1      0.0734       0.0857         2.25e-03
+20     1      0.0337       0.3650         0.00e+00
+21     1      0.0283       0.0469         0.00e+00
+22     1      0.0348       0.3130         5.08e-06
+23     1      0.0321       0.7310         0.00e+00
+24     1      0.0584       0.4080         0.00e+00
+25     1      0.0319       0.7720         8.06e-05
+26     1      0.0347       0.7560         3.41e-06
+27     0      0.0320       0.6950         0.00e+00
+28     1      0.0387       0.7780         1.39e-05
+29     1      0.0409       0.4750         0.00e+00
+30     1      0.0271       0.7020         0.00e+00
+31     1      0.0306       0.6730         0.00e+00
+32     1      0.0321       0.7310         0.00e+00
+33     1      0.0584       0.4080         0.00e+00
+34     1      0.0319       0.7720         8.06e-05
+35     1      0.0347       0.7560         3.41e-06
+36     0      0.0320       0.6950         0.00e+00
+37     1      0.0387       0.7780         1.39e-05
+38     1      0.0409       0.4750         0.00e+00
+39     1      0.0271       0.7020         0.00e+00
+40     1      0.0306       0.6730         0.00e+00
+41     1      0.0734       0.0857         2.25e-03
+42     1      0.0337       0.3650         0.00e+00
+43     1      0.0283       0.0469         0.00e+00
+44     1      0.0321       0.7310         0.00e+00
+45     1      0.0584       0.4080         0.00e+00
+46     1      0.0319       0.7720         8.06e-05
+47     1      0.0347       0.7560         3.41e-06
+48     0      0.0320       0.6950         0.00e+00
+49     1      0.0387       0.7780         1.39e-05
+50     1      0.0409       0.4750         0.00e+00
+51     1      0.0271       0.7020         0.00e+00
+52     1      0.0306       0.6730         0.00e+00
+53     1      0.0734       0.0857         2.25e-03
+54     1      0.0337       0.3650         0.00e+00
+55     1      0.0283       0.0469         0.00e+00
+56     1      0.0348       0.3130         5.08e-06
+57     0      0.0451       0.3820         0.00e+00
+58     1      0.0337       0.9440         0.00e+00
+59     1      0.0446       0.3380         0.00e+00
+60     1      0.0321       0.7310         0.00e+00
+61     1      0.0584       0.4080         0.00e+00
+62     1      0.0319       0.7720         8.06e-05
+63     1      0.0347       0.7560         3.41e-06
+64     0      0.0320       0.6950         0.00e+00
+65     1      0.0387       0.7780         1.39e-05
+66     1      0.0409       0.4750         0.00e+00
+67     1      0.0271       0.7020         0.00e+00
+68     1      0.0306       0.6730         0.00e+00
+69     1      0.0734       0.0857         2.25e-03
+70     1      0.0337       0.3650         0.00e+00
+71     1      0.0283       0.0469         0.00e+00
+72     1      0.0348       0.3130         5.08e-06
+73     0      0.0451       0.3820         0.00e+00
+74     1      0.0337       0.9440         0.00e+00
+75     1      0.0446       0.3380         0.00e+00
+76     1      0.0338       0.3390         3.53e-04
+77     1      0.0476       0.6250         2.80e-05
+78     0      0.0261       0.0634         0.00e+00
+79     1      0.1390       0.0858         0.00e+00
+80     1      0.0453       0.0061         5.89e-01
+81     0      0.0675       0.2900         1.06e-04
+82     0      0.0986       0.4470         0.00e+00
+83     0      0.0401       0.5650         3.13e-01
+84     0      0.0316       0.8300         1.54e-03
+85     0      0.0426       0.6940         1.12e-04
+86     0      0.0681       0.7630         0.00e+00
+87     0      0.0475       0.3280         7.48e-01
+88     1      0.0321       0.7310         0.00e+00
+89     1      0.0584       0.4080         0.00e+00
+90     1      0.0319       0.7720         8.06e-05
+91     1      0.0347       0.7560         3.41e-06
+92     0      0.0320       0.6950         0.00e+00
+93     1      0.0387       0.7780         1.39e-05
+94     1      0.0409       0.4750         0.00e+00
+95     1      0.0271       0.7020         0.00e+00
+96     1      0.0306       0.6730         0.00e+00
+97     1      0.0321       0.7310         0.00e+00
+98     1      0.0584       0.4080         0.00e+00
+99     1      0.0319       0.7720         8.06e-05
+100    1      0.0347       0.7560         3.41e-06
+101    0      0.0320       0.6950         0.00e+00
+102    1      0.0387       0.7780         1.39e-05
+103    1      0.0409       0.4750         0.00e+00
+104    1      0.0271       0.7020         0.00e+00
+105    1      0.0306       0.6730         0.00e+00
+106    1      0.0734       0.0857         2.25e-03
+107    1      0.0321       0.7310         0.00e+00
+108    1      0.0584       0.4080         0.00e+00
+109    1      0.0319       0.7720         8.06e-05
+110    1      0.0347       0.7560         3.41e-06
+111    0      0.0320       0.6950         0.00e+00
+112    1      0.0387       0.7780         1.39e-05
+113    1      0.0409       0.4750         0.00e+00
+114    1      0.0271       0.7020         0.00e+00
+115    1      0.0306       0.6730         0.00e+00
+116    1      0.0734       0.0857         2.25e-03
+117    1      0.0337       0.3650         0.00e+00
+118    1      0.0283       0.0469         0.00e+00
+119    1      0.0348       0.3130         5.08e-06
+120    0      0.0451       0.3820         0.00e+00
+121    1      0.0337       0.9440         0.00e+00
+122    1      0.0321       0.7310         0.00e+00
+123    1      0.0584       0.4080         0.00e+00
+124    1      0.0319       0.7720         8.06e-05
+125    1      0.0347       0.7560         3.41e-06
+126    0      0.0320       0.6950         0.00e+00
+127    1      0.0387       0.7780         1.39e-05
+128    1      0.0409       0.4750         0.00e+00
+129    1      0.0271       0.7020         0.00e+00
+130    1      0.0306       0.6730         0.00e+00
+131    1      0.0734       0.0857         2.25e-03
+132    1      0.0337       0.3650         0.00e+00
+133    1      0.0283       0.0469         0.00e+00
+134    1      0.0348       0.3130         5.08e-06
+135    0      0.0451       0.3820         0.00e+00
+136    1      0.0337       0.9440         0.00e+00
+137    1      0.0446       0.3380         0.00e+00
+138    1      0.0338       0.3390         3.53e-04
+139    1      0.0476       0.6250         2.80e-05
+140    0      0.0261       0.0634         0.00e+00
+141    1      0.1390       0.0858         0.00e+00
+142    1      0.0453       0.0061         5.89e-01
+    liveness valence   tempo
+1     0.1890   0.557  95.263
+2     0.3160   0.653 123.866
+3     0.0759   0.475  93.353
+4     0.2630   0.709 176.302
+5     0.5090   0.499  74.056
+6     0.3270   0.382 104.371
+7     0.2320   0.604  73.434
+8     0.2620   0.591  99.500
+9     0.1290   0.647 109.227
+10    0.1890   0.557  95.263
+11    0.3160   0.653 123.866
+12    0.0759   0.475  93.353
+13    0.2630   0.709 176.302
+14    0.5090   0.499  74.056
+15    0.3270   0.382 104.371
+16    0.2320   0.604  73.434
+17    0.2620   0.591  99.500
+18    0.1290   0.647 109.227
+19    0.7970   0.583  95.513
+20    0.3890   0.803 112.035
+21    0.1390   0.668  65.090
+22    0.0712   0.764 121.672
+23    0.1890   0.557  95.263
+24    0.3160   0.653 123.866
+25    0.0759   0.475  93.353
+26    0.2630   0.709 176.302
+27    0.5090   0.499  74.056
+28    0.3270   0.382 104.371
+29    0.2320   0.604  73.434
+30    0.2620   0.591  99.500
+31    0.1290   0.647 109.227
+32    0.1890   0.557  95.263
+33    0.3160   0.653 123.866
+34    0.0759   0.475  93.353
+35    0.2630   0.709 176.302
+36    0.5090   0.499  74.056
+37    0.3270   0.382 104.371
+38    0.2320   0.604  73.434
+39    0.2620   0.591  99.500
+40    0.1290   0.647 109.227
+41    0.7970   0.583  95.513
+42    0.3890   0.803 112.035
+43    0.1390   0.668  65.090
+44    0.1890   0.557  95.263
+45    0.3160   0.653 123.866
+46    0.0759   0.475  93.353
+47    0.2630   0.709 176.302
+48    0.5090   0.499  74.056
+49    0.3270   0.382 104.371
+50    0.2320   0.604  73.434
+51    0.2620   0.591  99.500
+52    0.1290   0.647 109.227
+53    0.7970   0.583  95.513
+54    0.3890   0.803 112.035
+55    0.1390   0.668  65.090
+56    0.0712   0.764 121.672
+57    0.0783   0.619 112.984
+58    0.1060   0.393 127.581
+59    0.0992   0.710 111.874
+60    0.1890   0.557  95.263
+61    0.3160   0.653 123.866
+62    0.0759   0.475  93.353
+63    0.2630   0.709 176.302
+64    0.5090   0.499  74.056
+65    0.3270   0.382 104.371
+66    0.2320   0.604  73.434
+67    0.2620   0.591  99.500
+68    0.1290   0.647 109.227
+69    0.7970   0.583  95.513
+70    0.3890   0.803 112.035
+71    0.1390   0.668  65.090
+72    0.0712   0.764 121.672
+73    0.0783   0.619 112.984
+74    0.1060   0.393 127.581
+75    0.0992   0.710 111.874
+76    0.4860   0.354 126.166
+77    0.0868   0.661 140.411
+78    0.1180   0.630  87.379
+79    0.7720   0.930 121.849
+80    0.8920   0.879 118.773
+81    0.9220   0.175 163.219
+82    0.3990   0.828 201.960
+83    0.2390   0.701  97.651
+84    0.2000   0.584 109.319
+85    0.7130   0.537 106.342
+86    0.7290   0.789  99.092
+87    0.0962   0.515  93.161
+88    0.1890   0.557  95.263
+89    0.3160   0.653 123.866
+90    0.0759   0.475  93.353
+91    0.2630   0.709 176.302
+92    0.5090   0.499  74.056
+93    0.3270   0.382 104.371
+94    0.2320   0.604  73.434
+95    0.2620   0.591  99.500
+96    0.1290   0.647 109.227
+97    0.1890   0.557  95.263
+98    0.3160   0.653 123.866
+99    0.0759   0.475  93.353
+100   0.2630   0.709 176.302
+101   0.5090   0.499  74.056
+102   0.3270   0.382 104.371
+103   0.2320   0.604  73.434
+104   0.2620   0.591  99.500
+105   0.1290   0.647 109.227
+106   0.7970   0.583  95.513
+107   0.1890   0.557  95.263
+108   0.3160   0.653 123.866
+109   0.0759   0.475  93.353
+110   0.2630   0.709 176.302
+111   0.5090   0.499  74.056
+112   0.3270   0.382 104.371
+113   0.2320   0.604  73.434
+114   0.2620   0.591  99.500
+115   0.1290   0.647 109.227
+116   0.7970   0.583  95.513
+117   0.3890   0.803 112.035
+118   0.1390   0.668  65.090
+119   0.0712   0.764 121.672
+120   0.0783   0.619 112.984
+121   0.1060   0.393 127.581
+122   0.1890   0.557  95.263
+123   0.3160   0.653 123.866
+124   0.0759   0.475  93.353
+125   0.2630   0.709 176.302
+126   0.5090   0.499  74.056
+127   0.3270   0.382 104.371
+128   0.2320   0.604  73.434
+129   0.2620   0.591  99.500
+130   0.1290   0.647 109.227
+131   0.7970   0.583  95.513
+132   0.3890   0.803 112.035
+133   0.1390   0.668  65.090
+134   0.0712   0.764 121.672
+135   0.0783   0.619 112.984
+136   0.1060   0.393 127.581
+137   0.0992   0.710 111.874
+138   0.4860   0.354 126.166
+139   0.0868   0.661 140.411
+140   0.1180   0.630  87.379
+141   0.7720   0.930 121.849
+142   0.8920   0.879 118.773
+> cor.test(BB[6:17], Z[6:17])
+Error in cor.test.default(BB[6:17], Z[6:17]) : 
+  'x' must be a numeric vector
+> cor.test(BB$duration, BB$tempo)
+
+	Pearson's product-moment correlation
+
+data:  BB$duration and BB$tempo
+t = -1.0384, df = 140, p-value = 0.3009
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.24857063  0.07843378
+sample estimates:
+        cor 
+-0.08742301 
+
+> cor.test(X$duration, X$tempo)
+
+	Pearson's product-moment correlation
+
+data:  X$duration and X$tempo
+t = -2.8721, df = 198, p-value = 0.004521
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.32958514 -0.06299593
+sample estimates:
+      cor 
+-0.199989 
+
+> cor.test(M$duration, M$tempo)
+
+	Pearson's product-moment correlation
+
+data:  M$duration and M$tempo
+t = -0.32384, df = 108, p-value = 0.7467
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2171213  0.1570111
+sample estimates:
+        cor 
+-0.03114603 
+
+> cor.test(Z$duration, Z$tempo)
+
+	Pearson's product-moment correlation
+
+data:  Z$duration and Z$tempo
+t = -4.0237, df = 147, p-value = 9.135e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4528427 -0.1624041
+sample estimates:
+       cor 
+-0.3149785 
+
+> cor.test(BB$duration, BB$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  BB$duration and BB$speechiness
+t = -3.4538, df = 140, p-value = 0.0007316
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4253016 -0.1210660
+sample estimates:
+       cor 
+-0.2802052 
+
+> cor.test(BB$acousticness, BB$energy)
+
+	Pearson's product-moment correlation
+
+data:  BB$acousticness and BB$energy
+t = 0.50502, df = 140, p-value = 0.6143
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1229478  0.2059239
+sample estimates:
+       cor 
+0.04264312 
+
+> cor.test(X$acousticness, X$energy)
+
+	Pearson's product-moment correlation
+
+data:  X$acousticness and X$energy
+t = -18.273, df = 198, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.8388444 -0.7342918
+sample estimates:
+       cor 
+-0.7923147 
+
+> cor.test(M$acousticness, M$energy)
+
+	Pearson's product-moment correlation
+
+data:  M$acousticness and M$energy
+t = -11.442, df = 108, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.8145786 -0.6419802
+sample estimates:
+       cor 
+-0.7402408 
+
+> cor.test(Z$acousticness, Z$energy)
+
+	Pearson's product-moment correlation
+
+data:  Z$acousticness and Z$energy
+t = -23.696, df = 147, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.9194182 -0.8512946
+sample estimates:
+       cor 
+-0.8902323 
+
+> cor.test(BB$instrumentalness, BB$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  BB$instrumentalness and BB$speechiness
+t = 0.56104, df = 140, p-value = 0.5757
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1182868  0.2104487
+sample estimates:
+       cor 
+0.04736338 
+
+> cor.test(X$instrumentalness, X$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  X$instrumentalness and X$speechiness
+t = -1.3465, df = 198, p-value = 0.1797
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.23094632  0.04406587
+sample estimates:
+        cor 
+-0.09525752 
+
+> cor.test(M$instrumentalness, M$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  M$instrumentalness and M$speechiness
+t = -1.1969, df = 108, p-value = 0.234
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.29532654  0.07442408
+sample estimates:
+       cor 
+-0.1144117 
+
+> cor.test(Z$instrumentalness, Z$speechiness)
+
+	Pearson's product-moment correlation
+
+data:  Z$instrumentalness and Z$speechiness
+t = -3.4657, df = 147, p-value = 0.0006935
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4171999 -0.1193104
+sample estimates:
+       cor 
+-0.2748376 
+
+> Z$track_name[Z$speechiness == 0.438]
+character(0)
+> Z$artist[Z$speechiness == 0.438]
+character(0)
+> head(Z)
+           gen                             album
+1 Generation Z My Beautiful Dark Twisted Fantasy
+2 Generation Z My Beautiful Dark Twisted Fantasy
+3 Generation Z My Beautiful Dark Twisted Fantasy
+4 Generation Z My Beautiful Dark Twisted Fantasy
+5 Generation Z My Beautiful Dark Twisted Fantasy
+6 Generation Z My Beautiful Dark Twisted Fantasy
+      artist                    track_name
+1 Kanye West                  Dark Fantasy
+2 Kanye West                      Gorgeous
+3 Kanye West                         POWER
+4 Kanye West All Of The Lights (Interlude)
+5 Kanye West             All Of The Lights
+6 Kanye West                       Monster
+                              track_id duration_ms
+1 spotify:track:7yNK27ZTpHew0c55VvIJgm      280787
+2 spotify:track:23SZWX2IaDnxmhFsSLvkG2      357653
+3 spotify:track:2gZUPNdnz5Y45eiGxpHGSc      292093
+4 spotify:track:4D6TpthzUVNTjWQqfBW5Kb       62253
+5 spotify:track:22L7bfCiAkJo5xGSQgmiIO      299613
+6 spotify:track:1ZHYJ2Wwgxes4m8Ba88PeK      378893
+  danceability energy key loudness mode
+1        0.599 0.5870   5   -5.919    1
+2        0.598 0.7130   6   -3.625    0
+3        0.542 0.9140   0   -4.747    0
+4        0.296 0.0792  10  -16.569    0
+5        0.531 0.8030   1   -3.284    1
+6        0.628 0.6920   2   -5.640    1
+  speechiness acousticness instrumentalness
+1      0.0423      0.27400         0.00e+00
+2      0.0326      0.02070         1.75e-04
+3      0.1130      0.01610         0.00e+00
+4      0.0389      0.90200         5.91e-01
+5      0.0717      0.07960         1.71e-05
+6      0.2020      0.00244         1.29e-02
+  liveness valence   tempo time_signature
+1    0.167  0.3730  87.998              4
+2    0.431  0.1180  91.964              4
+3    0.744  0.5760 153.993              4
+4    0.128  0.4960 110.950              3
+5    0.176  0.2210 142.113              4
+6    0.668  0.0963 124.887              5
+> Z[Z$speechiness == 0.438]
+data frame with 0 columns and 149 rows
+> Z$track_name[Z$speechiness == 0.438]
+character(0)
+> M$track_name[M$speechiness == 0.438]
+character(0)
+> A$speechiness == 0.438
+  [1] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+  [8] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [15] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [22] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [29] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [36] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [43] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [50] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [57] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [64] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [71] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [78] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [85] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [92] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [99] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[106] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[113] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[120] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[127] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[134] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[141] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[148] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[155] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[162] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[169] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[176] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[183] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[190] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[197] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[204] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[211] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[218] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[225] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[232] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[239] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[246] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[253] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[260] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[267] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[274] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[281] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[288] FALSE FALSE FALSE  TRUE FALSE FALSE FALSE
+[295] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[302] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[309] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[316] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[323] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[330] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[337] FALSE FALSE FALSE FALSE  TRUE FALSE FALSE
+[344] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[351] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[358] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[365] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[372] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[379] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[386] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[393] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[400] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[407] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[414] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[421] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[428] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[435] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[442] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[449] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[456] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[463] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[470] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[477] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[484] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[491] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[498] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[505] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[512] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[519] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[526] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[533] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[540] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[547] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[554] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[561] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[568] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[575] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[582] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[589] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[596] FALSE FALSE FALSE FALSE FALSE FALSE
+> M$speechiness == 0.438
+  [1] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+  [8] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [15] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [22] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [29] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [36] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [43] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [50] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [57] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [64] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [71] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [78] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [85] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [92] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [99] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[106] FALSE FALSE FALSE FALSE FALSE
+> Z$speechiness == 0.438
+  [1] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+  [8] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [15] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [22] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [29] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [36] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [43] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [50] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [57] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [64] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [71] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [78] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [85] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [92] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [99] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[106] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[113] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[120] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[127] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[134] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[141] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[148] FALSE FALSE
+> X$speechiness == 0.438
+  [1] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+  [8] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [15] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [22] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [29] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [36] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [43] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [50] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [57] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [64] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [71] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [78] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [85] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [92] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [99] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[106] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[113] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[120] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[127] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[134] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[141] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[148] FALSE  TRUE FALSE FALSE FALSE FALSE FALSE
+[155] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[162] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[169] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[176] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[183] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[190] FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+[197] FALSE FALSE  TRUE FALSE
+> X$track_name[X$speechiness == 0.438]
+[1] "Tonight - Tonight Strings Alone Mix"
+[2] "40 Sec. (40 Second Song) - Demo"    
+> X$artist[X$track_name == "Tonight - Tonight Strings Alone Mix"]
+[1] "Smashing Pumpkins"
+> X$artist[X$track_name == "40 Sec. (40 Second Song) - Demo"]
+[1] "R.E.M."
+> M$speechiness[M$artist == "Eminem"]
+ [1] 0.0437 0.0521 0.0512 0.0376 0.0417 0.0564
+ [7] 0.0317 0.0792 0.0263 0.0356 0.0431 0.0341
+[13] 0.0940 0.0678 0.0526 0.0297 0.0380 0.0284
+[19] 0.0455 0.0347
+> X$speechiness[X$artist == "Dr. Dre"]
+ [1] 0.0564 0.0647 0.0388 0.0894 0.0381 0.0566
+ [7] 0.1750 0.0695 0.1070 0.1280 0.1020 0.0317
+[13] 0.1250 0.0674 0.0665 0.1360 0.2990 0.0534
+> Z$speechiness[Z$artist == "Kanye West"]
+ [1] 0.0423 0.0326 0.1130 0.0389 0.0717 0.2020
+ [7] 0.2830 0.0721 0.1090 0.1290 0.0688 0.1840
+[13] 0.3600
+> Z$speechiness[Z$artist == "Drake"]
+ [1] 0.0423 0.0326 0.1130 0.0389 0.0717 0.2020
+ [7] 0.2830 0.0721 0.1090 0.1290 0.0688 0.1840
+[13] 0.3600 0.0370 0.4050 0.2100 0.0535 0.0632
+[19] 0.2160 0.0426 0.0348 0.0474 0.3050 0.0850
+[25] 0.2370
+> Z$speechiness[Z$artist == "Kendrick Lamar"]
+ [1] 0.0423 0.0326 0.1130 0.0389 0.0717 0.2020
+ [7] 0.2830 0.0721 0.1090 0.1290 0.0688 0.1840
+[13] 0.3600 0.0370 0.4050 0.2100
+> mean(X$speechiness[X$artist == "Smashing Pumpkins"])
+[1] 0.119134
+> mean(X$speechiness[X$artist == "R.E.M."])
+[1] 0.1099533
+> mean(M$speechiness[M$artist == "Eminem"])
+[1] 0.04617
+> mean(X$speechiness[X$artist == "Dr. Dre"])
+[1] 0.09469444
+> mean(Z$speechiness[Z$artist == "Kanye West"])
+[1] 0.1312615
+> mean(Z$speechiness[Z$artist == "Drake"])
+[1] 0.137716
+> mean(Z$speechiness[Z$artist == "Kendrick Lamar"])
+[1] 0.1474
+> 
+> 
+> mean(BB$speechiness[BB$artist == "Bob Dylan"])
+[1] 0.03626667
+> mean(BB$speechiness[BB$artist == "The Beatles"])
+[1] 0.0382
+> mean(BB$speechiness[BB$artist == "Marvin Gaye"])
+[1] 0.03626667
+> mean(BB$speechiness[BB$artist == "Carole King"])
+[1] 0.03848333
+> mean(BB$speechiness[BB$artist == "Led Zeppelin"])
+[1] 0.03875
+> mean(BB$speechiness[BB$artist == "The Rolling Stones"])
+[1] 0.04670714
+> mean(BB$speechiness[BB$artist == "Stevie Wonder"])
+[1] 0.03626667
+> mean(BB$speechiness[BB$artist == "Eagles"])
+[1] 0.03998
+> mean(BB$speechiness[BB$artist == "Bob Marley & the Wailers"])
+[1] 0.03836
+> mean(BB$speechiness[BB$artist == "Various Artists"])
+[1] 0.04341905
+> 
+> 
+> mean(X$speechiness[X$artist == "Nirvana"])
+[1] 0.08324615
+> mean(X$speechiness[X$artist == "Pearl Jam"])
+[1] 0.08107333
+> mean(X$speechiness[X$artist == "Radiohead"])
+[1] 0.07976667
+> mean(X$speechiness[X$artist == "Rage Against the Machine"])
+[1] 0.07976667
+> mean(X$speechiness[X$artist == "Sublime"])
+[1] 0.09712353
+> mean(X$speechiness[X$artist == "Red Hot Chili Peppers"])
+[1] 0.1041842
+> mean(X$speechiness[X$artist == "No Doubt"])
+[1] 0.08211429
+> 
+> 
+> mean(M$speechiness[M$artist == "Britney Spears"])
+[1] 0.04439167
+> mean(M$speechiness[M$artist == "Jimmy Eat World"])
+[1] 0.04532727
+> mean(M$speechiness[M$artist == "Avril Lavigne"])
+[1] 0.04820769
+> mean(M$speechiness[M$artist == "Blink-182"])
+[1] NaN
+> mean(M$speechiness[M$artist == "blink-182"])
+[1] 0.04439167
+> mean(M$speechiness[M$artist == "Christina Aguilera"])
+[1] 0.0479
+> mean(M$speechiness[M$artist == "P!nk"])
+[1] 0.04711667
+> mean(M$speechiness[M$artist == "Green Day"])
+[1] 0.04665556
+> mean(M$speechiness[M$artist == "Backstreet Boys"])
+[1] 0.04439167
+> mean(M$speechiness[M$artist == "Fallout Boy"])
+[1] NaN
+> mean(M$speechiness[M$artist == "Fall Out Boy"])
+[1] 0.04820769
+> 
+> 
+> mean(Z$speechiness[Z$artist == "Beyoncé"])
+[1] 0.1312615
+> mean(Z$speechiness[Z$artist == "Taylor Swift"])
+[1] 0.1335792
+> mean(Z$speechiness[Z$artist == "Billie Eilish"])
+[1] 0.1245286
+> mean(Z$speechiness[Z$artist == "Lorde"])
+[1] 0.1056727
+> mean(Z$speechiness[Z$artist == "Adele"])
+[1] 0.1056727
+> mean(Z$speechiness[Z$artist == "Ariana Grande"])
+[1] 0.1122
+> mean(Z$speechiness[Z$artist == "Justin Bieber"])
+[1] 0.10936
+> 
