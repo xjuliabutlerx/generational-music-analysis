@@ -1,0 +1,602 @@
+gen,album,artist,track_name,track_id,duration_ms,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+Baby Boomer,Highway 61 Revisited,Bob Dylan,Like a Rolling Stone,spotify:track:3AhXZa8sUQht0UEdBJgpGc,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Highway 61 Revisited,Bob Dylan,Tombstone Blues,spotify:track:5JqsRFZYDtIK5Rgeuzd2Jv,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Highway 61 Revisited,Bob Dylan,It Takes a Lot to Laugh - It Takes a Train to Cry,spotify:track:2yaf46YMxA5y6bzmWUKgXC,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Highway 61 Revisited,Bob Dylan,From a Buick 6,spotify:track:6txGFpco4cfgG1sA1MxLCp,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Highway 61 Revisited,Bob Dylan,Ballad of a Thin Man,spotify:track:0f5N14nB8xi0p3o4BlVvbx,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Highway 61 Revisited,Bob Dylan,Queen Jane Approximately,spotify:track:0c2DAekH6ZEnHhf8dM1leK,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Highway 61 Revisited,Bob Dylan,Highway 61 Revisited,spotify:track:6os5B6xjuke9YfBKH3tu1e,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Highway 61 Revisited,Bob Dylan,Just Like Tom Thumb's Blues,spotify:track:0V1771LhL3tG36pb55EZAH,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Highway 61 Revisited,Bob Dylan,Desolation Row,spotify:track:4n1ZGm3TxYmoYe1YR8cMus,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,spotify:track:4fUKE8EULjQdHF4zb0M8FO,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,With A Little Help From My Friends - Remastered 2009,spotify:track:2RnPATK99oGOZygnD2GTO6,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Lucy In The Sky With Diamonds - Remastered 2009,spotify:track:25yQPHgC35WNnnOUqFhgVR,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Getting Better - Remastered 2009,spotify:track:3LtOmWpTXLhilL5odoKysR,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Fixing A Hole - Remastered 2009,spotify:track:3pKKxkeB1pOUMHwWBmKc3Y,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,She's Leaving Home - Remastered 2009,spotify:track:3PjMtNzwhDHqxoKudm6GvF,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Being For The Benefit Of Mr. Kite! - Remastered 2009,spotify:track:6W35n1UlkvqhfMZstB4BXs,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Within You Without You - Remastered 2009,spotify:track:3Umg8CDhO8dOSj7yBTInYb,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,When I'm Sixty Four - Remastered 2009,spotify:track:1NrbnHlR2BFREcyWXHIHip,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Lovely Rita - Remastered 2009,spotify:track:6h9W5FxX4E9lUFsyq8j1AD,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Good Morning Good Morning - Remastered 2009,spotify:track:0xIuNHHcKI1JDuBPlSwzb1,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009,spotify:track:42ocGQCOT0xYtV3f5kJDsD,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Baby Boomer,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,A Day In The Life - Remastered 2009,spotify:track:0hKRSZhUGEhKU6aNSPBACZ,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Baby Boomer,What's Going On,Marvin Gaye,What's Going On,spotify:track:3Um9toULmYFGCpvaIPFw7l,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,What's Going On,Marvin Gaye,What's Happening Brother,spotify:track:4ihykcy9d9SSC5qxHIhPcf,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,What's Going On,Marvin Gaye,Flyin' High (In The Friendly Sky),spotify:track:0ycb2zVgjpzJU6PSXZGn34,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,What's Going On,Marvin Gaye,Save The Children,spotify:track:1RpoUhwpD8ZtpJhq41EU9k,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,What's Going On,Marvin Gaye,God Is Love,spotify:track:0osLiChas8MULX2V1Ak6Ji,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,What's Going On,Marvin Gaye,Mercy Mercy Me (The Ecology),spotify:track:3IDc87lrpEHWFBASmgTgFV,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,What's Going On,Marvin Gaye,Right On,spotify:track:3QSESroDjgnIp5dNGiBe6N,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,What's Going On,Marvin Gaye,Wholy Holy,spotify:track:4KyyKvKDgVYiwoGJOa0xVd,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,What's Going On,Marvin Gaye,Inner City Blues (Make Me Wanna Holler),spotify:track:5hReWjUHqPqkHi31G7izL4,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Tapestry,Carole King,I Feel the Earth Move,spotify:track:1BWsOxeMx83OrKGCV4gxly,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Tapestry,Carole King,So Far Away,spotify:track:4HHge4zAyIw3pkrtFzmwCl,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Tapestry,Carole King,It's Too Late,spotify:track:12q3V8ShACq2PSWINMc2rC,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Tapestry,Carole King,Home Again,spotify:track:1381rfnkAKhUeqP0J12kk3,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Tapestry,Carole King,Beautiful,spotify:track:4EGyc152dlYpuQZ47cRC8j,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Tapestry,Carole King,Way over Yonder,spotify:track:64lav7jWJqd5P4oWm4Ova6,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Tapestry,Carole King,You've Got a Friend,spotify:track:1qhp5owrFGeZ5Jgin28nwR,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Tapestry,Carole King,Where You Lead,spotify:track:0APt4t1Dab58sYmGQ4jgij,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Tapestry,Carole King,Will You Love Me Tomorrow?,spotify:track:7qVd0TKcUDUdVaUogsGm4H,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Tapestry,Carole King,Smackwater Jack,spotify:track:0PrW6YZOBGeukTkvJsSIV3,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Baby Boomer,Tapestry,Carole King,Tapestry,spotify:track:4kCS2MgX5dQFyqHy21MzJG,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Baby Boomer,Tapestry,Carole King,(You Make Me Feel Like) A Natural Woman,spotify:track:0LXljhKMUgoLv8tLwZ1hmf,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Black Dog - Remaster,spotify:track:3qT4bUD1MaWpGrTwcvguhb,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Rock and Roll - Remaster,spotify:track:4PRGxHpCpF2yoOHYKQIEwD,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,The Battle of Evermore - Remaster,spotify:track:6MSoJM9UIFHozmBCduQRje,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Stairway to Heaven - Remaster,spotify:track:5CQ30WqJwcep0pYcV4AMNc,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Misty Mountain Hop - Remaster,spotify:track:5NnZ4JJxWiqqhYNu3rwmFj,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Four Sticks - Remaster,spotify:track:4Sc5qEOSFI5rfS9IDyu0GO,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Going to California - Remaster,spotify:track:70gbuMqwNBE2Y5rkQJE9By,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,When the Levee Breaks - Remaster,spotify:track:05f8Hg3RSfiPSCBQOtxl3i,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Black Dog - Basic Track with Guitar Overdubs,spotify:track:59Zl5fFDhkGhFv0TGeyqbv,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Rock and Roll - Alternate Mix,spotify:track:35a7EjRYYLLyH4prB1zExl,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,The Battle of Evermore - Mandolin / Guitar Mix from Headley Grange,spotify:track:3gyroWpKKzkVkOhLJ57Tv5,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Stairway to Heaven - Sunset Sound Mix,spotify:track:7llNWna9CEKr88Ng4vAwiI,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Misty Mountain Hop - Alternate Mix,spotify:track:05BTaDBhGylMDjupCczCwC,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Four Sticks - Alternate Mix,spotify:track:4Y4xWuvM7MKGKxECXfnKtV,156827,0.469,0.507,0,-8.917,0,0.0451,0.382,0,0.0783,0.619,112.984,4
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,Going to California - Mandolin / Guitar Mix,spotify:track:7s2HYAN8PSba9OGqgTL7mo,215160,0.381,0.214,4,-11.629,1,0.0337,0.944,0,0.106,0.393,127.581,3
+Baby Boomer,Led Zeppelin IV,Led Zeppelin,When the Levee Breaks - Alternate UK Mix in Progress,spotify:track:1zLAyTaKUdiZSmOifuu2kv,157533,0.526,0.413,0,-9.865,1,0.0446,0.338,0,0.0992,0.71,111.874,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Rocks Off,spotify:track:1m8cwYJxSWNGxscZQOzQ7F,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Rip This Joint,spotify:track:5F5UNt3WBzmUJ3irvfAi8w,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Shake Your Hips,spotify:track:3JhfyWKIYR3opA4DpHxP1w,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Casino Boogie,spotify:track:4vUBoA4crmrgd97GH8j01B,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Tumbling Dice,spotify:track:6DjtOcS3xQO8LETk8O4qgE,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Sweet Virginia,spotify:track:3thuVspq7oLlgDE7d7HTqz,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Torn And Frayed,spotify:track:6dE1etqLwt5GUUBVQdIgBB,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Sweet Black Angel,spotify:track:4Cg8Nl5JjI4Df0AMbm18u7,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Loving Cup,spotify:track:34OzAaQeAWlFnZBSyUAtRh,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Happy,spotify:track:5fXRPS1tp70DbqsBZVyG4e,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Turd On The Run,spotify:track:3aZyQJSjtrzPXi670Dp7dN,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Ventilator Blues,spotify:track:4qI7G7K9MNbekIXmCI3m18,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,I Just Want To See His Face,spotify:track:2s9SV3uTSdEf2Z3pSfou6d,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Let It Loose,spotify:track:7D2f7zoIwRxeIhmeer8aWm,156827,0.469,0.507,0,-8.917,0,0.0451,0.382,0,0.0783,0.619,112.984,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,All Down The Line,spotify:track:2tPYeRNVROwJpG7tOHXJTZ,215160,0.381,0.214,4,-11.629,1,0.0337,0.944,0,0.106,0.393,127.581,3
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Stop Breaking Down,spotify:track:30t7Yif8FyeCANkW2Beii3,157533,0.526,0.413,0,-9.865,1,0.0446,0.338,0,0.0992,0.71,111.874,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Shine A Light,spotify:track:2EH595eXhTlOp8BlcOX5Y4,304667,0.352,0.479,6,-9.965,1,0.0338,0.339,0.000353,0.486,0.354,126.166,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Soul Survivor,spotify:track:4A4dDKVaoruaFbgUJIufXk,157667,0.704,0.241,1,-13.258,1,0.0476,0.625,2.8E-05,0.0868,0.661,140.411,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Pass The Wine (Sophia Loren),spotify:track:0AhnC2WcLw6ZX1oXoD75gK,162093,0.61,0.471,8,-9.151,0,0.0261,0.0634,0,0.118,0.63,87.379,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Plundered My Soul,spotify:track:77JJtpB6aAxGI9jNTBVbWu,161227,0.542,0.618,2,-8.876,1,0.139,0.0858,0,0.772,0.93,121.849,3
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,I'm Not Signifying,spotify:track:6RGzYkvUeDxTHPgvud1He8,79067,0.653,0.889,0,-8.006,1,0.0453,0.0061,0.589,0.892,0.879,118.773,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Following The River,spotify:track:5YBVKx51h8YouVHkpDM3A3,337413,0.364,0.457,4,-14.162,0,0.0675,0.29,0.000106,0.922,0.175,163.219,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Dancing In The Light,spotify:track:0c1g0H2Kky6iBg2WkjGaOI,233000,0.283,0.716,1,-9.632,0,0.0986,0.447,0,0.399,0.828,201.96,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,So Divine (Aladdin Story),spotify:track:0EHtgDgLhb44gcRb41p1AK,163680,0.461,0.672,5,-10.699,0,0.0401,0.565,0.313,0.239,0.701,97.651,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Loving Cup - Alternate Take,spotify:track:2skiGld2KxenMUceC79a30,229573,0.383,0.417,7,-12.155,0,0.0316,0.83,0.00154,0.2,0.584,109.319,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Soul Survivor - Alternate Take,spotify:track:7k1bo4ZVPHL3Ofu2Sqhyb2,243040,0.306,0.574,9,-10.632,0,0.0426,0.694,0.000112,0.713,0.537,106.342,3
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Good Time Women,spotify:track:1Y7a8V3ihh9zpmmiqJ3sue,101827,0.551,0.815,0,-9.631,0,0.0681,0.763,0,0.729,0.789,99.092,4
+Baby Boomer,Exile On Main Street (Deluxe Version),The Rolling Stones,Title 5,spotify:track:0L9upeBPGyAEVtJTeMS0NZ,193573,0.498,0.634,6,-12.16,0,0.0475,0.328,0.748,0.0962,0.515,93.161,4
+Baby Boomer,Innervisions,Stevie Wonder,Too High,spotify:track:60TB2Ifv7CCjjyROXXnChC,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Innervisions,Stevie Wonder,Visions,spotify:track:43LDXcy86qmEgfy6Wd2AZk,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Innervisions,Stevie Wonder,Living For The City,spotify:track:3qvuhGBr6BSdGPQsdf2gLr,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Innervisions,Stevie Wonder,Golden Lady,spotify:track:1bpaA5Pn4jlo1cRAOBNQnh,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Innervisions,Stevie Wonder,Higher Ground,spotify:track:0dMd4rilfd6gPbXaLpNYhu,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Innervisions,Stevie Wonder,Jesus Children Of America,spotify:track:0FKbjXqDqOqFnKZEHbHerY,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Innervisions,Stevie Wonder,All In Love Is Fair,spotify:track:7asmbWITwvuo1toSvoImnk,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Innervisions,Stevie Wonder,Don't You Worry 'Bout A Thing,spotify:track:1QvWxgZvTU0w8rlPRE5Zrv,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Innervisions,Stevie Wonder,He's Misstra Know-It-All,spotify:track:7sQ9eys8uVNrCsPyzYlDgG,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Take It Easy - 2013 Remaster,spotify:track:5kT9zYfbVQa2Dz1s2QJ7aw,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Witchy Woman - 2013 Remaster,spotify:track:1bNVtTNLgeOVgWUqBdXwyP,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Lyin' Eyes - 2013 Remaster,spotify:track:1MgDXY89MOoohMeaMoHaED,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Already Gone - 2013 Remaster,spotify:track:3skDOBrSq9FWtKDBFawLt0,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Desperado - 2013 Remaster,spotify:track:7CtHtpkGwE4JAhg7wsmAit,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,One of These Nights - 2013 Remaster,spotify:track:0EbLzgRAninN9VKUooiweR,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Tequila Sunrise - 2013 Remaster,spotify:track:5M9sPsOUhrBlw82xIzrTj4,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Take It to the Limit - 2013 Remaster,spotify:track:10QgpqUonnv6spY6CEYUIg,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,Peaceful Easy Feeling - 2013 Remaster,spotify:track:7358RmiSV37br3RdwF3PNe,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Their Greatest Hits 1971–1975 (2013 Remaster),Eagles,The Best of My Love - 2013 Remaster,spotify:track:1SygWpTusxfl3yhOspfXbH,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Natural Mystic,spotify:track:2gvyIHua7cS9L53NvHfa9c,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,So Much Things To Say,spotify:track:4z62783TED1Rz0XOpBLOV7,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Guiltiness,spotify:track:6HrfowLOfZo2hy01Md494V,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,The Heathen,spotify:track:3GlaUbcv4UvNR6bFLzAZJe,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Exodus,spotify:track:5nDPGDOqmAeSV4hXQsAU01,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Jamming,spotify:track:4zn0kScuV9Oj28d4g9CQQs,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Waiting In Vain,spotify:track:4Gq2ydMKhDZmctzkmk2bYo,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Turn Your Lights Down Low,spotify:track:5qX1QLYUgzhIdrjKUnRd3p,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Three Little Birds,spotify:track:6A9mKXlFRPMPem6ygQSt7z,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,One Love / People Get Ready - Medley,spotify:track:2HcyIzVsX45jLIxK7SH2aI,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Roots,spotify:track:3gBayDLYifAkoGXGOSN8mD,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Waiting In Vain - Alternate Version,spotify:track:18nAHjKEvZ9s0aJkjPg79j,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Baby Boomer,Exodus,Bob Marley & the Wailers,Jamming - Long Version,spotify:track:1JD0IQb6UR5BJvRBg6hfTi,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Jammin',spotify:track:3nx9g7KqzEgLvvY32zgF0O,156827,0.469,0.507,0,-8.917,0,0.0451,0.382,0,0.0783,0.619,112.984,4
+Baby Boomer,Exodus,Bob Marley & the Wailers,Exodus - B-Side / Single Version,spotify:track:549XeLNUCJ2i1rGucL0rxY,215160,0.381,0.214,4,-11.629,1,0.0337,0.944,0,0.106,0.393,127.581,3
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",spotify:track:2xSXw1EqGSAKc1e4TPaQvV,369600,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"How Deep Is Your Love - From ""Saturday Night Fever"" Soundtrack",spotify:track:0qp2BkreL7bxaFdc25VihQ,356227,0.504,0.808,11,-7.25,1,0.0584,0.408,0,0.316,0.653,123.866,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"Night Fever - From ""Saturday Night Fever"" Soundtrack",spotify:track:0MEaPVD5sOZ17HhhjBZs3Z,245133,0.493,0.579,8,-7.743,1,0.0319,0.772,8.06E-05,0.0759,0.475,93.353,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",spotify:track:3KfFrcJoCFXU2uFiO7XwTh,195693,0.287,0.72,0,-6.231,1,0.0347,0.756,3.41E-06,0.263,0.709,176.302,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"If I Can't Have You - From ""Saturday Night Fever""",spotify:track:074AR1n9TLRFUPJqYSvA7r,356707,0.473,0.574,11,-8.189,0,0.032,0.695,0,0.509,0.499,74.056,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,A Fifth Of Beethoven,spotify:track:1hR3TNe1neCWRQatSVOFfX,327467,0.369,0.691,0,-6.234,1,0.0387,0.778,1.39E-05,0.327,0.382,104.371,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,More Than A Woman,spotify:track:5ShjoIfQ2smGbEJmtZcnc0,205827,0.49,0.808,10,-6.725,1,0.0409,0.475,0,0.232,0.604,73.434,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Manhattan Skyline,spotify:track:4r8aHCSHA98P1BYqvJN8kI,327560,0.497,0.511,7,-8.318,1,0.0271,0.702,0,0.262,0.591,99.5,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Calypso Breakdown,spotify:track:3b1spTfHQuTNARogTNdEEg,681400,0.432,0.605,4,-6.941,1,0.0306,0.673,0,0.129,0.647,109.227,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Night On Disco Mountain,spotify:track:28tBgzjteGWhCdaqLHnBCp,122893,0.451,0.673,7,-9.115,1,0.0734,0.0857,0.00225,0.797,0.583,95.513,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Open Sesame,spotify:track:50x1irgeizXACZHBVjOwaQ,164107,0.705,0.515,4,-9.343,1,0.0337,0.365,0,0.389,0.803,112.035,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"Jive Talkin' - From ""Saturday Night Fever"" Soundtrack",spotify:track:42JeTLyBwAsF1ZstI13ZYn,208467,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,"You Should Be Dancing - Edit / From ""Saturday Night Fever"" Soundtrack",spotify:track:7pzmpzvdtgIFKQz2vHbkOp,168120,0.632,0.471,0,-7.887,1,0.0348,0.313,5.08E-06,0.0712,0.764,121.672,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Boogie Shoes,spotify:track:00rC38CxKlB12JUrFlTtdo,156827,0.469,0.507,0,-8.917,0,0.0451,0.382,0,0.0783,0.619,112.984,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Salsation,spotify:track:5Lh9kNx3ipZC5rcaUkzKqo,215160,0.381,0.214,4,-11.629,1,0.0337,0.944,0,0.106,0.393,127.581,3
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,K-Jee,spotify:track:5w23eYaDFKvK7RUTjkwQ56,157533,0.526,0.413,0,-9.865,1,0.0446,0.338,0,0.0992,0.71,111.874,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Disco Inferno,spotify:track:41770OEb7f3rWxhmdDGd0s,304667,0.352,0.479,6,-9.965,1,0.0338,0.339,0.000353,0.486,0.354,126.166,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Stayin’ Alive - Serban Mix,spotify:track:53PwxPLdWS1tsNgoAfxTv4,157667,0.704,0.241,1,-13.258,1,0.0476,0.625,2.8E-05,0.0868,0.661,140.411,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,Night Fever - Serban Mix,spotify:track:7CD7yloFjtrD75PRbZwgUN,162093,0.61,0.471,8,-9.151,0,0.0261,0.0634,0,0.118,0.63,87.379,4
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,How Deep Is Your Love - Serban Mix,spotify:track:7hc7MTHJtzm3if3lFxqQoI,161227,0.542,0.618,2,-8.876,1,0.139,0.0858,0,0.772,0.93,121.849,3
+Baby Boomer,Saturday Night Fever (The Original Movie Soundtrack),Various Artists,You Should Be Dancing - Serban Mix,spotify:track:1kOobcwqi08IGUYFGnuM7o,79067,0.653,0.889,0,-8.006,1,0.0453,0.0061,0.589,0.892,0.879,118.773,4
+Generation X,Nevermind,Nirvana,Smells Like Teen Spirit,spotify:track:5ghIJDpPoe3CfHMGu71E6T,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,Nevermind,Nirvana,In Bloom - Nevermind Version,spotify:track:30HCB1FoE77IfGRyNv4eFq,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,Nevermind,Nirvana,Come As You Are,spotify:track:4P5KoWXOxwuobLmHXLMobV,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,Nevermind,Nirvana,Breed,spotify:track:5mJGLBNJM0GULqAoL5mb9C,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,Nevermind,Nirvana,Lithium,spotify:track:2YodwKJnbPyNKe8XXSE9V7,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,Nevermind,Nirvana,Polly,spotify:track:3tlXDvaNrrOmdvG0XVUOcv,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,Nevermind,Nirvana,Territorial Pissings,spotify:track:2jmVGWe4MYY1zAAzpFHHcC,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,Nevermind,Nirvana,Drain You,spotify:track:5Ddlk6C2JVxb1SReZ6O1wk,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,Nevermind,Nirvana,Lounge Act,spotify:track:7glld4kxYHp61zIPtSVHNk,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,Nevermind,Nirvana,Stay Away,spotify:track:4l012k8ZcAdVbUvZ4kae5Q,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,Nevermind,Nirvana,On A Plain,spotify:track:651koV4RRMMX6NDbW1ElwP,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,Nevermind,Nirvana,Something In The Way,spotify:track:1nFtiJxYdhtFfFtfXBv06s,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,Nevermind,Nirvana,Endless Nameless,spotify:track:0vNHCXmNzVa8h54SE3JDm7,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Generation X,Ten,Pearl Jam,NI BIEN NI MAL,spotify:track:278kSqsZIiYp8p3QjYAqa8,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,Ten,Pearl Jam,200 Mph,spotify:track:5jGUJXnELDaDTgiRjD9lsg,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,Ten,Pearl Jam,¿Quien Tu Eres?,spotify:track:6kN06eEOblRAuWI0xUUS91,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,Ten,Pearl Jam,Caro,spotify:track:6it15CsDlkqB7N4lF0C1qM,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,Ten,Pearl Jam,Tenemos Que Hablar,spotify:track:5VQpJ2AY2iMzrRZKgcvNjh,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,Ten,Pearl Jam,Otra Noche en Miami,spotify:track:4vCAzANUWDE24URV6wQ4ra,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,Ten,Pearl Jam,Ser Bichote,spotify:track:4UEuIEv9Wc3wtiWUplGJ7q,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,Ten,Pearl Jam,Si Estuviésemos Juntos,spotify:track:35wvL50xvKpCHEJPxLOLPI,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,Ten,Pearl Jam,Solo de Mi,spotify:track:4uP3pUP18ennmz0tb3GphR,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,Ten,Pearl Jam,Cuando Perriabas,spotify:track:5mj8WVFcKdGA8p9HWGTSLc,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,Ten,Pearl Jam,La Romana,spotify:track:1khmgu0pveJbkbpbkyvcQv,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,Ten,Pearl Jam,Como Antes,spotify:track:69ZaPBHhRMRDjRpW1ivnOU,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,Ten,Pearl Jam,RLNDT,spotify:track:6pZHZndlo57dPCYnvlYFOE,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Generation X,Ten,Pearl Jam,Estamos Bien,spotify:track:2OWVCFTolecLiGZPquvWvT,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85E-05,0.273,0.337,128.028,4
+Generation X,Ten,Pearl Jam,MIA,spotify:track:3gE4eQH3K83Sght0ZLvuBK,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Generation X,The Chronic,Dr. Dre,Za Intro,spotify:track:3ly55KcHynFmnLC4rIS1I9,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,The Chronic,Dr. Dre,Papercuts,spotify:track:7DuQR4z7LlwRwc8me77lQE,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,The Chronic,Dr. Dre,Petrified Life and the Twice Told Joke (Decrepit Bricks),spotify:track:6j6gfFkEN7i3bcK420MXY7,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,The Chronic,Dr. Dre,Make Out Club,spotify:track:1dAoX0xlJNHplf2XnajfyV,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,The Chronic,Dr. Dre,Taxi Driver,spotify:track:3pPRpc4h3EpfmPFlmRLa3w,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,The Chronic,Dr. Dre,So Long Friend,spotify:track:7aQ9c2MuMtqKIFWYQ3lkHn,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,The Chronic,Dr. Dre,Everyday's Forecast,spotify:track:76m0jeFQOPdhWWw8ajFtTk,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,The Chronic,Dr. Dre,Pillmatic,spotify:track:0PKJVwHrtTvzb1s5dLnQj9,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,The Chronic,Dr. Dre,Simple Livin',spotify:track:7yUjVFImNSJSWa5lKXcGsK,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,The Chronic,Dr. Dre,Cupid's Chokehold / Breakfast in America,spotify:track:2Lhdl74nwwVGOE2Gv35QuK,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,The Chronic,Dr. Dre,Faces in the Hall,spotify:track:1jQlUGewes2CPhjF1STyIV,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,The Chronic,Dr. Dre,Graduation Day,spotify:track:1TlrTt4I1cS2f5t2NHT4sf,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,The Chronic,Dr. Dre,Apollo 3-1-5,spotify:track:0h6ag2uagWHjZoJayuoVSa,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Generation X,The Chronic,Dr. Dre,Wejustfreestylin' Pt. 2,spotify:track:7vzSJHtCDbm7XohuWLX9yk,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85E-05,0.273,0.337,128.028,4
+Generation X,The Chronic,Dr. Dre,To Bob Ross with Love,spotify:track:2sjUAoK4CfGP36I9tLiJVr,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Generation X,The Chronic,Dr. Dre,Papercuts (The Reason for the Lesions Remix by Mr. Dibbs),spotify:track:5I7c2f9tfZxy57wWWvPPX2,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58E-06,0.125,0.325,137.048,4
+Generation X,The Chronic,Dr. Dre,Kid Nothing Boy vs. the Echo Factor,spotify:track:1tlr4UNSmIimhZPXoPH16l,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Generation X,The Chronic,Dr. Dre,Band Aids,spotify:track:7mSngvDYGZHLqIAdqXmWSK,224512,0.855,0.512,11,-8.165,1,0.0534,0.146,0.000854,0.107,0.144,146.075,4
+Generation X,OK Computer,Radiohead,Airbag,spotify:track:7c378mlmubSu7NGkLFa4sN,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,OK Computer,Radiohead,Paranoid Android,spotify:track:6LgJvl0Xdtc73RJ1mmpotq,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,OK Computer,Radiohead,Subterranean Homesick Alien,spotify:track:2CVV8PtUYYsux8XOzWkCP0,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,OK Computer,Radiohead,Exit Music (For A Film),spotify:track:0z1o5L7HJx562xZSATcIpY,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,OK Computer,Radiohead,Let Down,spotify:track:2fuYa3Lx06QQJAm0MjztKr,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,OK Computer,Radiohead,Karma Police,spotify:track:63OQupATfueTdZMWTxW03A,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,OK Computer,Radiohead,Fitter Happier,spotify:track:6wnmRxEbwUK7WLyUtiRuT7,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,OK Computer,Radiohead,Electioneering,spotify:track:0gTRROuntlrPQ64W3J2Etv,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,OK Computer,Radiohead,Climbing Up the Walls,spotify:track:2PDQReEXBViVwkrbQ34vd7,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,OK Computer,Radiohead,No Surprises,spotify:track:10nyNJ6zNy2YVYLrcwLccB,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,OK Computer,Radiohead,Lucky,spotify:track:14xj58ZexBaEaHARb11Cqs,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,OK Computer,Radiohead,The Tourist,spotify:track:1UuaWKypSkIHxFZD03zw4m,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Testify,spotify:track:7lmeHLHBe4nmXzuXc0HDjk,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Guerrilla Radio,spotify:track:1wsRitfRRtWyEapl0q22o8,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Calm Like a Bomb,spotify:track:1hR0fIFK2qRG3f3RF70pb7,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Mic Check,spotify:track:2lbASgTSoDO7MTuLAXlTW0,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Sleep Now In the Fire,spotify:track:1MQTmpYOZ6fcMQc56Hdo7T,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Born of a Broken Man,spotify:track:2LXPNLSMAauNJfnC58lSqY,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Born As Ghosts,spotify:track:3moeHk8eIajvUEzVocXukf,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Maria,spotify:track:4llunZfVXv3NvUzXVB3VVL,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Voice of the Voiceless,spotify:track:21Mq0NzFoVRvOmLTOnJjng,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,New Millennium Homes,spotify:track:6s2FgJbnnMwFTpWJZzvb6z,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,Ashes In the Fall,spotify:track:7o2Razxnl33Jrgz4PpMYNa,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,The Battle Of Los Angeles,Rage Against the Machine,War Within a Breath,spotify:track:3Hxu3Ey1TV9mZ5XqMXckiS,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,Sublime,Sublime,Garden Grove,spotify:track:5tFpkuwgFZQm3jv4PTX4VB,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,Sublime,Sublime,What I Got,spotify:track:3B4q6KbHbGV51HO3GznBFF,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,Sublime,Sublime,Wrong Way,spotify:track:2PdIo7ewQPuAsP99LVg9uy,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,Sublime,Sublime,Same In The End,spotify:track:3kGt9uxpJzKTxwp2uJHrU5,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,Sublime,Sublime,April 29 1992 (Miami),spotify:track:2CLSHTGF4jYXx2RCz1h0dS,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,Sublime,Sublime,Santeria,spotify:track:2hnMS47jN0etwvFPzYk11f,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,Sublime,Sublime,Seed,spotify:track:2PkqXRMFpp3jDTbHQMIaEt,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,Sublime,Sublime,Jailhouse,spotify:track:01ZoBkMJAxjPx5gQcNR7Yl,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,Sublime,Sublime,Pawn Shop,spotify:track:4DXrhZ4tF3BeVm2aLdhdKG,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,Sublime,Sublime,Paddle Out,spotify:track:1YF9KXxz9ZFwfe39wUoeeE,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,Sublime,Sublime,The Ballad Of Johnny Butt,spotify:track:1HR7HJpYDNK495Ei5FWSIM,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,Sublime,Sublime,Burritos,spotify:track:18bt6V3IWTCp68uk5xxdtz,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,Sublime,Sublime,Under My Voodoo,spotify:track:650LnPjfwKIn1Lzwnmiscj,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Generation X,Sublime,Sublime,Get Ready,spotify:track:1ZnEt1m6su6qBHXncpLt01,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85E-05,0.273,0.337,128.028,4
+Generation X,Sublime,Sublime,Caress Me Down,spotify:track:2JKlf0IYz5oWsT3OCLyjpO,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Generation X,Sublime,Sublime,What I Got - Reprise,spotify:track:4U81vDKgj0QyxtcVl8IKCu,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58E-06,0.125,0.325,137.048,4
+Generation X,Sublime,Sublime,Doin' Time,spotify:track:4eamJr2k9YDH8j58RSTmSc,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,The Power of Equality,spotify:track:0eX5QY6o5cb9W72zVmWWjV,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,If You Have to Ask,spotify:track:2R6go62CuxqqX0w1TgXxes,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Breaking the Girl,spotify:track:0cG9ocYqYOIVtgiWTmTe3g,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Funky Monks,spotify:track:68uWKoPwSxYE6DVylRA1XI,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Suck My Kiss,spotify:track:0psB5QzGb4653K0uaPgEyh,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,I Could Have Lied,spotify:track:0NSbiBKXoODbsPwjSivfBr,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Mellowship Slinky in B Major,spotify:track:5TYQonY07iJP2ULhR4ptce,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,The Righteous & the Wicked,spotify:track:5ITOTuCOy6y4PB55CSZADE,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Give It Away,spotify:track:0uppYCG86ajpV2hSR3dJJ0,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Blood Sugar Sex Magik,spotify:track:4ddA4oHvhrGx196qF5ZyQe,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Under the Bridge,spotify:track:3d9DChrdc6BOeFsbrZ3Is0,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Naked in the Rain,spotify:track:6xid2NOIS1aqviPPe67OqF,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Apache Rose Peacock,spotify:track:3p3BfV7NeWCAHx9tSwsJEQ,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,The Greeting Song,spotify:track:5HYKskVhty99c7Txyydwmp,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85E-05,0.273,0.337,128.028,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,My Lovely Man,spotify:track:402sXCQikR6VV2x2265Jsm,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Sir Psycho Sexy,spotify:track:1J5ZXurCRQdFHWfOiFt12x,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58E-06,0.125,0.325,137.048,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,They're Red Hot,spotify:track:1jQ0EZPAY3HpBRgUev6X1Q,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Little Miss Lover - 2006 Remaster,spotify:track:1CNDe1BS7dKfUsYb5vm5rO,224512,0.855,0.512,11,-8.165,1,0.0534,0.146,0.000854,0.107,0.144,146.075,4
+Generation X,Blood Sugar Sex Magik,Red Hot Chili Peppers,Castles Made of Sand - 2006 Remaster,spotify:track:7mUNyl16vX2OrKqMAuZJF9,233128,0.514,0.646,1,-8.833,1,0.275,0.197,2.3E-05,0.0958,0.297,88.661,4
+Generation X,Tragic Kingdom,No Doubt,Spiderwebs,spotify:track:4ZD6SiaJi75smnel0d7jl3,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,Tragic Kingdom,No Doubt,Excuse Me Mr.,spotify:track:7E7UH5jsEw1vhiM01EQ5gL,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,Tragic Kingdom,No Doubt,Just A Girl,spotify:track:5lWRaa0fBxDE5yU91npPq7,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,Tragic Kingdom,No Doubt,Happy Now?,spotify:track:0v6dwtqJG3vK3mqUU6Q1yR,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,Tragic Kingdom,No Doubt,Different People,spotify:track:6PM8yaNDDfXc0kHIMSuIKR,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,Tragic Kingdom,No Doubt,Hey You,spotify:track:3eYt1hwUamWtOEXEsIVojS,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,Tragic Kingdom,No Doubt,The Climb,spotify:track:2Ux8K31dr7EJUPcs7EVmtt,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,Tragic Kingdom,No Doubt,Sixteen,spotify:track:6e4st0wnY9vIzPdnPNZ4e9,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,Tragic Kingdom,No Doubt,Sunday Morning,spotify:track:6yCjhDzcVIfxvTjBKhhn7P,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,Tragic Kingdom,No Doubt,Don't Speak,spotify:track:6urCAbunOQI4bLhmGpX7iS,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,Tragic Kingdom,No Doubt,You Can Do It,spotify:track:1mZpYgTHN7dzKBsQSrzVtP,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,Tragic Kingdom,No Doubt,World Go 'Round,spotify:track:3P59xKnHQV5HNKuMZkQB5z,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,Tragic Kingdom,No Doubt,End It On This,spotify:track:4sMtNNGcMCgu4Hn8FaTVcG,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Generation X,Tragic Kingdom,No Doubt,Tragic Kingdom,spotify:track:46g6lMl5cKrP82uTD623jB,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85E-05,0.273,0.337,128.028,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Mellon Collie And The Infinite Sadness - Remastered 2012,spotify:track:5LtIsKctHGXbE1M3U6g7qO,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Tonight - Tonight Remastered 2012,spotify:track:7bu0znpSbTks0O6I98ij0W,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Jellybelly - Remastered 2012,spotify:track:6912SIXb1G9ql3quOxeCaa,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Zero - Remastered 2012,spotify:track:4YFcGTdgmEuw8xTO4XrxbB,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Here Is No Why - Remastered 2012,spotify:track:5INe9EN6cNF6axQ4A4BQfy,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Bullet With Butterfly Wings - Remastered 2012,spotify:track:6GtX0jaNL8IjVQfrDBx81z,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,To Forgive - Remastered 2012,spotify:track:428dyogxbsqj9U5leQ9why,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,An Ode To No One - Remastered 2012,spotify:track:6W9nK2wPyJklgDVf0AQcPO,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Love - Remastered 2012,spotify:track:2rBp8ix2ieRutorlsmPf9K,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Cupid De Locke - Remastered 2012,spotify:track:7zwwvrJAWGjfc9wFD3bVzZ,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Galapogos - Remastered 2012,spotify:track:2yKrGPtIwsiwv5tGTDgpNd,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Muzzle - Remastered 2012,spotify:track:6UuGRkwfLwBAfmHktU9GNA,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Porcelina Of The Vast Oceans - Remastered 2012,spotify:track:7mNyAFramOVsGZxdRyz4KQ,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Take Me Down - Remastered 2012,spotify:track:72ZZqYFcpdIxC84EYsWjpP,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85E-05,0.273,0.337,128.028,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Where Boys Fear To Tread - Remastered 2012,spotify:track:7luW8OHN1fDFj6l0lDTViG,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Bodies - Remastered 2012,spotify:track:4A0f5CrcOYRVwihIQkcHdP,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58E-06,0.125,0.325,137.048,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Thirty-Three - Remastered 2012,spotify:track:1fPKWu8NKS1ZGHjFZ5QCAs,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,In The Arms Of Sleep - Remastered 2012,spotify:track:0DqjIXjwhDOKVl7ChheeIc,224512,0.855,0.512,11,-8.165,1,0.0534,0.146,0.000854,0.107,0.144,146.075,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,1979 - Remastered 2012,spotify:track:5QLHGv0DfpeXLNFo7SFEy1,233128,0.514,0.646,1,-8.833,1,0.275,0.197,2.3E-05,0.0958,0.297,88.661,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Tales Of A Scorched Earth - Remastered 2012,spotify:track:0i5zjBavIn1LsTsh9oh54d,193211,0.785,0.626,4,-8.03,0,0.0675,0.158,4.6E-06,0.181,0.183,154.946,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Thru The Eyes Of Ruby - Remastered 2012,spotify:track:5W8AYj6e6syodRPzPrJcrb,169248,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14E-05,0.152,0.158,171.854,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Stumbleine - Remastered 2012,spotify:track:4bbdwn07T9xWdZv8siAptT,197968,0.743,0.73,10,-4.314,0,0.125,0.287,8.1E-05,0.0778,0.15,179.972,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,X.Y.U. - Remastered 2012,spotify:track:3nnvMbieuZH3L3caIRdpjk,188654,0.787,0.705,0,-7.582,1,0.0695,0.137,1.06E-06,0.108,0.499,81.998,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,We Only Come Out At Night - Remastered 2012,spotify:track:4vkcU3UFjYsKuBibmYA3hL,300579,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Beautiful - Remastered 2012,spotify:track:3HJLGDGbW7TIVq3hGJz0W9,230578,0.767,0.379,0,-10.348,1,0.0385,0.668,0.000145,0.217,0.252,103.956,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Lily (My One And Only) - Remastered 2012,spotify:track:6gKUop4OJBuLrkSqRckUNU,284853,0.6,0.528,0,-6.554,1,0.0308,0.263,0,0.588,0.142,108.025,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,By Starlight - Remastered 2012,spotify:track:56z8HT2VyKL2nTg0Q3URPb,208080,0.759,0.536,9,-6.663,0,0.173,0.821,4.57E-06,0.107,0.439,119.883,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Farewell And Goodnight - Remastered 2012,spotify:track:1VZGj6BcHwbfLxxYlhk8kI,210368,0.816,0.538,6,-6.354,0,0.0617,0.0142,0.000496,0.099,0.156,97.054,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Tonight - Tonight Strings Alone Mix,spotify:track:2RV7txGGF5WqFYz9epbmMu,100374,0.521,0.691,9,-9.933,1,0.438,0.361,0.00332,0.361,0.457,91.582,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Methusela - Sadlands Demo,spotify:track:2E54gkwifDATVOmGfQY141,206840,0.711,0.8,7,-5.752,0,0.0482,0.00169,0,0.13,0.782,92.874,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,X.Y.U. - Take 11,spotify:track:0lQ5ayZZT7od5OnKMlWry0,293040,0.669,0.673,0,-6.295,1,0.184,0.0939,0,0.323,0.804,79.242,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Zero - Synth Mix,spotify:track:4ZNrLFAiIyaep5a2IjxkIT,283373,0.642,0.723,4,-6.849,1,0.145,0.085,0,0.109,0.578,88.418,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Feelium - Sandlands Demo,spotify:track:76QnFZoJo68WkSmqNG02Hs,119813,0.631,0.655,7,-6.895,1,0.0983,0.103,0,0.123,0.54,90.017,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Autumn Nocturne - Sadlands Demo,spotify:track:2QFrQV9VuecdYbo8Hf3K4G,74040,0.413,0.743,11,-9.477,1,0.244,0.909,0.00925,0.189,0.351,88.97,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Beautiful - Loop Version,spotify:track:6ehoCaLV3xQlAwUke4odxD,261533,0.707,0.779,7,-5.835,1,0.173,0.0776,0,0.376,0.548,88.339,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Ugly - Sadlands Demo,spotify:track:6LsvKn3bsJF3ho6FBOPVC7,191840,0.616,0.8,11,-6.565,0,0.216,0.515,0.00843,0.124,0.681,110.134,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Ascending Guitars - Sadlands Demo,spotify:track:44gab1WjFHd9aNp6fqTCLa,186453,0.681,0.848,2,-6.226,0,0.0593,0.00463,0.041,0.148,0.773,80.43,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,By Starlight - Flood Rough,spotify:track:2BsIFLvt5vQIQ5V8P31trO,243773,0.72,0.744,1,-6.938,0,0.12,0.237,0,0.255,0.619,78.953,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Medellia Of The Gray Skies - Take 1,spotify:track:2QvNHexljw86Sx88oiCuPg,253547,0.803,0.675,0,-7.658,1,0.155,0.0204,6.37E-06,0.0961,0.549,102.015,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Lover - Arrangement 1 Demo,spotify:track:4fNShDRVbB3tXStdgUGncB,104241,0.38,0.634,0,-8.866,1,0.0254,0.000111,0.855,0.101,0.195,152.908,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Thru The Eyes Of Ruby - Take 7,spotify:track:0YYo6TqKJKwmxQFkmQ4nAS,149173,0.599,0.786,2,-9.105,1,0.0409,0.0664,0.763,0.122,0.808,95.086,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,In The Arms Of Sleep - Early Live Demo,spotify:track:6LILlNhfxeFKPgTfv7SVRI,72640,0.833,0.731,10,-7.396,0,0.275,0.191,0,0.345,0.788,97.957,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Lily (My One And Only) - Sadlands Demo,spotify:track:67Sq7QVImnrYx3fsJjNCAo,158653,0.659,0.597,6,-7.521,0,0.16,0.168,0,0.353,0.964,92.63,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,1979 - Sadlands Demo,spotify:track:3F3cWAsRhYjqclBTQ6D6yD,226467,0.769,0.793,1,-5.478,1,0.346,0.149,0.00179,0.0514,0.777,93.099,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Glamey Glamey - Sadlands Demo,spotify:track:3Upc5EgrQBAvQ1YUuK2zuF,241627,0.656,0.779,2,-8.648,1,0.0823,0.274,2.88E-05,0.507,0.561,135.18,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Meladori Magpie - Remastered 2012,spotify:track:7JITVuGo4pQux1zxgX6mZ9,298200,0.47,0.000581,0,-10.23,0,0.161,0.843,0.000613,0.322,0.854,89.502,3
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Mellon Collie And The Infinite Sadness - Home Piano Version,spotify:track:5eRJIckZz8y09X3sIEdngU,287880,0.305,0.872,2,-7.313,1,0.0503,0.00786,0.8,0.261,0.648,167.959,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Galapagos - Instrumental/Sadlands Demo,spotify:track:5oYVxPifOLi4PccQyeYlJS,387213,0.251,0.848,5,-6.501,1,0.0579,0.0377,0.00591,0.0545,0.207,163.709,4
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,To Forgive - Sadlands Demo,spotify:track:5MuRE115QwB0YZVMW9LEgz,267693,0.312,0.595,0,-8.919,1,0.0298,0.0484,0.00139,0.103,0.337,150.502,3
+Generation X,Mellon Collie and The Infinite Sadness (Deluxe Edition),Smashing Pumpkins,Bullet With Butterfly Wings - Sadlands Demo,spotify:track:3mTzw8eDuDda7v49fvsTkL,267187,0.293,0.276,4,-11.357,0,0.0349,0.224,0.122,0.167,0.195,121.603,4
+Generation X,Out Of Time,R.E.M.,Radio Song,spotify:track:5UBeN0XvvIvnEjyp6uThr4,301920,0.502,0.912,1,-4.556,1,0.0564,2.55E-05,0.000173,0.106,0.72,116.761,4
+Generation X,Out Of Time,R.E.M.,Losing My Religion,spotify:track:31AOj9sFz2gM0O3hMARRBx,255080,0.436,0.876,10,-4.902,0,0.0647,3.33E-05,0.000104,0.205,0.512,157.044,4
+Generation X,Out Of Time,R.E.M.,Low,spotify:track:1iJLyYspcbBW4oghhiFny0,218920,0.5,0.824,4,-5.846,0,0.0388,0.00016,0.00161,0.0916,0.539,120.125,4
+Generation X,Out Of Time,R.E.M.,Near Wild Heaven,spotify:track:378HOooPNo6LRIfVHb15nW,184040,0.262,0.969,4,-4.675,1,0.0894,3.69E-06,0.00213,0.133,0.263,158.433,4
+Generation X,Out Of Time,R.E.M.,Endgame,spotify:track:07k79SwfB5Ot1vze9qbCJi,257053,0.678,0.656,7,-6.41,1,0.0381,0.00174,0,0.0631,0.485,123.207,4
+Generation X,Out Of Time,R.E.M.,Shiny Happy People,spotify:track:1v2zyAJrChw5JnfafSkwkJ,173853,0.83,0.382,2,-11.231,0,0.0566,0.884,0.301,0.11,0.54,121.12,4
+Generation X,Out Of Time,R.E.M.,Belong,spotify:track:2RG3KoPJ4OUk9wR3rNsojK,142947,0.285,0.979,2,-4.428,1,0.175,0.000144,0,0.334,0.108,182.7,4
+Generation X,Out Of Time,R.E.M.,Half A World Away,spotify:track:0mglqLULsaV6sIYnQpXSY7,223880,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22E-06,0.184,0.198,133.358,4
+Generation X,Out Of Time,R.E.M.,Texarkana,spotify:track:7HiCcbCUj5KmyM1vsfIUlO,156427,0.341,0.964,11,-5.327,0,0.107,1.26E-05,0.000103,0.151,0.459,152.192,4
+Generation X,Out Of Time,R.E.M.,Country Feedback,spotify:track:2H2V8zM6H5RUg8dXfIhpNf,211440,0.367,0.981,11,-5.1,0,0.128,5.39E-06,0.0461,0.0822,0.205,165.21,4
+Generation X,Out Of Time,R.E.M.,Me In Honey,spotify:track:6MNzgVslfd54vz89uAMd7Q,194427,0.428,0.946,2,-4.674,1,0.102,0.000119,3.37E-06,0.141,0.358,133.26,4
+Generation X,Out Of Time,R.E.M.,Losing My Religion 1 - Demo,spotify:track:0zILa08bYFsIrt9Bjd5nue,232147,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,4
+Generation X,Out Of Time,R.E.M.,Near Wild Heaven 1 - Demo,spotify:track:6vA5OJxuVZ94cd0yVjeuYy,403293,0.271,0.959,7,-5.866,1,0.125,0.000256,0.854,0.0858,0.0642,131.846,4
+Generation X,Out Of Time,R.E.M.,Shiny Happy People 1 - Demo,spotify:track:0HGKG0QVXHMllRuPWzVlpp,236216,0.826,0.449,5,-8.33,0,0.0674,0.556,1.85E-05,0.273,0.337,128.028,4
+Generation X,Out Of Time,R.E.M.,Texarkana 1 - Demo,spotify:track:7Fj7dAyIe9DCEhiJ62yr0C,170509,0.85,0.5,8,-6.708,1,0.0665,0.0139,0.000384,0.0947,0.816,160.02,4
+Generation X,Out Of Time,R.E.M.,Untitled Demo 2,spotify:track:7xEaMMUBMrJjlEFQQ96AuO,159229,0.727,0.58,2,-6.804,0,0.136,0.185,3.58E-06,0.125,0.325,137.048,4
+Generation X,Out Of Time,R.E.M.,Radio - Acoustic (Radio Song 1) - Demo,spotify:track:6GSAKdLuj7YRIHQ6ueCnbh,229456,0.651,0.575,0,-7.739,1,0.299,0.627,0.000202,0.0961,0.248,160.007,4
+Generation X,Out Of Time,R.E.M.,Near Wild Heaven 2 - Demo,spotify:track:0TRtRnA5AxBCvTZ5VLw4ot,224512,0.855,0.512,11,-8.165,1,0.0534,0.146,0.000854,0.107,0.144,146.075,4
+Generation X,Out Of Time,R.E.M.,Shiny Happy People 2 - Demo,spotify:track:1Bxo0fa8So7pzDhnEH1CCt,233128,0.514,0.646,1,-8.833,1,0.275,0.197,2.3E-05,0.0958,0.297,88.661,4
+Generation X,Out Of Time,R.E.M.,Slow Sad Rocker (Endgame) - Demo,spotify:track:7AhwFRl0uUVSWnMsfbQAOy,193211,0.785,0.626,4,-8.03,0,0.0675,0.158,4.6E-06,0.181,0.183,154.946,4
+Generation X,Out Of Time,R.E.M.,Radio – Band (Radio Song 3) - Demo,spotify:track:28AzPNK92xQnce016pB02e,169248,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14E-05,0.152,0.158,171.854,4
+Generation X,Out Of Time,R.E.M.,Losing My Religion 2 - Demo,spotify:track:6F5x3QgA0TC6l0zsBfuzVG,197968,0.743,0.73,10,-4.314,0,0.125,0.287,8.1E-05,0.0778,0.15,179.972,4
+Generation X,Out Of Time,R.E.M.,Belong - Demo,spotify:track:0vOQQQP1YNW5Ae9kb94rzf,188654,0.787,0.705,0,-7.582,1,0.0695,0.137,1.06E-06,0.108,0.499,81.998,4
+Generation X,Out Of Time,R.E.M.,Blackbirds (Half A World Away) - Demo,spotify:track:07ong0BFwbAueSOTEdVSE3,300579,0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,4
+Generation X,Out Of Time,R.E.M.,Texarkana - Demo,spotify:track:66uHZu6QUzm0F4wV723FBa,230578,0.767,0.379,0,-10.348,1,0.0385,0.668,0.000145,0.217,0.252,103.956,4
+Generation X,Out Of Time,R.E.M.,Country Feedback - Demo,spotify:track:3NgGMqo2wi8huwXWlJ9P5R,284853,0.6,0.528,0,-6.554,1,0.0308,0.263,0,0.588,0.142,108.025,4
+Generation X,Out Of Time,R.E.M.,Me On Keyboard (Me In Honey) - Demo,spotify:track:7FY9NPJsWrI8mOvLhtAe0T,208080,0.759,0.536,9,-6.663,0,0.173,0.821,4.57E-06,0.107,0.439,119.883,4
+Generation X,Out Of Time,R.E.M.,Low - Demo,spotify:track:2UpByutmBNZ0Ja2vqZlUr8,210368,0.816,0.538,6,-6.354,0,0.0617,0.0142,0.000496,0.099,0.156,97.054,4
+Generation X,Out Of Time,R.E.M.,40 Sec. (40 Second Song) - Demo,spotify:track:43y62UughskH0LmTHLpd6J,100374,0.521,0.691,9,-9.933,1,0.438,0.361,0.00332,0.361,0.457,91.582,4
+Generation X,Out Of Time,R.E.M.,Fretless 1 - Demo,spotify:track:6Gu5s6TX9MMK9OpXMt73JL,206840,0.711,0.8,7,-5.752,0,0.0482,0.00169,0,0.13,0.782,92.874,4
+Millennials,Oops!... I Did It Again,Britney Spears,Oops!...I Did It Again,spotify:track:6naxalmIoLFWR0siv8dnQQ,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,Oops!... I Did It Again,Britney Spears,Stronger,spotify:track:5QhBKPqsnX1uY9fZNaAtZg,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,Oops!... I Did It Again,Britney Spears,Don't Go Knockin' on My Door,spotify:track:3HTkB9Nk04MJHkG0X6cL2R,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,Oops!... I Did It Again,Britney Spears,(I Can't Get No) Satisfaction,spotify:track:23dIvJu0yfes1JRFut1NMQ,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,Oops!... I Did It Again,Britney Spears,Don't Let Me Be the Last to Know,spotify:track:3OitWDgR4SzAUOm3TBmvhw,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,Oops!... I Did It Again,Britney Spears,What U See (Is What U Get),spotify:track:41cQPDvsP9vBCigVqQjnqg,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,Oops!... I Did It Again,Britney Spears,Lucky,spotify:track:2TTYIwTM2iLC1YOyHuhRMt,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Millennials,Oops!... I Did It Again,Britney Spears,One Kiss from You,spotify:track:5iW9Y4seDbBgIchT0ANY3q,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74E-06,0.379,0.674,93.993,4
+Millennials,Oops!... I Did It Again,Britney Spears,Where Are You Now,spotify:track:4MOBPIIRUgHTBAp0NpgLTm,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Millennials,Oops!... I Did It Again,Britney Spears,Can't Make You Love Me,spotify:track:7pY6xLJqmezJNG7VwuKVSH,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73E-05,0.149,0.868,108.016,4
+Millennials,Oops!... I Did It Again,Britney Spears,When Your Eyes Say It,spotify:track:30hSG0Is8yOGkFQtF20Lxu,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Millennials,Oops!... I Did It Again,Britney Spears,Dear Diary,spotify:track:1NmjzfxyAN9u5EaqHk1uIY,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Millennials,Bleed American,Jimmy Eat World,Bleed American,spotify:track:61XspFITuKmAlYdQacNCbF,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,Bleed American,Jimmy Eat World,A Praise Chorus,spotify:track:0n7d3no0cHnsnkgfFzDuj4,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,Bleed American,Jimmy Eat World,The Middle,spotify:track:6GG73Jik4jUlQCkKg9JuGO,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,Bleed American,Jimmy Eat World,Your House,spotify:track:2AYVRHuzCRn0eZipEZX4EP,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,Bleed American,Jimmy Eat World,Sweetness,spotify:track:429IbFR4yp2J81CeTwF5iY,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,Bleed American,Jimmy Eat World,Hear You Me,spotify:track:1TvNcWY7WwPLQINhimxycA,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,Bleed American,Jimmy Eat World,If You Don't Don't,spotify:track:5prYdqVZFzoOBj33WFTdJu,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Millennials,Bleed American,Jimmy Eat World,Get It Faster,spotify:track:07Bw7ACBw1xzhKpXrraskA,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74E-06,0.379,0.674,93.993,4
+Millennials,Bleed American,Jimmy Eat World,Cautioners,spotify:track:7pyt9J4sp3cDgI0xkGrRiN,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Millennials,Bleed American,Jimmy Eat World,The Authority Song,spotify:track:7gAw3OKcrfeRWOFxWs7wgK,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73E-05,0.149,0.868,108.016,4
+Millennials,Bleed American,Jimmy Eat World,My Sundown,spotify:track:7Jxz80MpbvTsrW8EttiaY0,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Millennials,Under My Skin,Avril Lavigne,Take Me Away,spotify:track:4e8HF8QcD4HlfgRT6TGDlO,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,Under My Skin,Avril Lavigne,Together,spotify:track:54ZydtdUOVRV78drWmJeII,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,Under My Skin,Avril Lavigne,Don't Tell Me,spotify:track:0dEQaNYfp5G7Sflek2Qnde,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,Under My Skin,Avril Lavigne,He Wasn't,spotify:track:0VRxqpFICUHJKuWx9sQrm6,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,Under My Skin,Avril Lavigne,How Does It Feel,spotify:track:7vTCIwHvCT3zMmtYBo0uff,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,Under My Skin,Avril Lavigne,My Happy Ending,spotify:track:6sqNctd7MlJoKDOxPVCAvU,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,Under My Skin,Avril Lavigne,Nobody's Home,spotify:track:0cZDC7uxNK8lqQ3GgyvCnD,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Millennials,Under My Skin,Avril Lavigne,Forgotten,spotify:track:5tvMPInkVFU1YQJZnQzEEL,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74E-06,0.379,0.674,93.993,4
+Millennials,Under My Skin,Avril Lavigne,Who Knows,spotify:track:6lUIEm45AdsmH3tpjRmqpU,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Millennials,Under My Skin,Avril Lavigne,Fall To Pieces,spotify:track:396WOfbkqKaXYFwx6XjdOF,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73E-05,0.149,0.868,108.016,4
+Millennials,Under My Skin,Avril Lavigne,Freak Out,spotify:track:4OGOs9wM85AnNrvSu95N0N,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Millennials,Under My Skin,Avril Lavigne,Slipped Away,spotify:track:5AZhrTm9YUCOiA3Vl2hQji,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Millennials,Under My Skin,Avril Lavigne,I Always Get What I Want,spotify:track:27Q0lsG2b9ESRSSJYPhxzp,181493,0.438,0.938,6,-5.611,0,0.094,0.00842,1.08E-06,0.806,0.584,160.212,4
+Millennials,Enema Of The State,blink-182,Dumpweed,spotify:track:5SlKhaPcdIfSjpoM2QtM4C,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,Enema Of The State,blink-182,Don't Leave Me,spotify:track:1IAeSajljaXAkLZKXBZnE8,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,Enema Of The State,blink-182,Aliens Exist,spotify:track:3nqm3DdVskqbHhmb8S8hMd,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,Enema Of The State,blink-182,Going Away To College,spotify:track:4TofVhKSYwFXRtbYo5M3h4,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,Enema Of The State,blink-182,What's My Age Again?,spotify:track:4LJhJ6DQS7NwE7UKtvcM52,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,Enema Of The State,blink-182,Dysentery Gary,spotify:track:0nGBoXoR5o9srQlP0BAZ1Y,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,Enema Of The State,blink-182,Adam's Song,spotify:track:6xpDh0dXrkVp0Po1qrHUd8,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Millennials,Enema Of The State,blink-182,All The Small Things,spotify:track:2m1hi0nfMR9vdGC8UcrnwU,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74E-06,0.379,0.674,93.993,4
+Millennials,Enema Of The State,blink-182,The Party Song,spotify:track:3AOWD3Tiswm4tIvg3aQVKu,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Millennials,Enema Of The State,blink-182,Mutt,spotify:track:3Q0yxw9mdycjnuORDvY5E6,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73E-05,0.149,0.868,108.016,4
+Millennials,Enema Of The State,blink-182,Wendy Clear,spotify:track:0GvaNolz2vhHikR26yRLmv,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Millennials,Enema Of The State,blink-182,Anthem,spotify:track:0k4jXQdPD1NkxQutE3IB1C,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Millennials,Stripped,Christina Aguilera,Dance Monkey - Stripped Back,spotify:track:1ooBIqsmV1ocRldBZrvLPD,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,Stripped,Christina Aguilera,Dance Monkey,spotify:track:2XU0oxnq2qxCpomAAuJY8K,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,Try This,P!nk,WHAT U CALL THAT,spotify:track:79bhY6Rl8q2VJRHAbWNCGl,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,Try This,P!nk,YOU TOO.,spotify:track:19JWugGPygaONjXtnUtjB5,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,Try This,P!nk,LIKE A ROCKSTAR,spotify:track:1e5Zf1EU0TAitK207VOUY7,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,Try This,P!nk,DEVILISH,spotify:track:2yi1xYIc58dUibi3iMvqWl,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,Try This,P!nk,GREENGREENGREEN,spotify:track:1ENRzsvaOA4iTw1ZUCRIW6,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,Try This,P!nk,LUST,spotify:track:51t7nQOI35g07O0z4fflO1,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,American Idiot,Green Day,American Idiot,spotify:track:6nTiIhLmQ3FWhvrGafw2zj,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,American Idiot,Green Day,Jesus of Suburbia,spotify:track:58KPPL1AdLHMvR2O2PZejr,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,American Idiot,Green Day,Holiday / Boulevard of Broken Dreams,spotify:track:0MsrWnxQZxPAcov7c74sSo,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,American Idiot,Green Day,Are We the Waiting / St. Jimmy,spotify:track:5MqV2o7iLd0lNREZ7SYL05,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,American Idiot,Green Day,Give Me Novacaine / She's a Rebel,spotify:track:11I3KKHv7g2pXiuqRDabRA,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,American Idiot,Green Day,Extraordinary Girl / Letterbomb,spotify:track:3RBXNeUbe3X7ZBch00D2St,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,American Idiot,Green Day,Wake Me up When September Ends,spotify:track:3ZffCQKLFLUvYM59XKLbVm,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Millennials,American Idiot,Green Day,Homecoming,spotify:track:4wH29TM74O3788Kn1KzWuY,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74E-06,0.379,0.674,93.993,4
+Millennials,American Idiot,Green Day,Whatsername,spotify:track:6CVWD0WRqwbR4HsiKHk1j3,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Millennials,The Eminem Show,Eminem,Curtains Up - Skit,spotify:track:0ttF21hZCPw2merE3GsHcP,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,The Eminem Show,Eminem,White America,spotify:track:15qrWkkYCfmtu1uRpGf48L,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,The Eminem Show,Eminem,Business,spotify:track:0x60P5taxdI5pcGbqbap6S,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,The Eminem Show,Eminem,Cleanin' Out My Closet,spotify:track:7BMO7O7ImjV8HNTH74Tshv,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,The Eminem Show,Eminem,Square Dance,spotify:track:27mgDrExPa3obPAYXd3yQg,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,The Eminem Show,Eminem,The Kiss - Skit,spotify:track:2J3CYFUn6eAuHz5S9IKape,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,The Eminem Show,Eminem,Soldier,spotify:track:5QD28FqaM3jTfsqWwvRZwv,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Millennials,The Eminem Show,Eminem,Say Goodbye Hollywood,spotify:track:288e3FhmVuCqPmNEfAH0h6,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74E-06,0.379,0.674,93.993,4
+Millennials,The Eminem Show,Eminem,Drips,spotify:track:7io19rjxOFu3pGuZgBI6Pk,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Millennials,The Eminem Show,Eminem,Without Me,spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73E-05,0.149,0.868,108.016,4
+Millennials,The Eminem Show,Eminem,Paul Rosenberg - Skit,spotify:track:0EgkVzDidmq4MP57jZFeik,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Millennials,The Eminem Show,Eminem,Sing For The Moment,spotify:track:3CpoeW0cZSDzIRv5z34F87,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Millennials,The Eminem Show,Eminem,Superman,spotify:track:4woTEX1wYOTGDqNXuavlRC,181493,0.438,0.938,6,-5.611,0,0.094,0.00842,1.08E-06,0.806,0.584,160.212,4
+Millennials,The Eminem Show,Eminem,Hailie's Song,spotify:track:6Db8IlZ7YY1pfIjJllejyH,243507,0.461,0.936,9,-5.296,1,0.0678,0.0249,8.63E-06,0.222,0.484,184.184,4
+Millennials,The Eminem Show,Eminem,Steve Berman - Skit,spotify:track:5ZxX55HFfi4aofGTxMp58x,165853,0.643,0.849,2,-5.428,1,0.0526,0.0371,0,0.058,0.903,162.152,4
+Millennials,The Eminem Show,Eminem,When The Music Stops,spotify:track:73qINA7ccO03wxD8nsJalr,286147,0.547,0.769,2,-7.953,1,0.0297,0.014,6.3E-06,0.123,0.407,93.154,4
+Millennials,The Eminem Show,Eminem,Say What You Say,spotify:track:4EQkcrSLF3QdlwNca7sMXY,220027,0.487,0.898,5,-4.436,1,0.038,0.00305,0,0.26,0.597,135.331,4
+Millennials,The Eminem Show,Eminem,'Till I Collapse,spotify:track:4xkOaSrkexMciUUogZKVTS,284373,0.465,0.517,4,-6.189,1,0.0284,0.00854,0.0403,0.209,0.137,136.176,3
+Millennials,The Eminem Show,Eminem,My Dad's Gone Crazy,spotify:track:3F14hbIqy1JKKLTb1mzdYV,273200,0.494,0.884,1,-5.541,1,0.0455,0.000244,0,0.143,0.265,140.314,4
+Millennials,The Eminem Show,Eminem,Curtains Close,spotify:track:51LeDAMy6nWqKdjVo7jK4j,261933,0.65,0.641,10,-7.223,1,0.0347,0.0808,0.00397,0.408,0.387,118.229,4
+Millennials,Backstreet Boys,Backstreet Boys,We've Got It Goin' On - Radio Edit,spotify:track:2rtDTRFjBoqyj2rgi5mOAF,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,Backstreet Boys,Backstreet Boys,Quit Playing Games (With My Heart),spotify:track:1nRwyxNsqCLeA17qR8Nfxx,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,Backstreet Boys,Backstreet Boys,As Long as You Love Me,spotify:track:00WvmRXTkPBZNhhRK3xfdy,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,Backstreet Boys,Backstreet Boys,Everybody (Backstreet's Back) - Extended Version,spotify:track:5WTxbyWTpoqhdxEN2szOnl,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,Backstreet Boys,Backstreet Boys,All I Have to Give,spotify:track:3hlhefxgyp4MDnN6C2dQ5H,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,Backstreet Boys,Backstreet Boys,Anywhere for You,spotify:track:05sp2EySV6DXsKLeBnjaK0,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,Backstreet Boys,Backstreet Boys,Hey Mr. DJ (Keep Playin' This Song),spotify:track:78U7NSrgfot4Ikkg6hHxpo,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Millennials,Backstreet Boys,Backstreet Boys,I'll Never Break Your Heart,spotify:track:4lq4yY0y3XqDQZsx03ITaH,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74E-06,0.379,0.674,93.993,4
+Millennials,Backstreet Boys,Backstreet Boys,Darlin',spotify:track:1xiZcrzUUtdy7kr2zp9zsu,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Millennials,Backstreet Boys,Backstreet Boys,Get Down (You're the One for Me) - LP Edit No Rap,spotify:track:1btqbebzIS2IK0QkRUpShJ,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73E-05,0.149,0.868,108.016,4
+Millennials,Backstreet Boys,Backstreet Boys,Set Adrift on Memory Bliss,spotify:track:2OxN6c91oihUezz1AAE7GX,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Millennials,Backstreet Boys,Backstreet Boys,If You Want to Be a Good Girl (Get Yourself a Bad Boy),spotify:track:4PRlfsuWbWfVvU2RMZKp1R,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Millennials,From Under The Cork Tree,Fall Out Boy,Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued,spotify:track:73A0DxzMGDhVGsvHQSaaBq,211160,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77E-05,0.355,0.894,95.053,4
+Millennials,From Under The Cork Tree,Fall Out Boy,Of All The Gin Joints In All The World,spotify:track:4304kbwhzhb8A3n6wl27Kg,203000,0.707,0.923,11,-3.957,1,0.0521,0.128,0.000437,0.273,0.842,108.049,4
+Millennials,From Under The Cork Tree,Fall Out Boy,Dance Dance,spotify:track:0a7BloCiNzLDD9qSQHh5m7,223533,0.808,0.761,10,-5.614,0,0.0512,0.23,0,0.674,0.92,110.965,4
+Millennials,From Under The Cork Tree,Fall Out Boy,Sugar We're Goin Down,spotify:track:2TfSHkHiFO4gRztVIkggkE,263453,0.905,0.657,11,-4.901,1,0.0376,0.0827,3.17E-05,0.173,0.659,110.001,4
+Millennials,From Under The Cork Tree,Fall Out Boy,Nobody Puts Baby In The Corner,spotify:track:6HJzCcSMggn7Ultxs48dAe,230933,0.632,0.756,4,-6.567,1,0.0417,0.159,0,0.273,0.713,138.96,4
+Millennials,From Under The Cork Tree,Fall Out Boy,I've Got A Dark Alley And A Bad Idea That Says You Should Shut Your Mouth (Summer Song),spotify:track:3DASPeFJXSIycNpbROhrAC,216707,0.847,0.801,9,-3.838,1,0.0564,0.0876,0.000204,0.766,0.841,93.189,4
+Millennials,From Under The Cork Tree,Fall Out Boy,7 Minutes In Heaven (Atavan Halen),spotify:track:2erNwv0Yti7uirpIU8wbvv,206227,0.765,0.791,8,-5.707,1,0.0317,0.262,0.000154,0.0669,0.966,95.026,4
+Millennials,From Under The Cork Tree,Fall Out Boy,Sophomore Slump Or Comeback Of The Year,spotify:track:1iir1dMidSGRzbPMCCEtfX,203280,0.732,0.888,7,-2.415,1,0.0792,0.0702,2.74E-06,0.379,0.674,93.993,4
+Millennials,From Under The Cork Tree,Fall Out Boy,Champagne For My Real Friends Real Pain For My Sham Friends,spotify:track:78A2FZKzGtkaIIlov5te9S,279387,0.636,0.489,9,-8.098,1,0.0263,0.337,0,0.291,0.297,125.616,4
+Millennials,From Under The Cork Tree,Fall Out Boy,I Slept With Someone In Fall Out Boy And All I Got Was This Stupid Song Written About Me,spotify:track:79oQb66jALYYKX1hn4qs4p,197187,0.81,0.924,0,-4.02,0,0.0356,0.119,8.73E-05,0.149,0.868,108.016,4
+Millennials,From Under The Cork Tree,Fall Out Boy,A Little Less Sixteen Candles A Little More 'Touch Me',spotify:track:4pmU8AtVu9qU40Xd9zjEfA,269773,0.693,0.625,7,-7.147,1,0.0431,0.0553,0,0.659,0.439,86.039,4
+Millennials,From Under The Cork Tree,Fall Out Boy,Get Busy Living Or Get Busy Dying (Do Your Part To Save The Scene And Stop Going To Shows),spotify:track:4903HFfvLIQ8ujvQ0ARNGI,166653,0.498,0.155,3,-14.282,1,0.0341,0.811,0,0.166,0.28,127.57,4
+Millennials,From Under The Cork Tree,Fall Out Boy,XO,spotify:track:4u2JQ1rzBirJVn6Ka2aQ5l,181493,0.438,0.938,6,-5.611,0,0.094,0.00842,1.08E-06,0.806,0.584,160.212,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Dark Fantasy,spotify:track:7yNK27ZTpHew0c55VvIJgm,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Gorgeous,spotify:track:23SZWX2IaDnxmhFsSLvkG2,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,POWER,spotify:track:2gZUPNdnz5Y45eiGxpHGSc,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,All Of The Lights (Interlude),spotify:track:4D6TpthzUVNTjWQqfBW5Kb,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,All Of The Lights,spotify:track:22L7bfCiAkJo5xGSQgmiIO,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Monster,spotify:track:1ZHYJ2Wwgxes4m8Ba88PeK,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,So Appalled,spotify:track:6K07Ahf6V7CAQn0ikrOztl,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Devil In A New Dress,spotify:track:1UGD3lW3tDmgZfAVDh6w7r,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Runaway,spotify:track:3DK6m7It6Pw857FcQftMds,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Hell Of A Life,spotify:track:3rCNmRonlHN1TXQLcG3dSk,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Blame Game,spotify:track:4EndPA8b6FDWYp1RgsnLEB,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Lost In The World,spotify:track:2Im64pIz6m0EJKdUe6eZ8r,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Generation Z,My Beautiful Dark Twisted Fantasy,Kanye West,Who Will Survive In America,spotify:track:4e5IPJxSGVWPsaxQzdRseN,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Generation Z,Lemonade,Beyoncé,Pray You Catch Me,spotify:track:7rLDARtJALM7QdiJDMXW7m,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,Lemonade,Beyoncé,Hold Up,spotify:track:0rzNMzZsubFcXSEh7dnem7,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,Lemonade,Beyoncé,Don't Hurt Yourself (feat. Jack White),spotify:track:78eouBKVRyhbSzJwChr6QM,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,Lemonade,Beyoncé,Sorry,spotify:track:0lnIJmgcUpEpe4AZACjayW,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,Lemonade,Beyoncé,6 Inch (feat. The Weeknd),spotify:track:0pxNyJJiL2zZZ5GgJ4JhsQ,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,Lemonade,Beyoncé,Daddy Lessons,spotify:track:71OvX5NNLrmz7rpq1ANTQn,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,Lemonade,Beyoncé,Love Drought,spotify:track:2RQAG0wQt35UzAPEyVJFWN,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,Lemonade,Beyoncé,Sandcastles,spotify:track:2FNPJWVdGxYhWaotd6rULS,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,Lemonade,Beyoncé,Forward (feat. James Blake),spotify:track:2bOWJIYSbhwg2NMQq1QMYH,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,Lemonade,Beyoncé,Freedom (feat. Kendrick Lamar),spotify:track:7aBxcRw77817BrkdPChAGY,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,Lemonade,Beyoncé,All Night,spotify:track:7oAuqs6akGnPU3Tb00ZmyM,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,Lemonade,Beyoncé,Formation,spotify:track:6g0Orsxv6glTJCt4cHsRsQ,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Generation Z,Lemonade,Beyoncé,Sorry - Original Demo,spotify:track:6eR1N0EBHiDkGDzegX99d3,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,Wesley's Theory,spotify:track:7Ks4VCY1wFebnOdJrM13t6,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,For Free? - Interlude,spotify:track:75izAeHlGuOgA865CFDyIv,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,King Kunta,spotify:track:0N3W5peJUQtI4eyR6GJT5O,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,Institutionalized,spotify:track:4oFtLSgHyZPNYDCcANhTnO,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,These Walls,spotify:track:7uWVT3UkCAZyANvv0bdyQn,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,u,spotify:track:1bxEpNR75Hq3T2oF9AZjt8,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,Alright,spotify:track:3iVcZ5G6tvkXZkZKlMpIUs,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,For Sale? - Interlude,spotify:track:7unx2Rvsq8D0RfOLRXclTA,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,Momma,spotify:track:0CjJqkWOpIUXdem5hUcxAk,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,Hood Politics,spotify:track:2UOYzhusMTypF7oAQwksCj,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,How Much A Dollar Cost,spotify:track:4tQcyj5488alHT1ZgFduzn,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,Complexion (A Zulu Love),spotify:track:72hFOhhhnOJZnnp6uVOgPn,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,The Blacker The Berry,spotify:track:5Mtt6tZSZA9cXTHGSGpyh0,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,You Ain't Gotta Lie (Momma Said),spotify:track:7A3ETuOrieyx9KSF0sn0Zf,195987,0.25,0.215,8,-13.676,0,0.037,0.632,0.0717,0.401,0.0746,174.824,3
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,i,spotify:track:3ODXRUPL44f04cCacwiCLC,221093,0.524,0.397,0,-11.936,1,0.405,0.745,0,0.521,0.552,80.744,4
+Generation Z,To Pimp A Butterfly,Kendrick Lamar,Mortal Man,spotify:track:1WT11QmhZutciEv1NsHt1R,233667,0.614,0.686,9,-6.483,0,0.21,0.0105,1.36E-06,0.184,0.645,136.537,4
+Generation Z,Red,Taylor Swift,Rockstar Made,spotify:track:3cWmqvMwVQKDigWLSZ3w9h,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,Red,Taylor Swift,Go2DaMoon (feat. Kanye West),spotify:track:0F13K9dwYH2zpTWiR8d628,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,Red,Taylor Swift,Stop Breathing,spotify:track:2lLG56qpLP3UbcLuzMvkWX,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,Red,Taylor Swift,Beno!,spotify:track:4CYTQpr2jc4uBScYvpEK2w,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,Red,Taylor Swift,JumpOutTheHouse,spotify:track:0cgD36xPIJBdKUNJRHYDgP,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,Red,Taylor Swift,M3tamorphosis (feat. Kid Cudi),spotify:track:7zLMYtNJcabv4h4wBnjNQI,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,Red,Taylor Swift,Slay3r,spotify:track:1eMNW1HQjF1dbb4GtnmpaX,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,Red,Taylor Swift,No Sl33p,spotify:track:6i6whmV36EJmxs5zFahMrb,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,Red,Taylor Swift,New Tank,spotify:track:4txKMpsSfZRV6durPuHVq0,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,Red,Taylor Swift,Teen X (feat. Future),spotify:track:5uYqmEN6TAAE8ss8YmprNV,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,Red,Taylor Swift,Meh,spotify:track:15JRvf02KKGHKgC31jrpuh,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,Red,Taylor Swift,Vamp Anthem,spotify:track:4CzhtKifG867Lu5DNQVBSA,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Generation Z,Red,Taylor Swift,New N3on,spotify:track:7ejepEh5DJ79YI6owGRfkk,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Generation Z,Red,Taylor Swift,Control,spotify:track:78YTl0P96kBCBXUSzKoqAm,195987,0.25,0.215,8,-13.676,0,0.037,0.632,0.0717,0.401,0.0746,174.824,3
+Generation Z,Red,Taylor Swift,Punk Monk,spotify:track:5fSZXFOZfPVW9gvnnG4ZVW,221093,0.524,0.397,0,-11.936,1,0.405,0.745,0,0.521,0.552,80.744,4
+Generation Z,Red,Taylor Swift,On That Time,spotify:track:3dl8bSF08LQfCf4T6CCksf,233667,0.614,0.686,9,-6.483,0,0.21,0.0105,1.36E-06,0.184,0.645,136.537,4
+Generation Z,Red,Taylor Swift,King Vamp,spotify:track:2iqHcRoOfLl1fXCf1bGO0J,232560,0.775,0.598,2,-7.274,1,0.0535,0.00175,4.44E-06,0.253,0.356,129.988,4
+Generation Z,Red,Taylor Swift,Place,spotify:track:1Bg2CNZw6S4e9cGWPmi0uI,260440,0.516,0.637,6,-8.832,1,0.0632,0.0433,3.89E-06,0.11,0.324,138.011,4
+Generation Z,Red,Taylor Swift,Sky,spotify:track:29TPjc8wxfz4XMn21O7VsZ,287987,0.643,0.503,7,-8.37,1,0.216,0.273,0,0.349,0.598,90.886,4
+Generation Z,Red,Taylor Swift,Over,spotify:track:08dz3ygXyFur6bL7Au8u8J,237440,0.455,0.535,9,-10.602,0,0.0426,0.0209,0.64,0.126,0.216,157.01,4
+Generation Z,Red,Taylor Swift,ILoveUIHateU,spotify:track:1BpKJw4RZxaFB88NE5uxXf,182720,0.33,0.357,10,-10.171,1,0.0348,0.866,1.76E-05,0.19,0.101,84.119,3
+Generation Z,Red,Taylor Swift,Die4Guy,spotify:track:7rbalRuIx7sIXFHYTphE0n,79200,0.387,0.133,7,-15.633,0,0.0474,0.947,0.0591,0.107,0.0498,124.397,4
+Generation Z,Red,Taylor Swift,Not PLaying,spotify:track:03rcC8SVxCa9UdY5qgkITe,289760,0.437,0.803,2,-6.412,1,0.305,0.0376,0,0.683,0.406,84.378,4
+Generation Z,Red,Taylor Swift,F33l Lik3 Dyin,spotify:track:1xVVYE1ahLotRpppJViVzs,322000,0.574,0.573,11,-7.079,1,0.085,0.392,2.16E-05,0.0933,0.626,136.304,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,!!!!!!!,spotify:track:0rQtoQXQfwpDW0c7Fw1NeM,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,bad guy,spotify:track:2Fxmhks0bxGSBdJ92vM42m,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,xanny,spotify:track:4QIo4oxwzzafcBWkKjDpXY,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,you should see me in a crown,spotify:track:3XF5xLJHOQQRbWya6hBp7d,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,all the good girls go to hell,spotify:track:6IRdLKIyS4p7XNiP8r6rsx,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,wish you were gay,spotify:track:3Fj47GNK2kUF0uaEDgXLaD,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,when the party's over,spotify:track:43zdsphuZLzwA9k4DJhU0I,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,8,spotify:track:6X29iaaazwho3ab7GNue5r,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,my strange addiction,spotify:track:3Tc57t9l2O8FwQZtQOvPXK,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,bury a friend,spotify:track:4SSnFejRGlZikf02HLewEF,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,ilomilo,spotify:track:7qEKqBCD2vE5vIBsrUitpD,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,listen before i go,spotify:track:0tMSssfxAL2oV8Vri0mFHE,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,i love you,spotify:track:6CcJMwBtXByIz4zQLzFkKc,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Generation Z,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,goodbye,spotify:track:3LgWsmilsrWXiPYQFRD0T7,195987,0.25,0.215,8,-13.676,0,0.037,0.632,0.0717,0.401,0.0746,174.824,3
+Generation Z,Scorpion,Drake,Survival,spotify:track:2yg9UN4eo5eMVJ7OB4RWj3,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,Scorpion,Drake,Nonstop,spotify:track:0TlLq3lA83rQOYtrqBqSct,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,Scorpion,Drake,Elevate,spotify:track:3szf2z1Cy1QMrtHrbn8rz9,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,Scorpion,Drake,Emotionless,spotify:track:5Psnhdkyanjpgc2P8A5TSM,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,Scorpion,Drake,God's Plan,spotify:track:6DCZcSspjsKoFjzjrWoCdn,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,Scorpion,Drake,I'm Upset,spotify:track:3qN5qMTKyEEmiTZD38BNTT,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,Scorpion,Drake,8 Out Of 10,spotify:track:0zqy3ss4CwD6u4QPksS0nI,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,Scorpion,Drake,Mob Ties,spotify:track:7rC5Pl8rQSX4myONQHYPBK,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,Scorpion,Drake,Can’t Take A Joke,spotify:track:1dUHF4RyMmMTveJ0Rby6Xm,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,Scorpion,Drake,Sandra’s Rose,spotify:track:6cblRiEGDRNZgowcm951R3,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,Scorpion,Drake,Talk Up (feat. Jay-Z),spotify:track:4ksuI04WMvUnJbHQjgs3L5,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,Scorpion,Drake,Is There More,spotify:track:1Tnw0ItH1Macok8gblnPPd,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Generation Z,Scorpion,Drake,Peak,spotify:track:11L064movtyopGdLiX4sVg,98200,0.677,0.842,1,-6.111,1,0.36,0.228,0.000684,0.856,0.595,116.166,4
+Generation Z,Scorpion,Drake,Summer Games,spotify:track:4HG1YiGBseVKzjyKcmAJen,195987,0.25,0.215,8,-13.676,0,0.037,0.632,0.0717,0.401,0.0746,174.824,3
+Generation Z,Scorpion,Drake,Jaded,spotify:track:4c2xt1trwYZpMqPWY35Xi9,221093,0.524,0.397,0,-11.936,1,0.405,0.745,0,0.521,0.552,80.744,4
+Generation Z,Scorpion,Drake,Nice For What,spotify:track:3CA9pLiwRIGtUBiMjbZmRw,233667,0.614,0.686,9,-6.483,0,0.21,0.0105,1.36E-06,0.184,0.645,136.537,4
+Generation Z,Scorpion,Drake,Finesse,spotify:track:2WP8G2pdddDmnh1xbfKBOI,232560,0.775,0.598,2,-7.274,1,0.0535,0.00175,4.44E-06,0.253,0.356,129.988,4
+Generation Z,Scorpion,Drake,Ratchet Happy Birthday,spotify:track:4SUwJA3eUVNHExxMPEUhQe,260440,0.516,0.637,6,-8.832,1,0.0632,0.0433,3.89E-06,0.11,0.324,138.011,4
+Generation Z,Scorpion,Drake,That’s How You Feel,spotify:track:41a7dZcq30Ss5kPMayWRV0,287987,0.643,0.503,7,-8.37,1,0.216,0.273,0,0.349,0.598,90.886,4
+Generation Z,Scorpion,Drake,Blue Tint,spotify:track:4n1bdaKwynQndm47x5HqWX,237440,0.455,0.535,9,-10.602,0,0.0426,0.0209,0.64,0.126,0.216,157.01,4
+Generation Z,Scorpion,Drake,In My Feelings,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,182720,0.33,0.357,10,-10.171,1,0.0348,0.866,1.76E-05,0.19,0.101,84.119,3
+Generation Z,Scorpion,Drake,Don’t Matter To Me (with Michael Jackson),spotify:track:6G8kHiVZ1jW7vHMPVRNZU0,79200,0.387,0.133,7,-15.633,0,0.0474,0.947,0.0591,0.107,0.0498,124.397,4
+Generation Z,Scorpion,Drake,After Dark (feat. Static Major & Ty Dolla $ign),spotify:track:3mvYQKm8h6M5K5h0nVPY9S,289760,0.437,0.803,2,-6.412,1,0.305,0.0376,0,0.683,0.406,84.378,4
+Generation Z,Scorpion,Drake,Final Fantasy,spotify:track:44Du2IM1bGY7dicmLfXbUs,322000,0.574,0.573,11,-7.079,1,0.085,0.392,2.16E-05,0.0933,0.626,136.304,4
+Generation Z,Scorpion,Drake,March 14,spotify:track:09lmraDvzBT3pUQ2rUtJzK,206080,0.896,0.621,5,-6.857,0,0.237,0.00532,0,0.196,0.818,121.966,4
+Generation Z,Melodrama,Lorde,Green Light,spotify:track:6ie2Bw3xLj2JcGowOlcMhb,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,Melodrama,Lorde,Sober,spotify:track:7eElVgPcxDqmgGrSwVFI74,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,Melodrama,Lorde,Homemade Dynamite,spotify:track:02oAUzv4M0ItuTDy2RT3IT,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,Melodrama,Lorde,The Louvre,spotify:track:5q4BpnMrYEFzLO0dYODj6J,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,Melodrama,Lorde,Liability,spotify:track:6Kkt27YmFyIFrcX3QXFi2o,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,Melodrama,Lorde,Hard Feelings/Loveless,spotify:track:1Dp7JGFNjvg8Nk0CtMCcnr,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,Melodrama,Lorde,Sober II (Melodrama),spotify:track:54ucfuN596MU25jQD3KjCL,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,Melodrama,Lorde,Writer In The Dark,spotify:track:193Dm5SqYy3hTSbuzxbwKc,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,Melodrama,Lorde,Supercut,spotify:track:6K8VQ84MqhsoakN5MjrnVR,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,Melodrama,Lorde,Liability (Reprise),spotify:track:6lFDB0BFDRV58qaQDX85jV,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,Melodrama,Lorde,Perfect Places,spotify:track:7ARveOiD31w2Nq0n5FsSf8,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,21,Adele,Rolling in the Deep,spotify:track:1c8gk2PeTE04A1pIDH9YMk,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,21,Adele,Rumour Has It,spotify:track:2A73XBDBQgmdXO8VsXPWIs,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,21,Adele,Turning Tables,spotify:track:4oy98QoABnGKpvapDkI525,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,21,Adele,Don't You Remember,spotify:track:4RyjMERDcCJHTkFpXzgUw4,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,21,Adele,Set Fire to the Rain,spotify:track:73CMRj62VK8nUS4ezD2wvi,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,21,Adele,He Won't Go,spotify:track:3uVsdnIglL7aTjm8X08J0M,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,21,Adele,Take It All,spotify:track:08YJEcxGtYXwCGqXMZDiyQ,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,21,Adele,I'll Be Waiting,spotify:track:5AKAyMEL5LqCkafztPdBSI,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,21,Adele,One And Only,spotify:track:43dcCpx19I0R4zLr4KH1UC,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,21,Adele,Lovesong,spotify:track:7nm6DlSzzJTH1rk2e6EgJz,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,21,Adele,Someone Like You,spotify:track:1zwMYTA5nlNjZxYrvBB2pV,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,thank u next,Ariana Grande,imagine,spotify:track:39LmTF9RgyakzSYX8txrow,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,thank u next,Ariana Grande,needy,spotify:track:1TEL6MlSSVLSdhOSddidlJ,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,thank u next,Ariana Grande,NASA,spotify:track:4uTvPEr01pjTbZgl7jcKBD,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,thank u next,Ariana Grande,bloodline,spotify:track:2hloaUoRonYssMuqLCBLTX,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,thank u next,Ariana Grande,fake smile,spotify:track:3wFLWP0FcIqHK1wb1CPthQ,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,thank u next,Ariana Grande,bad idea,spotify:track:5Il6Oe7lr5XM7A0cWbVQtr,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,thank u next,Ariana Grande,make up,spotify:track:27356GVuMPFWiJSZCragoM,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,thank u next,Ariana Grande,ghostin,spotify:track:2vdBo4ALPYbHRUPKgtE5iC,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,thank u next,Ariana Grande,in my head,spotify:track:4T652DlATVHe0jdLKaN3Bw,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,thank u next,Ariana Grande,7 rings,spotify:track:6ocbgoVGwYJhOv1GgI9NsF,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
+Generation Z,thank u next,Ariana Grande,thank u next,spotify:track:3e9HZxeyfWwjeyPAMmWSSQ,469867,0.419,0.581,10,-5.964,0,0.0688,0.306,6.3E-05,0.11,0.636,80.305,1
+Generation Z,thank u next,Ariana Grande,break up with your girlfriend i'm bored,spotify:track:4kV4N9D1iKVxx1KLvtTpjS,256587,0.608,0.746,5,-5.249,0,0.184,0.115,0.0087,0.427,0.277,117.072,4
+Generation Z,My World 2.0,Justin Bieber,Baby,spotify:track:6epn3r7S14KUqlReYr77hA,280787,0.599,0.587,5,-5.919,1,0.0423,0.274,0,0.167,0.373,87.998,4
+Generation Z,My World 2.0,Justin Bieber,Somebody To Love,spotify:track:3rLIv187BhjyweFe89SgLn,357653,0.598,0.713,6,-3.625,0,0.0326,0.0207,0.000175,0.431,0.118,91.964,4
+Generation Z,My World 2.0,Justin Bieber,Stuck In The Moment,spotify:track:1DyV9obL0pPibOjW5ufg15,292093,0.542,0.914,0,-4.747,0,0.113,0.0161,0,0.744,0.576,153.993,4
+Generation Z,My World 2.0,Justin Bieber,U Smile,spotify:track:6Xw2FLih8m5ItDbyP992HH,62253,0.296,0.0792,10,-16.569,0,0.0389,0.902,0.591,0.128,0.496,110.95,3
+Generation Z,My World 2.0,Justin Bieber,Runaway Love,spotify:track:1xgN9KBVVoTNygpYjpXnvH,299613,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71E-05,0.176,0.221,142.113,4
+Generation Z,My World 2.0,Justin Bieber,Never Let You Go,spotify:track:01BlGnXpLuC0BjgUxVYZFb,378893,0.628,0.692,2,-5.64,1,0.202,0.00244,0.0129,0.668,0.0963,124.887,5
+Generation Z,My World 2.0,Justin Bieber,Overboard,spotify:track:1tzkJMX3gNjnpcHdLD0pM3,397667,0.64,0.754,1,-5.873,0,0.283,0.255,0,0.63,0.584,87.15,4
+Generation Z,My World 2.0,Justin Bieber,Eenie Meenie,spotify:track:75vEuMA15pb8JmgrGugHEs,351947,0.435,0.76,8,-4.935,0,0.0721,0.0175,0,0.158,0.206,80.082,4
+Generation Z,My World 2.0,Justin Bieber,Up,spotify:track:7wj1Lb5ggzMWJ9TqZJ2dwo,547733,0.374,0.568,1,-3.825,0,0.109,0.219,0.00219,0.513,0.111,84.733,4
+Generation Z,My World 2.0,Justin Bieber,That Should Be Me,spotify:track:0aPZbnkMoWJaJ5CNVLCj8S,327787,0.449,0.813,8,-5.478,1,0.129,0.00142,0.000172,0.106,0.452,177.962,4
